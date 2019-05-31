@@ -1,0 +1,492 @@
+ [
+    {
+      "radio_id": 131,
+      "radio_name": "Radio  Africa7",
+      "radio_image": "1228-2019-05-17.jpeg",
+      "radio_url": "http://206.190.135.28:8043/stream",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 130,
+      "radio_name": "Bambey  Fm  98.8",
+      "radio_image": "0592-2019-05-02.jpeg",
+      "radio_url": "http://206.190.135.28:8008/stream",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 129,
+      "radio_name": "NRJ Hit Music",
+      "radio_image": "3927-2019-04-15.png",
+      "radio_url": "http://185.52.127.168/fr/30001/mp3_128.mp3?origine=radio.net",
+      "category_name": "International"
+    },
+    {
+      "radio_id": 128,
+      "radio_name": "RMC",
+      "radio_image": "8098-2019-04-15.jpg",
+      "radio_url": "https://chai5she.cdn.dvmr.fr/rmcinfo",
+      "category_name": "International"
+    },
+    {
+      "radio_id": 127,
+      "radio_name": "Retro FM Musique Sénégalaise",
+      "radio_image": "4607-2019-04-02.jpg",
+      "radio_url": "http://206.190.135.28:8158/stream",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 126,
+      "radio_name": "Retro FM Musique Sénégalaise",
+      "radio_image": "1123-2019-04-02.jpg",
+      "radio_url": "http://206.190.135.28:8158/stream",
+      "category_name": "Rétro FM"
+    },
+    {
+      "radio_id": 125,
+      "radio_name": "Radio Sénégal International",
+      "radio_image": "1612-2019-03-27.png",
+      "radio_url": "http://206.190.135.28:8033/stream",
+      "category_name": "RSI"
+    },
+    {
+      "radio_id": 124,
+      "radio_name": "DAF FM Dalifort Musique",
+      "radio_image": "6825-2019-03-22.jpg",
+      "radio_url": "http://206.190.135.28:8188/stream",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 123,
+      "radio_name": "Baol  FM Diourbel",
+      "radio_image": "2290-2019-03-17.jpg",
+      "radio_url": "http://206.190.135.28:8013/stream\t",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 122,
+      "radio_name": "Benno fm Touba\t",
+      "radio_image": "7925-2019-03-13.jpeg",
+      "radio_url": "http://206.190.135.28:8026/stream\t",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 121,
+      "radio_name": "Moubarak FM Diourbel",
+      "radio_image": "5835-2019-03-13.jpeg",
+      "radio_url": "http://206.190.135.28:8027/stream",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 120,
+      "radio_name": "ZIK FM Dakar 89.7",
+      "radio_image": "8498-2019-03-13.jpg",
+      "radio_url": "http://206.190.135.28:8042/stream\t",
+      "category_name": "Zik FM"
+    },
+    {
+      "radio_id": 119,
+      "radio_name": "Nasroulahi fm Kebemer",
+      "radio_image": "8322-2019-03-13.png",
+      "radio_url": "http://206.190.135.28:8034/stream",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 118,
+      "radio_name": "Kebs FM Kebemer",
+      "radio_image": "3327-2019-03-12.jpg",
+      "radio_url": "http://206.190.135.28:8007/stream",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 117,
+      "radio_name": "Ucab FM Touba",
+      "radio_image": "8324-2019-03-12.jpg",
+      "radio_url": "http://206.190.135.28:8035/stream",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 116,
+      "radio_name": "iRADIO",
+      "radio_image": "8361-2019-03-12.png",
+      "radio_url": "http://stream.zenolive.com/0ezme9svr1duv",
+      "category_name": "iRADIO"
+    },
+    {
+      "radio_id": 115,
+      "radio_name": "Baary FM Djoloff",
+      "radio_image": "0066-2019-03-12.jpg",
+      "radio_url": "http://206.190.135.28:8044/stream",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 113,
+      "radio_name": "Porokhane FM",
+      "radio_image": "2568-2018-07-12.png",
+      "radio_url": "http://206.190.135.28:8020/",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 108,
+      "radio_name": "Mradio Musique",
+      "radio_image": "2262-2018-06-16.jpg",
+      "radio_url": "http://37.221.196.27:8022/MRADIO?1529132212586",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 104,
+      "radio_name": "Pulaar Speaking Radio",
+      "radio_image": "6824-2018-06-15.png",
+      "radio_url": "http://50.7.99.155:7251/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 103,
+      "radio_name": "Radio Dakar City",
+      "radio_image": "7128-2018-06-15.jpg",
+      "radio_url": "http://listen.senemultimedia.net/proxy/rdc?mp=/1",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 98,
+      "radio_name": "Touba Zingonia",
+      "radio_image": "1401-2018-05-29.jpg",
+      "radio_url": "http://198.105.216.204:8278/",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 97,
+      "radio_name": "Rire et chansons",
+      "radio_image": "1832-2018-05-23.png",
+      "radio_url": "http://185.52.127.160/fr/30401/mp3_128.mp3?origine=fluxradios",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 96,
+      "radio_name": "Baye Fall",
+      "radio_image": "9624-2018-07-12.png",
+      "radio_url": "http://206.190.135.28:8264/",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 95,
+      "radio_name": "Ahmad Khader Al Tarabulsi",
+      "radio_image": "9839-2018-05-19.jpg",
+      "radio_url": "http://live.mp3quran.net:9924/",
+      "category_name": "Al Quran"
+    },
+    {
+      "radio_id": 94,
+      "radio_name": "Adel Al-Khalbany",
+      "radio_image": "7036-2018-05-19.jpg",
+      "radio_url": "http://live.mp3quran.net:9874/",
+      "category_name": "Al Quran"
+    },
+    {
+      "radio_id": 93,
+      "radio_name": "Ahmad Al-Ajmy",
+      "radio_image": "7310-2018-05-19.jpg",
+      "radio_url": "http://live.mp3quran.net:8008/",
+      "category_name": "Al Quran"
+    },
+    {
+      "radio_id": 92,
+      "radio_name": "Xassida Online",
+      "radio_image": "3928-2018-05-19.jpg",
+      "radio_url": "http://206.190.135.28:8000/\t",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 91,
+      "radio_name": "Lamp Fall Fm",
+      "radio_image": "0396-2018-05-19.jpg",
+      "radio_url": "http://ample-zeno-02.radiojar.com/q631qfx62neuv",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 90,
+      "radio_name": "At Tidjania FM",
+      "radio_image": "3022-2018-05-19.jpg",
+      "radio_url": "http://206.190.135.28:8129/\t",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 88,
+      "radio_name": "Vibe Radio",
+      "radio_image": "8559-2018-05-19.jpg",
+      "radio_url": "http://ic01.cdn.eurozet.pl:8000/vib-sn.mp3\t",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 87,
+      "radio_name": "RFM Dakar 94.0 ",
+      "radio_image": "0149-2018-05-16.jpg",
+      "radio_url": "http://stream.zenolive.com/ymw4tvxhq9duv\t",
+      "category_name": "RFM Dakar"
+    },
+    {
+      "radio_id": 86,
+      "radio_name": "RFM Dakar 2",
+      "radio_image": "0272-2018-05-16.jpg",
+      "radio_url": "http://ample-zeno-09.radiojar.com/kuk0syz5puquv",
+      "category_name": "RFM Dakar"
+    },
+    {
+      "radio_id": 85,
+      "radio_name": "RFI Afrique",
+      "radio_image": "8840-2018-05-16.jpg",
+      "radio_url": "http://live02.rfi.fr/rfiafrique-64.mp3",
+      "category_name": "RFI"
+    },
+    {
+      "radio_id": 84,
+      "radio_name": "Seereer Radio",
+      "radio_image": "2358-2018-05-14.jpg",
+      "radio_url": "http://37.59.47.192:8112/",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 83,
+      "radio_name": "PIKINE DIASPORA",
+      "radio_image": "5508-2018-05-14.jpg",
+      "radio_url": "http://s8.voscast.com:8252/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 81,
+      "radio_name": "Dingiral Fulbe",
+      "radio_image": "7539-2018-05-14.png",
+      "radio_url": "http://s9.voscast.com:8444/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 80,
+      "radio_name": "Radio Aanyam",
+      "radio_image": "1587-2018-05-14.png",
+      "radio_url": "http://s8.voscast.com:9378/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 79,
+      "radio_name": "AlloDakar Radio TamTam",
+      "radio_image": "9946-2018-05-14.png",
+      "radio_url": "http://68.168.101.146:8520/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 78,
+      "radio_name": "Oxy jeunes fm",
+      "radio_image": "6852-2018-05-14.jpg",
+      "radio_url": "http://s9.voscast.com:7994/",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 77,
+      "radio_name": "Alfayda FM 90.1 kaolack",
+      "radio_image": "7833-2018-05-14.jpg",
+      "radio_url": "http://192.99.35.93:6310/",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 76,
+      "radio_name": "Vibe Radio 102.3",
+      "radio_image": "5190-2018-05-14.jpg",
+      "radio_url": "http://ic01.cdn.eurozet.pl:8000/vib-sn.mp3",
+      "category_name": "vibe Radio"
+    },
+    {
+      "radio_id": 75,
+      "radio_name": "TENDOUK Music",
+      "radio_image": "8193-2018-05-14.jpg",
+      "radio_url": "http://178.32.219.72:8002/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 74,
+      "radio_name": "Sunuker musique",
+      "radio_image": "2359-2018-05-14.jpg",
+      "radio_url": "http://radiosunuker221.primcast.com:7148/",
+      "category_name": "Web-radio"
+    },
+    {
+      "radio_id": 71,
+      "radio_name": "radioDANCE",
+      "radio_image": "4569-2018-05-14.jpg",
+      "radio_url": "http://cp11.livecdn.biz/radiodance",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 70,
+      "radio_name": "Dalifort FM",
+      "radio_image": "2053-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8188/",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 69,
+      "radio_name": "Dakar musique",
+      "radio_image": "4963-2018-05-14.jpg",
+      "radio_url": "http://listen.senemultimedia.net:5266/",
+      "category_name": "Musique"
+    },
+    {
+      "radio_id": 68,
+      "radio_name": "XAM SA DINE",
+      "radio_image": "4192-2018-05-14.jpg",
+      "radio_url": "http://s7.voscast.com:7200/",
+      "category_name": "Xam sa diné"
+    },
+    {
+      "radio_id": 67,
+      "radio_name": "Tafsir coran Wolof",
+      "radio_image": "9450-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8164/stream",
+      "category_name": "Xam sa diné"
+    },
+    {
+      "radio_id": 66,
+      "radio_name": "SERIGNE MBAYE SAM",
+      "radio_image": "2663-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8194/stream",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 64,
+      "radio_name": "Oustaz Alioune SALL",
+      "radio_image": "5485-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8218/stream",
+      "category_name": "Xam sa diné"
+    },
+    {
+      "radio_id": 63,
+      "radio_name": "Ndiaréme FM",
+      "radio_image": "8516-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8314/",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 62,
+      "radio_name": "Fayda tidianiya",
+      "radio_image": "6107-2018-05-14.png",
+      "radio_url": "http://listen.senemultimedia.net:5526/",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 61,
+      "radio_name": "Daroul Haliimil Xabiir FM",
+      "radio_image": "7538-2018-05-14.png",
+      "radio_url": "http://206.190.135.28:8270/",
+      "category_name": "Mouridiya"
+    },
+    {
+      "radio_id": 60,
+      "radio_name": "Daaradji online",
+      "radio_image": "8290-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8282/",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 59,
+      "radio_name": "Cheikh Saad El GHAMDI",
+      "radio_image": "5727-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8224/stream",
+      "category_name": "Al Quran"
+    },
+    {
+      "radio_id": 58,
+      "radio_name": "Abderrahman As-Sudais",
+      "radio_image": "9713-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8206/",
+      "category_name": "Al Quran"
+    },
+    {
+      "radio_id": 57,
+      "radio_name": "Anwar",
+      "radio_image": "3399-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8082/",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 56,
+      "radio_name": "ACHABIBA ABBASSIYA",
+      "radio_image": "5503-2018-05-14.jpg",
+      "radio_url": "http://s6.voscast.com:9436/",
+      "category_name": "Tijiania"
+    },
+    {
+      "radio_id": 55,
+      "radio_name": "Carrefour FM",
+      "radio_image": "1875-2018-05-14.jpg",
+      "radio_url": "http://carrefourfm.ice.infomaniak.ch/carrefour.mp3",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 54,
+      "radio_name": "Wadr fm",
+      "radio_image": "3292-2018-05-14.jpg",
+      "radio_url": "http://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 53,
+      "radio_name": "Africa N°1",
+      "radio_image": "3994-2018-05-14.jpg",
+      "radio_url": "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+      "category_name": "communauté"
+    },
+    {
+      "radio_id": 52,
+      "radio_name": "ZIK FM Mbacke",
+      "radio_image": "4840-2019-03-13.jpg",
+      "radio_url": "http://206.190.135.28:8019/stream",
+      "category_name": "Zik FM"
+    },
+    {
+      "radio_id": 51,
+      "radio_name": "Xassida Online",
+      "radio_image": "6764-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8000/",
+      "category_name": "Xassida"
+    },
+    {
+      "radio_id": 50,
+      "radio_name": "Walf FM 99.0",
+      "radio_image": "6900-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8036/stream",
+      "category_name": "Walf FM"
+    },
+    {
+      "radio_id": 48,
+      "radio_name": "Sud FM Dakar 98.5",
+      "radio_image": "9924-2018-05-14.jpg",
+      "radio_url": "http://sudfmsenradio.ice.infomaniak.ch/sudfmsenradio.mp3",
+      "category_name": "Sud FM"
+    },
+    {
+      "radio_id": 47,
+      "radio_name": "RFM Dakar 3",
+      "radio_image": "8495-2018-05-14.jpg",
+      "radio_url": "http://ample-zeno-05.radiojar.com/8b0eacw4vewtv",
+      "category_name": "RFM Dakar"
+    },
+    {
+      "radio_id": 46,
+      "radio_name": "RFI Monde",
+      "radio_image": "8810-2018-05-14.jpg",
+      "radio_url": "http://live02.rfi.fr/rfimonde-64.mp3",
+      "category_name": "RFI"
+    },
+    {
+      "radio_id": 44,
+      "radio_name": "Lamp Fall Fm",
+      "radio_image": "0754-2018-05-14.jpg",
+      "radio_url": "http://ample-zeno-02.radiojar.com/q631qfx62neuv",
+      "category_name": "Lamp Fall"
+    },
+    {
+      "radio_id": 41,
+      "radio_name": "Al Quran",
+      "radio_image": "0681-2018-05-14.jpg",
+      "radio_url": "http://206.190.135.28:8142/",
+      "category_name": "Al Quran"
+    }
+  ]
