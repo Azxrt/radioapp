@@ -3,7 +3,7 @@
 
   var data = {
    "resource": {
-    "version": "31",
+    "version": "1",
 
     "macros": [{
      "function": "__v",
@@ -26,14 +26,14 @@
     }, {
      "function": "__v",
      "vtp_dataLayerVersion": 2,
-     "vtp_setDefaultValue": false,
+     "vtp_setDefaultValue": true,
      "vtp_name": "sdk_version"
     }, {
      "function": "__c",
-     "vtp_value": "UA-87801608-2"
+     "vtp_value": "gtm.js"
     }, {
      "function": "__c",
-     "vtp_value": "GTM-NGGWWNZ"
+     "vtp_value": "gtm.js"
     }, {
      "function": "__v",
      "vtp_dataLayerVersion": 2,
@@ -122,7 +122,7 @@
     "tags": [{
      "function": "__ua",
      "once_per_event": true,
-     "vtp_doubleClick": false,
+     "vtp_doubleClick": true,
      "vtp_setTrackerName": false,
      "vtp_useDebugVersion": false,
      "vtp_useHashAutoLink": false,
@@ -151,7 +151,7 @@
      "function": "__ua",
      "once_per_event": true,
      "vtp_nonInteraction": false,
-     "vtp_doubleClick": false,
+     "vtp_doubleClick": true,
      "vtp_setTrackerName": false,
      "vtp_useDebugVersion": false,
      "vtp_eventValue": ["macro", 7],
@@ -170,7 +170,7 @@
     }, {
      "function": "__ua",
      "once_per_event": true,
-     "vtp_doubleClick": false,
+     "vtp_doubleClick": true,
      "vtp_setTrackerName": false,
      "vtp_useDebugVersion": false,
      "vtp_useHashAutoLink": false,
@@ -178,7 +178,7 @@
      "vtp_decorateFormsAutoLink": false,
      "vtp_enableLinkId": false,
      "vtp_enableEcommerce": false,
-     "vtp_trackingId": "UA-49400243-8",
+     "vtp_trackingId": "gtm.js",
      "vtp_enableUaRlsa": false,
      "vtp_enableUseInternalVersion": false,
      "vtp_enableFirebaseCampaignData": true,
@@ -197,7 +197,7 @@
      "vtp_eventAction": ["macro", 9],
      "vtp_eventLabel": ["macro", 10],
      "vtp_enableEcommerce": false,
-     "vtp_trackingId": "UA-49400243-8",
+     "vtp_trackingId": "gtm.js",
      "vtp_enableUaRlsa": false,
      "vtp_enableUseInternalVersion": false,
      "vtp_enableFirebaseCampaignData": true,
