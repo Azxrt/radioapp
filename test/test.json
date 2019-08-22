@@ -627,5 +627,6 @@
         "logo": "https://static.radio.net/images/broadcasts/a4/3b/16093/1/c175.png",
         "name": "OpenFM - Klub 90",
         "url": "http://stream.open.fm/8"
+        "meta": "meta"		
     }
 }
