@@ -1,4 +1,4 @@
-{
+[
     {
         "name": "EDM",
         "url": "http://109.239.129.42:8000/silver.aac",
@@ -41,4 +41,4 @@
         "logo": "img/nestandart.jpg",
         "meta": "meta"
     }
-}
+]
