@@ -1,0 +1,386 @@
+{
+    "silver": {
+        "name": "Серебряный Дождь",
+        "url": "http://109.239.129.42:8000/silver.aac",
+        "logo": "img/silver.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/silver.aac"
+    },
+    "best": {
+        "name": "Best FM",
+        "url": "http://109.239.129.42:8000/best.aac",
+        "logo": "img/best.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/best.aac"
+    },
+    "capital": {
+        "name": "Capital FM",
+        "url": "http://109.239.129.42:8000/capital.aac",
+        "logo": "img/capital.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/capital.aac"
+    },
+    "comedy": {
+        "name": "Comedy Radio",
+        "url": "http://109.239.129.42:8000/comedy.aac",
+        "logo": "img/comedy.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/comedy.aac"
+    },
+    "dfm": {
+        "name": "DFM",
+        "url": "http://109.239.129.42:8000/dfm.aac",
+        "logo": "img/dfm.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/dfm.aac"
+    },
+    "jazz": {
+        "name": "Jazz FM",
+        "url": "http://109.239.129.42:8000/jazz.aac",
+        "logo": "img/jazz.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/jazz.aac"
+    },
+    "like": {
+        "name": "Like FM",
+        "url": "http://109.239.129.42:8000/like.aac",
+        "logo": "img/like.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/like.aac"
+    },
+    "maximum": {
+        "name": "Maximum",
+        "url": "http://109.239.129.42:8000/maximum.aac",
+        "logo": "img/maximum.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/maximum.aac"
+    },
+    "mcarlospb": {
+        "name": "Monte Carlo SPb",
+        "url": "http://109.239.129.42:8000/mcarlospb.aac",
+        "logo": "img/mcarlospb.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/mcarlospb.aac"
+    },
+    "nrj": {
+        "name": "NRJ",
+        "url": "http://109.239.129.42:8000/nrj.aac",
+        "logo": "img/nrj.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/nrj.aac"
+    },
+    "relax": {
+        "name": "Relax FM",
+        "url": "http://109.239.129.42:8000/relax.aac",
+        "logo": "img/relax.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/relax.aac"
+    },
+    "rock": {
+        "name": "Rock FM",
+        "url": "http://109.239.129.42:8000/rock.aac",
+        "logo": "img/rock.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rock.aac"
+    },
+    "avtoradio": {
+        "name": "Авторадио",
+        "url": "http://109.239.129.42:8000/avtoradio.aac",
+        "logo": "img/avtoradio.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/avtoradio.aac"
+    },
+    "bfm": {
+        "name": "Бизнес FM",
+        "url": "http://109.239.129.42:8000/bfm.aac",
+        "logo": "img/bfm.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/bfm.aac"
+    },
+    "vesti": {
+        "name": "Вести FM",
+        "url": "http://109.239.129.42:8000/vesti.aac",
+        "logo": "img/vesti.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/vesti.aac"
+    },
+    "gmoskva": {
+        "name": "Говорит Москва",
+        "url": "http://109.239.129.42:8000/gmoskva.aac",
+        "logo": "img/gmoskva.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/gmoskva.aac"
+    },
+    "detskoe": {
+        "name": "Детское Радио",
+        "url": "http://109.239.129.42:8000/detskoe.aac",
+        "logo": "img/detskoe.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/detskoe.aac"
+    },
+    "dorozhnoe": {
+        "name": "Дорожное радио",
+        "url": "http://109.239.129.42:9000/dorozhnoe.aac",
+        "logo": "img/dorozhnoe.jpg",
+        "url_xtra_low": "http://109.239.129.44:9000/dorozhnoe.aac"
+    },
+    "europaplus": {
+        "name": "Европа Плюс",
+        "url": "http://109.239.129.42:9000/europaplus.aac",
+        "logo": "img/europaplus.jpg",
+        "url_xtra_low": "http://109.239.129.44:9000/europaplus.aac"
+    },
+    "karnaval": {
+        "name": "Карнавал FM",
+        "url": "http://109.239.129.42:8000/karnaval.aac",
+        "logo": "img/karnaval.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/karnaval.aac"
+    },
+    "keks": {
+        "name": "Кекс FM",
+        "url": "http://109.239.129.42:8000/keks.aac",
+        "logo": "img/keks.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/keks.aac"
+    },
+    "kommersant": {
+        "name": "Коммерсантъ FM",
+        "url": "http://109.239.129.42:8000/kommersant.aac",
+        "logo": "img/kommersant.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/kommersant.aac"
+    },
+    "kpravda": {
+        "name": "Комсомольская Правда",
+        "url": "http://109.239.129.42:8000/kpravda.aac",
+        "logo": "img/kpravda.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/kpravda.aac"
+    },
+    "megapolis": {
+        "name": "Мегаполис FM",
+        "url": "http://109.239.129.42:8000/megapolis.aac",
+        "logo": "img/megapolis.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/megapolis.aac"
+    },
+    "mvolna": {
+        "name": "Милицейская Волна",
+        "url": "http://109.239.129.42:8000/mvolna.aac",
+        "logo": "img/mvolna.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/mvolna.aac"
+    },
+    "moscow": {
+        "name": "Москва FM",
+        "url": "http://109.239.129.42:8000/moscow.aac",
+        "logo": "img/moscow.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/moscow.aac"
+    },
+    "nashe": {
+        "name": "Наше Радио",
+        "url": "http://109.239.129.42:8000/nashe.aac",
+        "logo": "img/nashe.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/nashe.aac"
+    },
+    "novoe": {
+        "name": "Новое Радио",
+        "url": "http://109.239.129.42:8000/novoe.aac",
+        "logo": "img/novoe.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/novoe.aac"
+    },
+    "orfey": {
+        "name": "Орфей",
+        "url": "http://109.239.129.42:8000/orfey.aac",
+        "logo": "img/orfey.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/orfey.aac"
+    },
+    "pioner": {
+        "name": "Пионер FM",
+        "url": "http://109.239.129.42:8000/pioner.aac",
+        "logo": "img/pioner.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/pioner.aac"
+    },
+    "piter": {
+        "name": "Питер FM",
+        "url": "http://109.239.129.42:8000/piter.aac",
+        "logo": "img/piter.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/piter.aac"
+    },
+    "radio7": {
+        "name": "Радио 7 На Семи Холмах",
+        "url": "http://109.239.129.42:9000/radio7.aac",
+        "logo": "img/radio7.jpg",
+        "url_xtra_low": "http://109.239.129.44:9000/radio7.aac"
+    },
+    "classic": {
+        "name": "Радио Classic",
+        "url": "http://109.239.129.42:8000/classic.aac",
+        "logo": "img/classic.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/classic.aac"
+    },
+    "record": {
+        "name": "Радио Record",
+        "url": "http://109.239.129.42:8000/record.aac",
+        "logo": "img/record.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/record.aac"
+    },
+    "ultra": {
+        "name": "Радио ULTRA",
+        "url": "http://109.239.129.42:8000/ultra.aac",
+        "logo": "img/ultra.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/ultra.aac"
+    },
+    "vanya": {
+        "name": "Радио Ваня",
+        "url": "http://109.239.129.42:8000/vanya.aac",
+        "logo": "img/vanya.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/vanya.aac"
+    },
+    "vera": {
+        "name": "Радио Вера",
+        "url": "http://109.239.129.42:8000/vera.aac",
+        "logo": "img/vera.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/vera.aac"
+    },
+    "rdd": {
+        "name": "Радио Для Двоих",
+        "url": "http://109.239.129.42:8000/rdd.aac",
+        "logo": "img/rdd.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rdd.aac"
+    },
+    "zvezda": {
+        "name": "Радио Звезда",
+        "url": "http://109.239.129.42:8000/zvezda.aac",
+        "logo": "img/zvezda.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/zvezda.aac"
+    },
+    "iskatel": {
+        "name": "Радио Искатель",
+        "url": "http://109.239.129.42:8000/iskatel.aac",
+        "logo": "img/iskatel.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/iskatel.aac"
+    },
+    "kniga": {
+        "name": "Радио Книга",
+        "url": "http://109.239.129.42:8000/kniga.aac",
+        "logo": "img/kniga.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/kniga.aac"
+    },
+    "kultura": {
+        "name": "Радио Культура",
+        "url": "http://109.239.129.42:8000/kultura.aac",
+        "logo": "img/kultura.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/kultura.aac"
+    },
+    "mir": {
+        "name": "Радио МИР",
+        "url": "http://109.239.129.42:8000/mir.aac",
+        "logo": "img/mir.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/mir.aac"
+    },
+    "mayak": {
+        "name": "Радио Маяк",
+        "url": "http://109.239.129.42:8000/mayak.aac",
+        "logo": "img/mayak.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/mayak.aac"
+    },
+    "mcarlo": {
+        "name": "Радио Монте-Карло",
+        "url": "http://109.239.129.42:8000/mcarlo.aac",
+        "logo": "img/mcarlo.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/mcarlo.aac"
+    },
+    "rrd": {
+        "name": "Радио Родных Дорог",
+        "url": "http://109.239.129.42:8000/rrd.aac",
+        "logo": "img/rrd.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rrd.aac"
+    },
+    "rrossii": {
+        "name": "Радио России",
+        "url": "http://109.239.129.42:8000/rrossii.aac",
+        "logo": "img/rrossii.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rrossii.aac"
+    },
+    "shanson": {
+        "name": "Радио Шансон",
+        "url": "http://109.239.129.42:8000/shanson.aac",
+        "logo": "img/shanson.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/shanson.aac"
+    },
+    "chocolate": {
+        "name": "Радио Шоколад",
+        "url": "http://109.239.129.42:8000/chocolate.aac",
+        "logo": "img/chocolate.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/chocolate.aac"
+    },
+    "retro": {
+        "name": "Ретро FM",
+        "url": "http://109.239.129.42:9000/retro.aac",
+        "logo": "img/retro.jpg",
+        "url_xtra_low": "http://109.239.129.44:9000/retro.aac"
+    },
+    "romantika": {
+        "name": "Романтика",
+        "url": "http://109.239.129.42:8000/romantika.aac",
+        "logo": "img/romantika.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/romantika.aac"
+    },
+    "rusradio": {
+        "name": "Русское Радио",
+        "url": "http://109.239.129.42:8000/rusradio.aac",
+        "logo": "img/rusradio.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rusradio.aac"
+    },
+    "studio21": {
+        "name": "STUDIO 21",
+        "url": "http://109.239.129.42:9000/studio21.aac",
+        "logo": "img/studio21.jpg",
+        "url_xtra_low": "http://109.239.129.44:9000/studio21.aac"
+    },
+    "strana": {
+        "name": "Страна FM",
+        "url": "http://109.239.129.42:8000/strana.aac",
+        "logo": "img/strana.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/strana.aac"
+    },
+    "hitfm": {
+        "name": "Хит FM",
+        "url": "http://109.239.129.42:8000/hitfm.aac",
+        "logo": "img/hitfm.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/hitfm.aac"
+    },
+    "eldoradio": {
+        "name": "Эльдорадио",
+        "url": "http://109.239.129.42:8000/eldoradio.aac",
+        "logo": "img/eldoradio.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/eldoradio.aac"
+    },
+    "echo": {
+        "name": "Эхо Москвы",
+        "url": "http://109.239.129.42:8000/echo.aac",
+        "logo": "img/echo.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/echo.aac"
+    },
+    "humor": {
+        "name": "Юмор FM",
+        "url": "http://109.239.129.42:8000/humor.aac",
+        "logo": "img/humor.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/humor.aac"
+    },
+    "rtvp": {
+        "name": "Первое Подмосковное",
+        "url": "http://109.239.129.42:8000/rtvp.aac",
+        "logo": "img/rtvp.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/rtvp.aac"
+    },
+    "hermitage": {
+        "name": "Радио Эрмитаж",
+        "url": "http://109.239.129.42:8000/hermitage.aac",
+        "logo": "img/hermitage.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/hermitage.aac"
+    },
+    "zhara": {
+        "name": "Радио Жара FM",
+        "url": "http://109.239.129.42:8000/zhara.aac",
+        "logo": "img/zhara.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/zhara.aac"
+    },
+    "zenit": {
+        "name": "Радио Зенит",
+        "url": "http://109.239.129.42:8000/zenit.aac",
+        "logo": "img/zenit.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/zenit.aac"
+    },
+    "radonezh": {
+        "name": "Радонеж",
+        "url": "http://109.239.129.42:8000/radonezh.aac",
+        "logo": "img/radonezh.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/radonezh.aac"
+    },
+    "nestandart": {
+        "name": "Радио Нестандарт",
+        "url":  "http://109.239.129.42:8000/nestandart.aac",
+        "logo": "img/nestandart.jpg",
+        "url_xtra_low": "http://109.239.129.44:8000/nestandart.aac"
+    }
+}
