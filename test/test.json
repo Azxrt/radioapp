@@ -1,629 +1,539 @@
 {
     "América Dance 90's": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://i3.radionomy.com/radios/67/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png",
         "name": "América Dance 90's",
         "url": "http://stm8.srvstm.com:8212/1",
         "meta": "meta"
     },
     "E-Dance 90's": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-profiles.tunein.com/s274874/images/logoq.jpg",
         "name": "E-Dance 90's",
         "url": "http://listen1.myradio24.com:9000/5967",
         "meta": "meta"
     },
     "Rave (Radio Record)": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/f8/d3/114214/2/c175.png",
         "name": "Rave (Radio Record)",
         "url": "http://air.radiorecord.ru:805/rave_128",
         "meta": "meta"
     },
     "Радио Рекорд Technopop": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png",
         "name": "Радио Рекорд Technopop",
         "url": "http://online.radiorecord.ru:8102/technopop_320",
         "meta": "meta"
     },
     "Dancecore (Radio Record)": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/93/a2/10022/1/c175.png",
         "name": "Dancecore (Radio Record)",
         "url": "http://air.radiorecord.ru:8102/dc_320",
         "meta": "meta"
     },
     "Eurodance (Radio Record)": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/0d/90/31960/1/c175.png",
         "name": "Eurodance (Radio Record)",
         "url": "http://air2.radiorecord.ru:9003/eurodance_320",
         "meta": "meta"
     },
     "Old School (Radio Record)": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/2e/40/114203/2/c175.png",
         "name": "Old School (Radio Record)",
         "url": "http://air.radiorecord.ru:805/pump_128",
         "meta": "meta"
     },
     "Play 90's": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s105837q.png",
         "name": "Play 90's",
         "url": "http://live.playradio.org:9000/;",
         "meta": "meta"
     },
     "Day Dee Eurodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/9b/7d/121403/1/c175.png",
         "name": "Day Dee Eurodance",
         "url": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
         "meta": "meta"
     },
     "EuroDance FM": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://images.radiovolna.net/_files/uploads/posts/2016-07/1468925032_vswbgfxvzgg.jpg",
         "name": "EuroDance FM",
         "url": "http://ic6.101.ru:8000/p421652",
         "meta": "meta"
     },
     "Radio The Big Boss": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s188755q.png",
         "name": "Radio The Big Boss",
         "url": "http://79.98.108.172:8022/;",
         "meta": "meta"
     },
     "radio-eurodance-classi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s135210q.png",
         "name": "radio-eurodance-classic",
         "url": "http://hazel.torontocast.com:1310/stream",
         "meta": "meta"
     },
     "Die 90er (Sunshine Live)": {
-        "category": "EURODANCE MUSIC",
         "logo": "http://cdn-radiotime-logos.tunein.com/s237962q.png",
         "name": "Die 90er (Sunshine Live)",
         "url": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
         "meta": "meta"
     },
     "eurodance90.f": {
-        "category"": "EURODANCE MUSIC",
         "logo": "http://eurodance90.fr/img/logos/logo.png",
         "name": "eurodance90.fr",
         "url": "https://listen.openstream.co/3178/audio",
         "meta": "meta"
     },
     "Energy 93 - Euro EDM (181.Fm)": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xv8fazrfgh27.png",
         "name": "Energy 93 - Euro EDM (181.Fm)",
         "url": "http://relay.181.fm:8044/",
         "meta": "meta"
     },
     "Eurodance 90 - Dance Anos 90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png",
         "name": "Eurodance 90 - Dance Anos 90",
         "url": "http://stream.zeno.fm/zx9h2b61u8quv",
         "meta": "meta"
     },
     "90S DANCE CLASSICS": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://i3.radionomy.com/radios/400/ee6f2ead-bb55-4d26-bd19-54bdadae618b.png",
         "name": "90S DANCE CLASSICS",
         "url": "http://listen.radionomy.com/90s-dance-classics",
         "meta": "meta"
     },
     "Eurodance90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png",
         "name": "Eurodance90",
         "url": "https://listen1.myradio24.com/5967?d=",
         "meta": "meta"
     },
     "gherlafm.": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png",
         "name": "gherlafm.ro",
         "url": "http://89.39.189.52:8000/;stream/1",
         "meta": "meta"
     },
     "VIPradio EuroDan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png",
         "name": "VIPradio EuroDance",
         "url": "http://149.56.175.167:5429/stream",
         "meta": "meta"
     },
     "Radio Capri": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/kdsux75kqacskqf/Radio-Caprice.png",
         "name": "Radio Caprice",
         "url": "http://79.120.39.202:9003/",
         "meta": "meta"
     },
     "FFH Eurodances": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png",
         "name": "FFH Eurodances",
         "url": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
         "meta": "meta"
     },
     "A'11 Eurodance 90s": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/ommqnv29gpe2yku/A%2711%20Eurodance%2090s.png",
         "name": "A'11 Eurodance 90s",
         "url": "http://streaming.radionomy.com/A-11-Eurodance-90s",
         "meta": "meta"
     },
     "Sunset Radio : EuroDan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/7d/a1/18814/c175.png",
         "name": "Sunset Radio : EuroDance",
         "url": "http://s.sunset-radio.com:14020/",
         "meta": "meta"
     },
     "Radio DP": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png",
         "name": "Radio DP",
         "url": "http://94.23.221.158:9197/stream",
         "meta": "meta"
     },
     "Eurodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/90/f4/5944/1/c175.png",
         "name": "Eurodance",
         "url": "https://eurodance.stream.laut.fm/eurodance",
         "meta": "meta"
     },
     "prj - Eurodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png",
         "name": "prj - Eurodance",
         "url": "http://eurodance.su:8000/;stream.nsv?17",
         "meta": "meta"
     },
     "prj- DreamDan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png",
         "name": "prj- DreamDance",
         "url": "http://eurodance.su:8002/;stream.nsv?43",
         "meta": "meta"
     },
     "EuroDanceMedia prj": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png",
         "name": "EuroDanceMedia prj",
         "url": "http://eurodance.su:8004/;stream.nsv?5",
         "meta": "meta"
     },
     "Radio Studio Sou": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s238253q.png",
         "name": "Radio Studio Souto",
         "url": "http://192.99.150.31:8056/stream",
         "meta": "meta"
     },
     "BDJ EURODANCE 90S": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png",
         "name": "BDJ EURODANCE 90S",
         "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
         "meta": "meta"
     },
     "2ks dance radio - eurodance and italodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/b6/84/117823/1/c175.png",
         "name": "2ks dance radio - eurodance and italodance",
         "url": "http://hazel.torontocast.com:1295/stream/1/",
         "meta": "meta"
     },
     "Radio 1 MIX": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/37njy2402mycnze/1Mix%20Radio.png",
         "name": "Radio 1 MIX",
         "url": "http://fr1.1mix.co.uk:8060/320",
         "meta": "meta"
     },
     "DI Radio Digital": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/fd88c747lkmbssu/DI%20Radio%20Digital.png",
         "name": "DI Radio Digital",
         "url": "http://5.39.71.159:8922/stream",
         "meta": "meta"
     },
     "Dance-Fox": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/3gns785cqih3xo2/dancefox.png",
         "name": "Dance-Fox",
         "url": "http://188.138.1.220:8300/dancefox.mp3",
         "meta": "meta"
     },
     "Radio-angelsfox": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/vgug9r0m4yen37f/kurdranj.png",
         "name": "Radio-angelsfox",
         "url": "http://62.138.147.36:80/angelsfox-radio.mp3",
         "meta": "meta"
     },
     "Ballermann Radi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/8sxymnmbv077j50/balerman.png",
         "name": "Ballermann Radio",
         "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
         "meta": "meta"
     },
     "auf Foxwahn Radi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/876f405h8ww81y4/RETRO90.png",
         "name": "auf Foxwahn Radio",
         "url": "http://144.76.84.153:22042/;",
         "meta": "meta"
     },
     "Sunset Radio : Hands Up": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/1yet61s84rqpby6/Sunset%20Radio.png",
         "name": "Sunset Radio : Hands Up",
         "url": "http://s.sunset-radio.com:14200/",
         "meta": "meta"
     },
     "Sunset Radio : Discofox": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/7c/e4/18815/c175.png",
         "name": "Sunset Radio : Discofox",
         "url": "http://s.sunset-radio.com:14120/",
         "meta": "meta"
     },
     "foxbox": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/70/50/15543/1/c175.png",
         "name": "foxbox",
         "url": "https://stream.laut.fm/foxbox",
         "meta": "meta"
     },
     "Radio Record": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/4vfo9mh7cv2240h/Auto%20DJ.png",
         "name": "Radio Record",
         "url": "http://air.radiorecord.ru:8102/dc_320",
         "meta": "meta"
     },
     "Technopop": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/ulax27hrf2vhw11/Beirut%20Nights.png",
         "name": "Technopop",
         "url": "http://air.radiorecord.ru:805/technopop_320",
         "meta": "meta"
     },
     "Dance Wave Retro!": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/0jm77370ditrs6g/Dance%20Wave%20Retro%21.png",
         "name": "Dance Wave Retro!",
         "url": "http://stream2.dancewave.online:8080/retrodance.mp3",
         "meta": "meta"
     },
     "Eurodance Rekord": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/so6liazsidffzlz/Radio%20Europa%20Live.png",
         "name": "Eurodance Rekord",
         "url": "http://air.radiorecord.ru:805/eurodance_320",
         "meta": "meta"
     },
     "RADIO EUROMIX EL": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/7xfu8h2ratqlsym/Radio109.png",
         "name": "RADIO EUROMIX EL",
         "url": "http://78.129.163.129:23534/",
         "meta": "meta"
     },
     "1.FM - Absolute 90s": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/i0wvyxooxmrq205/1.FM%20-%20Absolute%2090s%20.png",
         "name": "1.FM - Absolute 90s",
         "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
         "meta": "meta"
     },
     "Loca FM Rememb": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/f0bn6gn09wb6c9s/Loca%20FM%20Remember.png",
         "name": "Loca FM Remember",
         "url": "http://5.39.66.128:8006/live",
         "meta": "meta"
     },
     "90s90s Dan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/a7pwopw4bn4i6kr/90s90s%20Dance.png",
         "name": "90s90s Dance",
         "url": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq?sABC=",
         "meta": "meta"
     },
     "Radio Regenbogen - 90er Dan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/vmxnebcon4sqty5/Radio%20Regenbogen%20-%2090er%20Dance.png",
         "name": "Radio Regenbogen - 90er Dance",
         "url": "http://streams.regenbogen.de/rr-eurodance-128-mp3",
         "meta": "meta"
     },
     "Puls'90s": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/ggv70845eozjta1/Puls%2790s.png",
         "name": "Puls'90s",
         "url": "http://213.251.190.165/puls90HD.mp3",
         "meta": "meta"
     },
     "handsup": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/qyv21lcmi3ipz9m/handsup.jpg",
         "name": "handsup",
         "url": "http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-mq",
         "meta": "meta"
     },
     "Radio Crisami Romani": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/7cnz9vx2dp9tcom/radiocrisime.png",
         "name": "Radio Crisami Romania",
         "url": "http://listen.radionomy.com/Eurodance-90",
         "meta": "meta"
     },
     "90s90s Techn": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/ios93ldce4llk0p/90s90s%20Techno.png",
         "name": "90s90s Techno",
         "url": "http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=",
         "meta": "meta"
     },
     "Puls'Dan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/c1qlbb538kn3u8d/Puls%27Dance.png",
         "name": "Puls'Dance",
         "url": "http://87.98.153.24/pulsHD.mp3",
         "meta": "meta"
     },
     "Puls'2000": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/h56c8nieu73liyp/Puls%272000.png",
         "name": "Puls'2000",
         "url": "http://87.98.129.202/puls00HD.mp3",
         "meta": "meta"
     },
     "ARADIO90S JUI": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/7vdugh8rvoxx5a3/A%20.RADIO%2090S%20JUICE.png",
         "name": "ARADIO90S JUICE",
         "url": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?ad=radiono5",
         "meta": "meta"
     },
     "ABCD Eurodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/h0bzin2fgikik9t/ABCD%20Eurodance.png",
         "name": "ABCD Eurodance",
         "url": "http://aach.stream.tb-group.fm/tb-high.aac",
         "meta": "meta"
     },
     "Клубная Музыка": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/yi5qzmx6xw0u4u8/RADIO%20NOW.png",
         "name": "Клубная Музыка",
         "url": "http://streams.netmindz.net/hhuk.mp3",
         "meta": "meta"
     },
     "Rav": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/tbfb0skxo0yxr2d/Radio%20BalloBello.png",
         "name": "Rave",
         "url": "http://air.radiorecord.ru:8102/rave_320",
         "meta": "meta"
     },
     "RMI - Italo Disco Greatest Hits": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s178246q.png",
         "name": "RMI - Italo Disco Greatest Hits",
         "url": "http://188.165.195.176:8046/stream",
         "meta": "meta"
     },
     "RMI - Euro Dis": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s166416q.png",
         "name": "RMI - Euro Disco",
         "url": "http://188.165.195.176:8034/stream",
         "meta": "meta"
     },
     "RMI - Italo Disco New Generation": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s166410q.png",
         "name": "RMI - Italo Disco New Generation",
         "url": "http://188.165.195.176:8010/stream",
         "meta": "meta"
     },
     "RMI - Italo Euro Disco In The Mix": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s166413q.png",
         "name": "RMI - Italo Euro Disco In The Mix",
         "url": "http://188.165.195.176:8016/stream",
         "meta": "meta"
     },
     "Italo Dance FM": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s192667q.png",
         "name": "Italo Dance FM",
         "url": "http://hubble.shoutca.st:8120/stream",
         "meta": "meta"
     },
     "Italo Dan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png",
         "name": "Italo Dance",
         "url": "http://s2.slotex.pl:10064/;",
         "meta": "meta"
     },
     "Classic Dance Hitz": {
-        "category": "EURODANCE MUSIC",
         "logo": "http://static.radio.net/images/broadcasts/e2/2c/106614/2/c175.png",
         "name": "Classic Dance Hitz",
         "url": "http://streams.radio.co/s7a933605c/listen",
         "meta": "meta"
     },
     "Play 90's Radi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/ab/42/39116/1/c175.png",
         "name": "Play 90's Radio",
         "url": "http://streaming.radionomy.com/-Play90-sradio",
         "meta": "meta"
     },
     "Superdisco of the 90ies": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s183202q.png",
         "name": "Superdisco of the 90ies",
         "url": "http://online.radiorecord.ru:8102/sd90_aac",
         "meta": "meta"
     },
     "Radio Dancefl": {
-        "category"ry": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/j99wvkj4rax7irm/RadioDielli.png",
         "name": "Radio Dancefloor",
         "url": "http://185.92.223.206:443/live-hq",
         "meta": "meta"
     },
     "Radio Retro Brazil": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/nre53duy4oq1vlo/Eurodance%20Worldwide.png",
         "name": "Radio Retro Brazil",
         "url": "http://5.196.56.208:8130/",
         "meta": "meta"
     },
     "Eurodance radio90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropbox.com/s/14htr004699vvwc/90sDance%20by%2049Sendergruppe.png",
         "name": "Eurodance radio90",
         "url": "https://listen.radioking.com/radio/168448/stream/209719",
         "meta": "meta"
     },
     "RADIOTX": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/t8pp0duzpzwg71g/AvaFM%20Remix.png",
         "name": "RADIOTX",
         "url": "http://janus.shoutca.st:8675/stream",
         "meta": "meta"
     },
     "Radio Dance Anos 90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png",
         "name": "Radio Dance Anos 90",
         "url": "http://stm7.painelvox.com:8190/;",
         "meta": "meta"
     },
     "Dance FM Supermix": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-radiotime-logos.tunein.com/s297946q.png",
         "name": "Dance FM Supermix",
         "url": "http://5.135.183.124:8130/stream",
         "meta": "meta"
     },
     "Radio Sun Gold Hits": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://cdn-profiles.tunein.com/s237042/images/logoq.jpg",
         "name": "Radio Sun Gold Hits",
         "url": "http://live.radiosun.ro/sungold",
         "meta": "meta"
     },
     "KRONEHIT 90's Dan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://cdn-profiles.tunein.com/s218146/images/logoq.png",
         "name": "KRONEHIT 90's Dance",
         "url": "https://secureonair.krone.at/kronehit-90sdance.mp3",
         "meta": "meta"
     },
     "!SUPER DANCE!": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png",
         "name": "!SUPER DANCE!",
         "url": "http://listen.radionomy.com/-superdance-",
         "meta": "meta"
     },
     "LATVIAN DANCE MUSI": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://i3.radionomy.com/radios/400/dadf7853-d7f4-4b27-b5d2-668190c2fec9.jpg",
         "name": "LATVIAN DANCE MUSIC",
         "url": "http://listen.radionomy.com/latviandancemusic",
         "meta": "meta"
     },
     "RADIO ROMANIAN DAN": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://i3.radionomy.com/radios/400/8abcb870-4d96-4542-867e-907f4c82ba91.png",
         "name": "RADIO ROMANIAN DANCE",
         "url": "http://asculta.radioromanian.net:8100/;",
         "meta": "meta"
     },
     "THE 90S": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://i3.radionomy.com/radios/400/90af8fc3-6560-4318-b4cd-62b3812ec129.jpg",
         "name": "THE 90S",
         "url": "http://listen.radionomy.com/the90s",
         "meta": "meta"
     },
     "Danceshow Eurodan": {
-        "category"y": "EURODANCE MUSIC",
         "logo": "https://assets.laut.fm/cda0c7f738fb913ae9c4df26e7e18438?t=_640x640",
         "name": "Danceshow Eurodance",
         "url": "https://stream.laut.fm/danceshow-eurodance",
         "meta": "meta"
     },
     "Fantasy Dance Beatz": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://assets.laut.fm/c9c2c4c9af78ad055ec938bc370f9f66?t=_640x640",
         "name": "Fantasy Dance Beatz",
         "url": "https://stream.laut.fm/fantasydancebeatz",
         "meta": "meta"
     },
     "Baden 1": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/28/92/106996/1/c175.png",
         "name": "Baden 1",
         "url": "https://stream.laut.fm/eurodance",
         "meta": "meta"
     },
     "laserbeat-fm": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/2b/a6/5339/1/c175.png",
         "name": "laserbeat-fm",
         "url": "https://stream.laut.fm/laserbeat-fm",
         "meta": "meta"
     },
     "Eurodance Tim": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://i.scdn.co/image/48c12189a8a399931087f917dc90566c6bec8cd4",
         "name": "Eurodance Time",
         "url": "https://stream.laut.fm/eurodancetime",
         "meta": "meta"
     },
     "NRJ DANCE 90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/43/25/39989/4/c175.png",
         "name": "NRJ DANCE 90",
         "url": "http://185.52.127.131/fr/31099/mp3_128.mp3",
         "meta": "meta"
     },
     "90 dance radi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/f8/f2/38240/1/c175.png",
         "name": "90 dance radio",
         "url": "http://159.8.16.16:8064/stream",
         "meta": "meta"
     },
     "MDT Radi": {
-        "category"": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/9f/8e/35749/c175.png",
         "name": "MDT Radio",
         "url": "http://37.187.63.192:8020/mdtweb",
         "meta": "meta"
     },
     "OpenFM - Klub 90": {
-        "category": "EURODANCE MUSIC",
         "logo": "https://static.radio.net/images/broadcasts/a4/3b/16093/1/c175.png",
         "name": "OpenFM - Klub 90",
         "url": "http://stream.open.fm/8"
