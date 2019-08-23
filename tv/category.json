@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "count": 7,
+  "categories": [
+    {
+      "cid": 49,
+      "category_name": "Copa América 2019",
+      "category_image": "1951-2019-06-14.jpg"
+    },
+    {
+      "cid": 45,
+      "category_name": "Deportes",
+      "category_image": "4138-2019-05-08.png"
+    },
+    {
+      "cid": 40,
+      "category_name": "Educación",
+      "category_image": "8317-2019-05-08.png"
+    },
+    {
+      "cid": 37,
+      "category_name": "Entretenimiento",
+      "category_image": "8786-2019-05-08.png"
+    },
+    {
+      "cid": 39,
+      "category_name": "Música",
+      "category_image": "5657-2019-05-08.png"
+    },
+    {
+      "cid": 43,
+      "category_name": "Noticias",
+      "category_image": "0442-2019-05-08.jpg"
+    },
+    {
+      "cid": 48,
+      "category_name": "Peliculas",
+      "category_image": "1848-2019-05-08.png"
+    }
+  ]
+}
