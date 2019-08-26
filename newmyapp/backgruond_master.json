@@ -1,0 +1,182 @@
+[
+    {
+        "_id": 1,
+        "count": 46,
+        "image": "artistic_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "artistic_backgrounds",
+        "title": "Artistic"
+    },
+    {
+        "_id": 2,
+        "count": 56,
+        "image": "autumn_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "autumn_backgrounds",
+        "title": "Autumn"
+    },
+    {
+        "_id": 3,
+        "count": 40,
+        "image": "christmas_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "christmas_backgrounds",
+        "title": "Christmas"
+    },
+    {
+        "_id": 4,
+        "count": 55,
+        "image": "cloudy_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "cloudy_backgrounds",
+        "title": "Cloudy"
+    },
+    {
+        "_id": 5,
+        "count": 49,
+        "image": "dreamy_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "dreamy_backgrounds",
+        "title": "Dreamy"
+    },
+    {
+        "_id": 6,
+        "count": 54,
+        "image": "floral_texture_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "floral_texture_backgrounds",
+        "title": "Floral_Texture"
+    },
+    {
+        "_id": 7,
+        "count": 60,
+        "image": "geometric_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "geometric_backgrounds",
+        "title": "Geometric"
+    },
+    {
+        "_id": 8,
+        "count": 37,
+        "image": "grunge_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "grunge_backgrounds",
+        "title": "Grunge"
+    },
+    {
+        "_id": 9,
+        "count": 39,
+        "image": "light_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "light_backgrounds",
+        "title": "Light"
+    },
+    {
+        "_id": 10,
+        "count": 39,
+        "image": "love_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "love_backgrounds",
+        "title": "Love"
+    },
+    {
+        "_id": 11,
+        "count": 46,
+        "image": "nature_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "nature_backgrounds",
+        "title": "Nature"
+    },
+    {
+        "_id": 12,
+        "count": 44,
+        "image": "night_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "night_backgrounds",
+        "title": "Night"
+    },
+    {
+        "_id": 13,
+        "count": 35,
+        "image": "paper_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "paper_backgrounds",
+        "title": "Paper"
+    },
+    {
+        "_id": 14,
+        "count": 40,
+        "image": "poster_mockup_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "poster_mockup",
+        "title": "Poster_Mockup"
+    },
+    {
+        "_id": 15,
+        "count": 38,
+        "image": "space_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "space_backgrounds",
+        "title": "Space"
+    },
+    {
+        "_id": 16,
+        "count": 40,
+        "image": "spring_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "spring_backgrounds",
+        "title": "Spring"
+    },
+    {
+        "_id": 17,
+        "count": 33,
+        "image": "star_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "star_backgrounds",
+        "title": "Star"
+    },
+    {
+        "_id": 18,
+        "count": 42,
+        "image": "texture_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "texture_backgrounds",
+        "title": "Texture"
+    },
+    {
+        "_id": 19,
+        "count": 48,
+        "image": "water_color_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "water_color_backgrounds",
+        "title": "Water_Color"
+    },
+    {
+        "_id": 20,
+        "count": 40,
+        "image": "winter_slide.jpg",
+        "is_purchased": 1,
+        "price": "PURCHASE",
+        "sku": "winter_backgrounds",
+        "title": "Winter"
+    }
+]
