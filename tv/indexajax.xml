@@ -1,0 +1,22 @@
+<Channel>
+	<id>1114</id>
+	<name>ESKA</name>
+	<streams>
+		<stream>
+			<quality>360p</quality>
+			<uri>http://audiostreaming.itworkscdn.com:9006/;*.nsv</uri>
+		</stream>
+		<stream>
+			<quality>144p</quality>
+			<uri>http://audiostreaming.itworkscdn.com:9060/;*.nsv</uri>
+		</stream>
+		<stream>
+			<quality>480p</quality>
+			<uri>https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8</uri>
+		</stream>
+		<stream>
+			<quality>720p</quality>
+			<uri>https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8</uri>
+		</stream>
+	</streams>
+</Channel>
