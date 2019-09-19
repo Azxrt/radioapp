@@ -7,7 +7,7 @@
     "tabs": [
       {
         "title": "Local Radio",
-        "provider": "overview",
+        "provider": "rss",
         "arguments": [
           "https://dl.dropbox.com/s/a75lwsp2eotva7b/kurdish-radio.png"
         ]
@@ -22,7 +22,7 @@
     "tabs": [
       {
         "title": "Islamic Radio",
-        "provider": "overview",
+        "provider": "rss",
         "arguments": [
           "https://dl.dropbox.com/s/sb0tfcv5cec832a/islamic-radio.png"
         ]
@@ -37,7 +37,7 @@
     "tabs": [
       {
         "title": "Dance Radio ",
-        "provider": "overview",
+        "provider": "rss",
         "arguments": [
           "https://dl.dropbox.com/s/8amqnpazrwikyrt/dance_logo.png"
         ]
@@ -52,7 +52,7 @@
     "tabs": [
       {
         "title": "Other Radio",
-        "provider": "overview",
+        "provider": "rss",
         "arguments": [
           "https://dl.dropbox.com/s/rcxu0he492mnr9z/Other_logo.png"
         ]
