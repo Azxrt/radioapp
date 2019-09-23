@@ -8,14 +8,13 @@
     {
       "name": "NRJ Hit Music",
       "logo": "http://www.sunufm.com/appadmin2/upload/3927-2019-04-15.png",
-      "url": "http://185.52.127.168/fr/30001/mp3_128.mp3?origine=radio.net",
-      "category": "International"
+      "url": "http://185.52.127.168/fr/30001/mp3_128.mp3?origine=radio.net"
     },
     {
       "name": "RMC",
       "logo": "http://www.sunufm.com/appadmin2/upload/8098-2019-04-15.jpg",
       "url": "https://chai5she.cdn.dvmr.fr/rmcinfo",
-      "category": "International"
+      "category": ""
     },
     {
       "name": "Retro FM Musique Sénégalaise",
@@ -25,13 +24,12 @@
     },
     {
       "name": "Retro FM Musique Sénégalaise",
-      "logo": "http://www.sunufm.com/appadmin2/upload/1123-2019-04-02.jpg",
+      "logo": "",
       "url": "http://206.190.135.28:8158/stream",
       "category": "Rétro FM"
     },
     {
       "name": "Radio Sénégal International",
-      "logo": "http://www.sunufm.com/appadmin2/upload/1612-2019-03-27.png",
       "url": "http://206.190.135.28:8033/stream",
       "category": "RSI"
     },
