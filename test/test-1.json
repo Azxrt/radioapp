@@ -1,0 +1,1738 @@
+[
+  {
+    "radio_id": 1990,
+    "radio_title": "Suryan FM 93.5 Chennai HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/suriyanfm2.png",
+    "radio_url": "http://144.217.14.55:7188/stream/1/?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2043,
+    "radio_title": "Hello Fm Chennai 106.4 HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hello-fm-HD.png",
+    "radio_url": "http://192.99.43.83:7188/1?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5095,
+    "radio_title": "Erode Hello Fm 92.7",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hello-fm-92.7-erode.png",
+    "radio_url": "http://192.99.152.215:7188/5?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2131,
+    "radio_title": "Radio City 91.1 Chennai Live HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radiocityhd.png",
+    "radio_url": "http://192.99.43.83:7188/stream/2/?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 520,
+    "radio_title": "Radio Mirchi 98.3 Chennai HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radiomircghy.png",
+    "radio_url": "http://144.217.14.55:7188/stream/2/?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2444,
+    "radio_title": "BIG FM 92.7 Chennai live",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/bigfm-6.png",
+    "radio_url": "http://192.99.43.83:7188/stream/3/?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5069,
+    "radio_title": "Radio One 94.3 Chennai Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radioone-1.png",
+    "radio_url": "http://192.99.152.215:7188/9?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3103,
+    "radio_title": "Fm Gold 100.1 Chennai HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/fmgold2-1.png",
+    "radio_url": "http://192.99.152.215:7188/stream/1/?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2529,
+    "radio_title": "Vividh Bharti 102.3 Chennai",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vividh-Bharati-1-1.png",
+    "radio_url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP106_1@892647/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1498,
+    "radio_title": "FM Rainbow 101.4 Chennai HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/fmrainbow-2.png",
+    "radio_url": "http://192.99.43.83:7188/4?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5482,
+    "radio_title": "Puducherry Fm Rainbow",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Fm-Rainbow-Puducherry.png",
+    "radio_url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP134_1@369210/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5354,
+    "radio_title": "Tirunelveli Fm Rainbow",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tirunelveli-1.png",
+    "radio_url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP055_1@350376/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5306,
+    "radio_title": "Madurai Fm Rainbow",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/madurairainbow.png",
+    "radio_url": "http://nondelhi-lh.akamaihd.net/i/airlsmp008_1@838092/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5373,
+    "radio_title": "Kovai Fm Rainbow",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/fm-rainbow-kovai.png",
+    "radio_url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP077_1@866625/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5362,
+    "radio_title": "Trichy Fm Rainbow",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/trichy-fm-Rainmbow.png",
+    "radio_url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP049_1@350391/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5485,
+    "radio_title": "Air Puducherry",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/puducherryAIR.png",
+    "radio_url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP135_1@369195/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5472,
+    "radio_title": "Air Chennai",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Air-Chennai.png",
+    "radio_url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP107_1@892648/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5475,
+    "radio_title": "Air Chennai 2",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Air-Chennai2.png",
+    "radio_url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP105_1@892645/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2552,
+    "radio_title": "Air Tuticorin 105.7 Live",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Air-Tuticorin-105.7.png",
+    "radio_url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP123_1@369229/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 899,
+    "radio_title": "Air Tamil",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/airtamil-3.png",
+    "radio_url": "http://airtamil-lh.akamaihd.net/i/airtamil_1@507817/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5381,
+    "radio_title": "Air Madurai",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Air-madurai.png",
+    "radio_url": "http://airlsmp4-lh.akamaihd-staging.net/i/AIRLSMP098_1@870834/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5365,
+    "radio_title": "Air Trichy",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/aitrtrichy.png",
+    "radio_url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP047_1@350379/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5491,
+    "radio_title": "Air Tirunelveli",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tirunelveliair.png",
+    "radio_url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP139_1@369203/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5341,
+    "radio_title": "AIR Ooty",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/airooty.png",
+    "radio_url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP033_1@855167/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5338,
+    "radio_title": "AIR Kodaikanal",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/AIR-Kodaikanal.png",
+    "radio_url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP032_1@855165/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5351,
+    "radio_title": "Air Coimbatore",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/air-coimbatore.png",
+    "radio_url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP042_1@350383/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5370,
+    "radio_title": "AIR Nagarkovil",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/AIR-Nagarkovil.png",
+    "radio_url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP061_1@866589/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5457,
+    "radio_title": "Air Dharmapuri",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/air-dharmapuri.png",
+    "radio_url": "http://airlsmp4-lh.akamaihd.net/i/AIRLSMP093_1@870828/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5461,
+    "radio_title": "Air Karaikal",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Air-Karaikal.png",
+    "radio_url": "http://airlsmp3-lh.akamaihd.net/i/AIRLSMP074_1@866622/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5071,
+    "radio_title": "Thanthi Tv live",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/thanthio.png",
+    "radio_url": "https://vidhttps.r.worldssl.net/thanthi-origin/liveabr/playlist.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5063,
+    "radio_title": "Polimer News Live TV",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/polimer.png",
+    "radio_url": "http://192.99.152.215:7188/4?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5065,
+    "radio_title": "Puthiyathalaimurai live News",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/puthiyathalai.png",
+    "radio_url": "http://192.99.152.215:7188/3?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5067,
+    "radio_title": "News 7 live news",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/news7.png",
+    "radio_url": "http://192.99.152.215:7188/2?type=http",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 517,
+    "radio_title": "Radio City Tamil",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radiocoty-tamil.png",
+    "radio_url": "http://prclive1.listenon.in:9948/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1467,
+    "radio_title": "Mirchi Top Tukkar",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/mirchy-toptucker.png",
+    "radio_url": "http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4401,
+    "radio_title": "Vijay FM Radio HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/vijayhits.png",
+    "radio_url": "http://stream.zenolive.com/4sarmd5ts0quv",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4404,
+    "radio_title": "Ajith FM Radio HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ajith-hits.png",
+    "radio_url": "http://stream.zenolive.com/a4xgt53ts0quv",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 529,
+    "radio_title": "A.R.Rahman Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/arrah.png",
+    "radio_url": "http://southradios.net:9090/arrahmanradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1349,
+    "radio_title": "A.R.Rahman lite radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/arrah2.png",
+    "radio_url": "http://southradios.net:9090/arrahmanliteradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2227,
+    "radio_title": "Ilayamaan Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilyaman.png",
+    "radio_url": "http://southradios.net:9090/ilayamaanradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 526,
+    "radio_title": "Ilayaraja Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilaya.png",
+    "radio_url": "http://southradios.net:9090/ilayarajaradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5295,
+    "radio_title": "Isaignani Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilaya-1.png",
+    "radio_url": "http://s1.southradios.net:9090/isaignaniradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2163,
+    "radio_title": "Ilayaraja Lite Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilayaraaja2-1.png",
+    "radio_url": "http://southradios.net:9090/ilayarajaliteradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4530,
+    "radio_title": "Ilayaraja Super Beats Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilaya-1.png",
+    "radio_url": "http://southradios.net:9090/ilayarajasuperbeatsradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 532,
+    "radio_title": "K. J. Yesudas radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/yesudas.png",
+    "radio_url": "http://southradios.net:9090/kjyesudasradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4533,
+    "radio_title": "Raja Radio HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ilaya-1.png",
+    "radio_url": "http://live.tamilkuyilradio.com:8026/rajaradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 523,
+    "radio_title": "SPB Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/spb.png",
+    "radio_url": "http://southradios.net:9090/spbradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4451,
+    "radio_title": "SPB Hits online",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/SPB-Hits-online.png",
+    "radio_url": "http://prclive1.listenon.in:8816/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 538,
+    "radio_title": "Harris Jayaraj Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/harisj.png",
+    "radio_url": "http://southradios.net:9090/harrisjayarajradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 541,
+    "radio_title": "Yuvan Shankar Raja Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/yuvan.png",
+    "radio_url": "http://southradios.net:9090/ysrradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3390,
+    "radio_title": "Anirudh Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Anirudh-Radio.png",
+    "radio_url": "http://southradios.net:9090/anirudhradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3928,
+    "radio_title": "Vidyasagar Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vidyasagar-Cover-Poster.jpg",
+    "radio_url": "http://southradios.net:9090/vidyasagarradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4392,
+    "radio_title": "Deva Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/deva.png",
+    "radio_url": "http://southradios.net:9090/devaradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4616,
+    "radio_title": "Hariharan Hits",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hariharan.png",
+    "radio_url": "http://southradios.net:9090/hariharanradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5283,
+    "radio_title": "Unnikrishnan Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Unnikrishnan-online.png",
+    "radio_url": "http://southradios.net:9090/unnikirishnan",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4619,
+    "radio_title": "Mohan Hits",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/mohan.png",
+    "radio_url": "http://southradios.net:9090/mohanradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5286,
+    "radio_title": "Malaysia Vasudevan FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Malaysia-Vasudevan.png",
+    "radio_url": "http://s1.southradios.net:9090/mvasudevanradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5289,
+    "radio_title": "KS Chita Hits Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/KS-Chita-Hits.png",
+    "radio_url": "http://southradios.net:9090/kschithraradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5292,
+    "radio_title": "S Jankaki Hits FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/S-Jankaki-Hi.png",
+    "radio_url": "http://s1.southradios.net:9090/janakiradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5347,
+    "radio_title": "Vadivelu Comedy Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vadivelu-Comedy-Radio.png",
+    "radio_url": "http://vadivelu.gomaly.com:8118/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5344,
+    "radio_title": "Tamil Comedy Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Comedy-Radio.png",
+    "radio_url": "http://live.tamilkuyilradio.com:8035/tamilcomedyradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5297,
+    "radio_title": "Tamil Talk Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Talk-Radio.png",
+    "radio_url": "http://s1.southradios.net:9090/tamiltalkradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1353,
+    "radio_title": "Tamil lite radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tamilite.png",
+    "radio_url": "http://southradios.net:9090/tamilliteradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3394,
+    "radio_title": "Tamil Beat radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tamilbeaatradio.png",
+    "radio_url": "http://southradios.net:9090/tamilbeatradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 544,
+    "radio_title": "Puthu Paadal Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tamilpaadalgal.png",
+    "radio_url": "http://southradios.net:9090/pudhupaadalradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2221,
+    "radio_title": "Palaiya Paadal Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/palayapaadal-2.png",
+    "radio_url": "http://southradios.net:9090/palaiyapaadalradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5157,
+    "radio_title": "Geetham Party Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Party-Fm.png",
+    "radio_url": "http://www.geethamradio.com:8020/party_hifi.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5153,
+    "radio_title": "Geetham New Songs",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/geethamnew.png",
+    "radio_url": "http://www.geethamradio.com:8020/new_hifi.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5149,
+    "radio_title": "Geetham 80S Songs",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/geetham80.png",
+    "radio_url": "http://www.geethamradio.com:8020/80s_hifi.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5151,
+    "radio_title": "Geetham OLD SONGS",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/geethamold.png",
+    "radio_url": "http://www.geethamradio.com:8020/old_hifi.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5155,
+    "radio_title": "Geetham Songs Request",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/geethamnewreg.png",
+    "radio_url": "http://www.geethamradio.com:8020/hifi.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5059,
+    "radio_title": "Kadhal Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Kadhal-Radio.png",
+    "radio_url": "http://southradios.net:9090/kadhalradio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 476,
+    "radio_title": "Sooriyan FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Sooriyan-FM-1.png",
+    "radio_url": "http://209.133.216.3:7071/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4092,
+    "radio_title": "Capital FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Capital-FM-.png",
+    "radio_url": "http://ca4.rcast.net:8060/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4712,
+    "radio_title": "Pollachi FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/pollachi-fm.png",
+    "radio_url": "http://104.200.16.182:8000/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5193,
+    "radio_title": "Karur Thedal FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Karur-Thedal-FM-.png",
+    "radio_url": "http://play.karur.thedalfm.com/",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5203,
+    "radio_title": "Hosur Thedal FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hosur-Thedal-FM.png",
+    "radio_url": "http://pollux.shoutca.st:9044/stream_medium",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5324,
+    "radio_title": "Tiruppur Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tiruppurfm.png",
+    "radio_url": "http://192.95.39.65/proxy/tiruppurfm?mp=/1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5300,
+    "radio_title": "Karur FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Karur-FM-.png",
+    "radio_url": "https://karurfm.radioca.st/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5303,
+    "radio_title": "Vaanosai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vaanosai-FM.png",
+    "radio_url": "http://192.99.170.8:5322/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5225,
+    "radio_title": "RedRose Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/redrosefm.png",
+    "radio_url": "http://198.7.58.248:31089/1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5228,
+    "radio_title": "Jil Jil radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Jil-Jil-radio.png",
+    "radio_url": "http://149.56.157.81:8487/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5280,
+    "radio_title": "Star Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Radio-online.png",
+    "radio_url": "http://s3.voscast.com:8402/.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5207,
+    "radio_title": "Yet Radio Raagam",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Yet-radio-raagam.png",
+    "radio_url": "http://cassini.shoutca.st:8436/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4346,
+    "radio_title": "Namma Radio HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/nammmaradiohd.png",
+    "radio_url": "http://s7.voscast.com:9156/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 393,
+    "radio_title": "Ilamai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Ilamai-FM-online-1.png",
+    "radio_url": "http://s8.voscast.com:7404/Stream1?ver=681301",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4131,
+    "radio_title": "Jaffna Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Jaffna-.png",
+    "radio_url": "http://jtrfm.ddnss.de:8000/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5141,
+    "radio_title": "Shyamalavani",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/shyamalavani.png",
+    "radio_url": "http://166.62.121.164:8000/shyamalavani.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4175,
+    "radio_title": "Radio Tamizha",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Radio-Tamizha.png",
+    "radio_url": "http://107.182.231.73:7182/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 499,
+    "radio_title": "Shakthi FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Shakti-FM-1.png",
+    "radio_url": "http://live.trusl.com:1160/;?type=http&nocache=0",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 514,
+    "radio_title": "Lankasri FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Lankasri-FM-1.png",
+    "radio_url": "http://media3.lankasri.fm/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2460,
+    "radio_title": "SLBC Tamil",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/slbcyaalfm-1.png",
+    "radio_url": "http://220.247.227.6:8000/Tnsstream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2512,
+    "radio_title": "SLBC Thendral FM 104.7",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/slbcthendra.png",
+    "radio_url": "http://220.247.227.20:8000/Threndralstream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2474,
+    "radio_title": "Slbc Yaal Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/slbcyaal.png",
+    "radio_url": "http://220.247.227.6:8000/Yaalstream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4224,
+    "radio_title": "Tamil Mirror",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Mirror.png",
+    "radio_url": "http://s6.voscast.com:7888/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 453,
+    "radio_title": "Tamilaruvi FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamilaruvi-FM-1.png",
+    "radio_url": "http://s9.voscast.com:8430/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5311,
+    "radio_title": "Marina Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Marina-Fm.png",
+    "radio_url": "http://192.95.39.65:5048/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4205,
+    "radio_title": "Tube Tamil Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tube-Tamil-Fm.png",
+    "radio_url": "http://s2.voscast.com:12084/.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3806,
+    "radio_title": "Yarl Fm Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Yarl-Fm-Radio.png",
+    "radio_url": "http://s9.voscast.com:8314/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1486,
+    "radio_title": "Uyir FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Uyir-FM.png",
+    "radio_url": "http://s7.voscast.com:10112/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 511,
+    "radio_title": "Varnam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Varnam-FM-1.png",
+    "radio_url": "http://198.178.123.8:8402/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 493,
+    "radio_title": "Vasantham FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vasantham-FM-1.png",
+    "radio_url": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4220,
+    "radio_title": "Imai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Imai-FM.png",
+    "radio_url": "http://78.129.232.162:21841/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2826,
+    "radio_title": "Athavan Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/aadavan-1.png",
+    "radio_url": "http://s1.voscast.com:9038/mountpoint",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4023,
+    "radio_title": "Minnal FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/minal.png",
+    "radio_url": "https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3767,
+    "radio_title": "Mr.Che Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/MR-Che-FM-online.png",
+    "radio_url": "https://streamer.radio.co/s5fb71259c/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4166,
+    "radio_title": "Tamil Flash FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Flash-FM-1.png",
+    "radio_url": "http://64.71.79.181:5070/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4101,
+    "radio_title": "Mega Zone South",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Mega-Zone-South.png",
+    "radio_url": "http://zas1.ndx.co.za:8162/;listen.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4086,
+    "radio_title": "Club house FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Club-house-FM.png",
+    "radio_url": "http://5.135.154.91:8302/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4110,
+    "radio_title": "Time FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Time-FM-.png",
+    "radio_url": "http://192.184.9.158:8087/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4113,
+    "radio_title": "Arangam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Arangam-FM-.png",
+    "radio_url": "http://198.178.123.20:8600/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4119,
+    "radio_title": "Idhayam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Idhayam-FM.png",
+    "radio_url": "http://proxima.shoutca.st:8528/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5087,
+    "radio_title": "Radio Madurai",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/maduraifm.png",
+    "radio_url": "http://192.95.39.65:5328/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4122,
+    "radio_title": "Yuwave Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Yuwave-radio.png",
+    "radio_url": "http://144.217.203.184:8615/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4128,
+    "radio_title": "Sai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Sai-FM.png",
+    "radio_url": "http://s2.voscast.com:9742/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4137,
+    "radio_title": "Netrikgun FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Netrikgun-FM.png",
+    "radio_url": "http://192.99.17.12:4958/;stream/1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4140,
+    "radio_title": "Tamil2 FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil2-FM-.png",
+    "radio_url": "http://s8.voscast.com:7674/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4159,
+    "radio_title": "Abc Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Abc-tamil-.png",
+    "radio_url": "http://38.107.243.220:8118/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4163,
+    "radio_title": "Tamilthai Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/TTF-Tamil-Thai-FM-.png",
+    "radio_url": "http://ttrlive.com:8010/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4169,
+    "radio_title": "Athiradi Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Athiradi-tamil-radio.png",
+    "radio_url": "https://streamer.radio.co/s688f110d0/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4184,
+    "radio_title": "SG Tamilaa",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/SG-Tamilaa.png",
+    "radio_url": "http://sc.cobrasoftwares.in:8088/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4190,
+    "radio_title": "Soup FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Soup-FM.png",
+    "radio_url": "http://usa7.fastcast4u.com:8808/soupfm",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4193,
+    "radio_title": "Radio Gethu",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radio-gethu.png",
+    "radio_url": "http://198.50.156.92:8902/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2075,
+    "radio_title": "THR Raaga Fm Malaysia",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/thrraaga.png",
+    "radio_url": "http://astro3.rastream.com/raaga.android",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2023,
+    "radio_title": "Chennai Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/chennairadio.png",
+    "radio_url": "http://api.chennairadio.ca:8000/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4413,
+    "radio_title": "Vidiyal FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/vidiyal-fm.png",
+    "radio_url": "https://streams.radio.co/sa588bc237/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4448,
+    "radio_title": "Sweety FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/sweety-fm.png",
+    "radio_url": "http://66.55.145.43:7329/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2088,
+    "radio_title": "Radio Gilli UAE",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radiogilli-1.png",
+    "radio_url": "http://ca10.rcast.net:8032/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 390,
+    "radio_title": "Tamil 89.4 FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-89.4-FM.png",
+    "radio_url": "http://31.14.40.150:9000/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 378,
+    "radio_title": "US Tamil FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/US-Tamil-FM.png",
+    "radio_url": "http://streaming.radio.co/s0cfc93915/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3770,
+    "radio_title": "Mazhai Fm Online",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Mazhai-fm-online.png",
+    "radio_url": "http://media.mazhaifm.com:9999/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1501,
+    "radio_title": "American Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/smrticsm-tsmil.png",
+    "radio_url": "http://69.46.24.226:7188/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3764,
+    "radio_title": "East FM 102.7",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/East-FM-102.7.png",
+    "radio_url": "http://174.142.215.249:9966/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2026,
+    "radio_title": "CMR Tamil HD Canadian Fm 1",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/CMR-Tamil-HD.png",
+    "radio_url": "http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 366,
+    "radio_title": "CMR Tamil HD Canadian Fm 2",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/CMR-FM-online-1.png",
+    "radio_url": "http://live.cmr24.net:8081/CMR/CMR-MQ/icecast.audio",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4289,
+    "radio_title": "Dance Tamizha fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Dance-Tamizha-fm.png",
+    "radio_url": "http://ample-zeno-07.radiojar.com/8qaharre56duv.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4104,
+    "radio_title": "GTR FM Online",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/GTR-FM-online-1.png",
+    "radio_url": "http://94.23.62.189:5250/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 490,
+    "radio_title": "Kalasam Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Kalasam-Fm-1.png",
+    "radio_url": "http://sc1.streamingpulse.com:8084/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 508,
+    "radio_title": "Tamil Sun FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Sun-FM-1.png",
+    "radio_url": "http://192.99.4.210:3596/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 435,
+    "radio_title": "Geethavani Online",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Geethavani-online-1.png",
+    "radio_url": "http://50.7.70.66:8657/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1461,
+    "radio_title": "8K Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/8k.png",
+    "radio_url": "https://cplay.8kradio.com/8kradio/smil:av3adapt.smil/playlist.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 438,
+    "radio_title": "A9 Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/A9-tamil-radio-1.png",
+    "radio_url": "http://195.154.217.103:8175/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 384,
+    "radio_title": "CTBC Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/CTBC-Radio-1.png",
+    "radio_url": "http://ctbcfmradio.primcast.com:4086/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 350,
+    "radio_title": "TSR Live Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tsrlive.png",
+    "radio_url": "http://5.135.154.91:8302/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 265,
+    "radio_title": "Tamil kuyil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-kuyil-Radio.png",
+    "radio_url": "http://live.tamilkuyilradio.com:8095/;stream/2",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3616,
+    "radio_title": "Vannathamil Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/vannathamil.png",
+    "radio_url": "http://vtrfm.com:8050/sid=1/stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 487,
+    "radio_title": "IBC tamil radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/IBC-tamil-radio-1.png",
+    "radio_url": "http://38.96.148.226:6176/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 468,
+    "radio_title": "Chellam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Chellam-FM-1.png",
+    "radio_url": "https://usa17.fastcast4u.com/proxy/svickine/?mp=/stream2",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 450,
+    "radio_title": "ILC Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ILC-radio-1.png",
+    "radio_url": "http://s2.voscast.com:9370/",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 331,
+    "radio_title": "Tamil Isai Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ssss.png",
+    "radio_url": "http://s2.free-shoutcast.com:18244/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4134,
+    "radio_title": "Vettri Oli Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/vettrioli.png",
+    "radio_url": "http://s2.voscast.com:12136/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4089,
+    "radio_title": "London Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/London-tamil-radio.png",
+    "radio_url": "http://192.99.41.102:5240/stream?type=http&nocache=25",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 459,
+    "radio_title": "Europe Tamil radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Europe-Tamil-radio-1.png",
+    "radio_url": "http://37.187.93.104:8054/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2420,
+    "radio_title": "Radio Ayyappa",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Radio-Ayyappa.png",
+    "radio_url": "http://s35.myradiostream.com:28232/",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4187,
+    "radio_title": "Tamil Murasam",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tamil-murasam-.png",
+    "radio_url": "http://195.1.201.174:8000/Tamilmurasam\"",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 465,
+    "radio_title": "Paris Tamil FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Paris-Tamil-FM-1.png",
+    "radio_url": "http://s6.voscast.com:7108/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4080,
+    "radio_title": "Natpu FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Natpu-FM-online.png",
+    "radio_url": "http://167.114.131.90:5014/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3758,
+    "radio_title": "Anboli FM France",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/anbolifm.png",
+    "radio_url": "http://212.83.172.11:8643/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 328,
+    "radio_title": "Dream Share FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/dremshare.png",
+    "radio_url": "http://192.235.87.105:15190/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 432,
+    "radio_title": "TRT Tamil Oli FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/TRT-Tamil-Oli-FM-1.png",
+    "radio_url": "http://91.121.165.41:9035/stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 417,
+    "radio_title": "ATBC Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ATBC-Fm-1.png",
+    "radio_url": "http://s7.viastreaming.net:7920/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2470,
+    "radio_title": "iYalisai Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/iYalisai-Radio-1.png",
+    "radio_url": "http://andromeda.shoutca.st:9350/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4143,
+    "radio_title": "Inba Thamil Oli FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Inba-thamil-oli-FM.png",
+    "radio_url": "http://192.99.17.12:4626/inbathamil",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2003,
+    "radio_title": "Tamil Australian FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Australian-FM-2.png",
+    "radio_url": "http://s7.viastreaming.net:7920/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 411,
+    "radio_title": "Thendral world radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Thendral-world-radio-1.png",
+    "radio_url": "http://sc1.sytes.net:9116/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 471,
+    "radio_title": "Abinayam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Abinayam-FM-1.png",
+    "radio_url": "http://192.99.170.8:5756/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4298,
+    "radio_title": "Naga FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Naga-FM.png",
+    "radio_url": "http://songs.nagafm.com:8006/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2314,
+    "radio_title": "Nakshatra Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/nakshatra.png",
+    "radio_url": "http://14123.live.streamtheworld.com/SAM02AAC265_SC",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2061,
+    "radio_title": "Oli Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/olofm.png",
+    "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 354,
+    "radio_title": "Radio Vaanam",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Radio-Vaanam-1.png",
+    "radio_url": "http://107.182.231.73:7178/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3773,
+    "radio_title": "Chandru FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Chandru-FM-online.png",
+    "radio_url": "http://139.99.121.56/proxy/chandrufm?mp=/1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2477,
+    "radio_title": "Ezhisai Panpalai",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Ezhisai-Panbalai-fm.png",
+    "radio_url": "http://eu4.radioboss.fm:8191/stream ",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 2035,
+    "radio_title": "Vegam Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vegam-Fm-1.png",
+    "radio_url": "http://vtr24.com:8000/;stream.nsv&type=mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1648,
+    "radio_title": "Hungama Tamil Fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hungamatamil.png",
+    "radio_url": "http://103.16.47.70:9555/;stream.nsv",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 1651,
+    "radio_title": "Hungama Classics",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/hungamacla.png",
+    "radio_url": "http://103.16.47.70:9000/;stream.nsv",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 271,
+    "radio_title": "Vanavil FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vanavil-FM.png",
+    "radio_url": "http://s8.yesstreaming.net:8560/",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5553,
+    "radio_title": "Vanavil Hits Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vanavil-Hits-Radio.png",
+    "radio_url": "http://s4.yesstreaming.net:7007/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4992,
+    "radio_title": "Golden Vanavil 80S 90S hits",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Golden-Vanavil-80S-90S-hits.png",
+    "radio_url": "http://s3.vanavilfm.com:9000/gv",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 502,
+    "radio_title": "Puradsi FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Puradsi-FM-1.png",
+    "radio_url": "http://puradsifm.net:9994/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5556,
+    "radio_title": "Vanavil Sad Songs",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vanavil-Sad-Songs.png",
+    "radio_url": "http://s3.vanavilfm.com:9000/ss",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4083,
+    "radio_title": "JTR FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/JTR-FM.png",
+    "radio_url": "http://195.154.217.103:8175/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 408,
+    "radio_title": "ITR FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ITR-FM.png",
+    "radio_url": "http://s4.voscast.com:8360/;audio.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 405,
+    "radio_title": "Jei FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Jei-FM-1.png",
+    "radio_url": "http://167.114.131.90:8808/jeifm",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 381,
+    "radio_title": "CTR 24 Tamil Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/CTR-24-Tamil-Radio-1.png",
+    "radio_url": "http://198.27.66.225:8498/stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4150,
+    "radio_title": "Tamil strm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-strm.png",
+    "radio_url": "http://protostar.shoutca.st:8600/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 357,
+    "radio_title": "Red FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/redfm.png",
+    "radio_url": "http://192.99.35.93:6130/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 343,
+    "radio_title": "Nesaganam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Nesaganam-FM-1.png",
+    "radio_url": "http://192.95.39.65:5206/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 340,
+    "radio_title": "Tamil Panpalai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Panpalai-FM-1.png",
+    "radio_url": "http://144.217.129.213:9950/stream64",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 337,
+    "radio_title": "Tamil INI FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-INI-FM-1.png",
+    "radio_url": "http://s9.voscast.com:8708/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 322,
+    "radio_title": "Thayagam Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Thayagam-Radio-1.png",
+    "radio_url": "http://46.28.53.118:7019/thayagam48K",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 316,
+    "radio_title": "Tamil One FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/tamilone.png",
+    "radio_url": "http://www.tamilone.ch:8000/stream_64",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 304,
+    "radio_title": "Ullasam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/ullasam-fm.png",
+    "radio_url": "http://192.99.8.192:2792/ULLasam%20FM",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 292,
+    "radio_title": "Radio Spathy",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/radiospathi.png",
+    "radio_url": "http://82.145.43.92:8378/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5559,
+    "radio_title": "Bakthi Raaga",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Bakthi-Raaga.png",
+    "radio_url": "http://s4.yesstreaming.net:7123/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 289,
+    "radio_title": "VTR FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/VTR-FM-1.png",
+    "radio_url": "http://vtrfm.com:8050/stream/1/",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 535,
+    "radio_title": "Pulikalinkural HD",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Pulikalinkural-HD-1.png",
+    "radio_url": "http://174.36.206.197:7006/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 3620,
+    "radio_title": "MTR Fm Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/MTR-Fm.png",
+    "radio_url": "http://192.184.9.158:8864/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4483,
+    "radio_title": "Air Raagam",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/airraagam.png",
+    "radio_url": "http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4037,
+    "radio_title": "Thiruvannamalai radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Thiruvannamalai-radio.png",
+    "radio_url": "http://srivellaiya.radioca.st/svstvm",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4043,
+    "radio_title": "Shaivam FM online",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/shaivam-FM-online.png",
+    "radio_url": "http://108.59.11.81:8187/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4031,
+    "radio_title": "Sivan kovil fm",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Sivan-kovil-fm.png",
+    "radio_url": "http://sivankovil.no-ip.org:8000/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4049,
+    "radio_title": "OM Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/OM-Radio.png",
+    "radio_url": "http://samcloud.spacial.com/api/listen?sid=67478&m=sc",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 479,
+    "radio_title": "Thuthi FM (christian)",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Thuthi-FM-1.png",
+    "radio_url": "https://streams.radio.co/s790fe269d/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4046,
+    "radio_title": "Periyava radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Periyava-radio.png",
+    "radio_url": "http://samcloud.spacial.com/api/listen?sid=71234&m=sc",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 483,
+    "radio_title": "FM Kondattam (christian)",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/fmkondatam.png",
+    "radio_url": "http://66.55.145.43:7684/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4056,
+    "radio_title": "Inbam FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Inbam-FM.png",
+    "radio_url": "http://stream.radio.co/sf55ced545/listen",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4059,
+    "radio_title": "Kirubai FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Kirubai-FM.png",
+    "radio_url": "http://s4.voscast.com:7110/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4062,
+    "radio_title": "Amen FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Amen-FM-.png",
+    "radio_url": "http://ice7.securenetsystems.net/AMENFM?type=.flv&autoplay=1&autoload=1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4065,
+    "radio_title": "Vaanmalar FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Vaanmalar-FM.png",
+    "radio_url": "http://66.55.145.43:7364/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4068,
+    "radio_title": "Uthamiyae FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/uthamiyae-FM.png",
+    "radio_url": "http://uthamiyaefm.serverroom.us:4712/;stream.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5138,
+    "radio_title": "BakthiRaga",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Bakthiraga.png",
+    "radio_url": "http://s4.yesstreaming.net:8035/bakthiraga?fbclid=IwAR2jhjtPoD1N_Ca7s1M3Kq4KA3DHXmOSxN9VCRQ_6UKKw9vefIQxAL0dUrM",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4071,
+    "radio_title": "Joel FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Joel-FM.png",
+    "radio_url": "http://66.55.145.43:7888/stream",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4074,
+    "radio_title": "Arulvakku FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Arulvakku-FM.png",
+    "radio_url": "https://stream.arulvakku.com/radio/8000/radio.mp3",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 505,
+    "radio_title": "Star FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Star-FM-1.png",
+    "radio_url": "http://s1.voscast.com:8734/;stream1493960230175/1",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4995,
+    "radio_title": "Bakthi Raaga FM",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Bakthi-Raaga-FM-.png",
+    "radio_url": "http://s4.yesstreaming.net:8035/bakthiraga",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 4236,
+    "radio_title": "Bathusha Islamic Radio",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/Bathusha-Islamic-Radio.png",
+    "radio_url": "http://cp8.serverse.com:7067/;",
+    "radio_type": "url",
+    "type": "radio"
+  },
+  {
+    "radio_id": 5221,
+    "radio_title": "Muslim Vaanoli",
+    "radio_img": "http://hdfmradio.com/wp-content/uploads/muslim-radio.png",
+    "radio_url": "http://s2.voscast.com:9356/;",
+    "radio_type": "url",
+    "type": "radio"
+  }
+]
