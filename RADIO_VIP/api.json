@@ -29,8 +29,8 @@
 			"ru": "RADIO RECORD"
 		    },
 		    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png",
-		    "playlist": "http://online.radiorecord.ru:8102/technopop_128",
-		    "current_song": "http://online.radiorecord.ru:8102/technopop_128",    
+		    "playlist": "http://www.radiorecord.ru/radioapi/stations/now/",
+		    "current_song": "http://www.radiorecord.ru/radioapi/stations/now/",    
 		    "streams": {
 			"regular": {
 			    "android": "http://online.radiorecord.ru:8102/technopop_128",
