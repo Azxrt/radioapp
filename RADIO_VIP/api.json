@@ -47,25 +47,25 @@
 		    "url": "hitfm-ukr",
 		    "names": {
 			"uk": "Хіт FM Українські хіти",
-			"en": "Hit FM Ukrainian Hits",
+			"en": "América Dance 90's",
 			"ru": "Хіт FM Українські хіти"
 		    },
 		    "tags": {
 			"uk": "Тільки українські хіти!",
-			"en": "Only Ukrainian hits!",
+			"en": "América Dance 90's",
 			"ru": "Только украинские хиты!"
 		    },
-		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_ukr.png",
-		    "playlist": "https://o.tavrmedia.ua/hit24ukr",
-		    "current_song": "https://o.tavrmedia.ua/hitu",
+		    "logo": "https://i3.radionomy.com/radios/67/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png",
+		    "playlist": "http://stm8.srvstm.com:8212/1",
+		    "current_song": "http://stm8.srvstm.com:8212/1",
 		    "streams": {
 			"regular": {
-			    "android": "http://online2.hitfm.ua/HitFM_Ukr",
-			    "ios": "http://online2.hitfm.ua/HitFM_Ukr_Live"
+			    "android": "http://stm8.srvstm.com:8212/1",
+			    "ios": "http://stm8.srvstm.com:8212/1"
 			},
 			"hd": {
-			    "android": "http://online2.hitfm.ua/HitFM_Ukr_HD",
-			    "ios": "http://online2.hitfm.ua/HitFM_Ukr_HD"
+			    "android": "http://stm8.srvstm.com:8212/1",
+			    "ios": "http://stm8.srvstm.com:8212/1"
 			}
 		    }
 		},
@@ -74,25 +74,25 @@
 		    "url": "hitfm-best",
 		    "names": {
 			"uk": "Хіт FM Найбільші хіти",
-			"en": "Hit FM Best Hits",
+			"en": "VIPradio EuroDance",
 			"ru": "Хіт FM Найбільші хіти"
 		    },
 		    "tags": {
 			"uk": "Тільки найбільші хіти!",
-			"en": "Only Best Hits!",
+			"en": "VIPradio EuroDance",
 			"ru": "Только большие хиты!"
 		    },
-		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_best.png",
-		    "playlist": "https://o.tavrmedia.ua/hit24best",
-		    "current_song": "https://o.tavrmedia.ua/hitb",
+		    "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png",
+		    "playlist": "http://149.56.175.167:5429/stream",
+		    "current_song": "http://149.56.175.167:5429/stream",
 		    "streams": {
 			"regular": {
-			    "android": "http://online2.hitfm.ua/HitFM_Best",
-			    "ios": "http://online2.hitfm.ua/HitFM_Best_Live"
+			    "android": "http://149.56.175.167:5429/stream",
+			    "ios": "http://149.56.175.167:5429/stream"
 			},
 			"hd": {
-			    "android": "http://online2.hitfm.ua/HitFM_Best_HD",
-			    "ios": "http://online2.hitfm.ua/HitFM_Best_HD"
+			    "android": "http://149.56.175.167:5429/stream",
+			    "ios": "http://149.56.175.167:5429/stream"
 			}
 		    }
 		},
@@ -101,25 +101,25 @@
 		    "url": "hitfm-top",
 		    "names": {
 			"uk": "Хіт FM Сучасні хіти",
-			"en": "Hit FM Top Hits",
+			"en": "FFH Eurodances",
 			"ru": "Хіт FM Сучасні хіти"
 		    },
 		    "tags": {
 			"uk": "Тільки сучасні хіти!",
-			"en": "Only Top Hits!",
+			"en": "FFH Eurodances",
 			"ru": "Только современные хиты!"
 		    },
-		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_top.png",
-		    "playlist": "https://o.tavrmedia.ua/hit24top",
-		    "current_song": "https://o.tavrmedia.ua/hitt",
+		    "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png",
+		    "playlist": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+		    "current_song": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
 		    "streams": {
 			"regular": {
-			    "android": "http://online2.hitfm.ua/HitFM_Top",
-			    "ios": "http://online2.hitfm.ua/HitFM_Top_Live"
+			    "android": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+			    "ios": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3"
 			},
 			"hd": {
-			    "android": "http://online2.hitfm.ua/HitFM_Top_HD",
-			    "ios": "http://online2.hitfm.ua/HitFM_Top_HD"
+			    "android": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+			    "ios": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3"
 			}
 		    }
 		}
