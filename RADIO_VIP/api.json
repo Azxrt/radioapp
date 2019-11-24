@@ -1,0 +1,1105 @@
+[
+	{
+		"id": 100,
+		"names": 
+		{
+			"uk": "EURODANCE MUSIC",
+			"en": "EURODANCE MUSIC EN",
+			"ru": "EURODANCE MUSIC RU"
+		},
+		"tags": 
+		{
+			"uk": "EURODANCE MUSIC UK T",
+			"en": "EURODANCE MUSIC EN T",
+			"ru": "EURODANCE MUSIC RU T"
+		},
+		"logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png",
+		"stations": [
+		{
+		    "id": 101,
+		    "url": "hitfm",
+		    "names": {
+			"uk": "RADIO RECORD UK",
+			"en": "RADIO RECORD EN",
+			"ru": "RADIO RECORD RU" 
+		    },
+		    "tags": {
+			"uk": "RADIO RECORDUKT",
+			"en": "RADIO RECO!",
+			"ru": "RADIO RECORD"
+		    },
+		    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png",
+		    "playlist": "http://online.radiorecord.ru:8102/technopop_128",
+		    "current_song": "http://online.radiorecord.ru:8102/technopop_128",    
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radiorecord.ru:8102/technopop_128",
+			    "ios": "http://online.radiorecord.ru:8102/technopop_128"
+			},
+			"hd": {
+			    "android": "http://online.radiorecord.ru:8102/technopop_320",
+			    "ios": "http://online.radiorecord.ru:8102/technopop_320"
+			}
+		    }
+		},
+		{
+		    "id": 102,
+		    "url": "hitfm-ukr",
+		    "names": {
+			"uk": "Хіт FM Українські хіти",
+			"en": "Hit FM Ukrainian Hits",
+			"ru": "Хіт FM Українські хіти"
+		    },
+		    "tags": {
+			"uk": "Тільки українські хіти!",
+			"en": "Only Ukrainian hits!",
+			"ru": "Только украинские хиты!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_ukr.png",
+		    "playlist": "https://o.tavrmedia.ua/hit24ukr",
+		    "current_song": "https://o.tavrmedia.ua/hitu",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.hitfm.ua/HitFM_Ukr",
+			    "ios": "http://online2.hitfm.ua/HitFM_Ukr_Live"
+			},
+			"hd": {
+			    "android": "http://online2.hitfm.ua/HitFM_Ukr_HD",
+			    "ios": "http://online2.hitfm.ua/HitFM_Ukr_HD"
+			}
+		    }
+		},
+		{
+		    "id": 103,
+		    "url": "hitfm-best",
+		    "names": {
+			"uk": "Хіт FM Найбільші хіти",
+			"en": "Hit FM Best Hits",
+			"ru": "Хіт FM Найбільші хіти"
+		    },
+		    "tags": {
+			"uk": "Тільки найбільші хіти!",
+			"en": "Only Best Hits!",
+			"ru": "Только большие хиты!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_best.png",
+		    "playlist": "https://o.tavrmedia.ua/hit24best",
+		    "current_song": "https://o.tavrmedia.ua/hitb",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.hitfm.ua/HitFM_Best",
+			    "ios": "http://online2.hitfm.ua/HitFM_Best_Live"
+			},
+			"hd": {
+			    "android": "http://online2.hitfm.ua/HitFM_Best_HD",
+			    "ios": "http://online2.hitfm.ua/HitFM_Best_HD"
+			}
+		    }
+		},
+		{
+		    "id": 104,
+		    "url": "hitfm-top",
+		    "names": {
+			"uk": "Хіт FM Сучасні хіти",
+			"en": "Hit FM Top Hits",
+			"ru": "Хіт FM Сучасні хіти"
+		    },
+		    "tags": {
+			"uk": "Тільки сучасні хіти!",
+			"en": "Only Top Hits!",
+			"ru": "Только современные хиты!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_top.png",
+		    "playlist": "https://o.tavrmedia.ua/hit24top",
+		    "current_song": "https://o.tavrmedia.ua/hitt",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.hitfm.ua/HitFM_Top",
+			    "ios": "http://online2.hitfm.ua/HitFM_Top_Live"
+			},
+			"hd": {
+			    "android": "http://online2.hitfm.ua/HitFM_Top_HD",
+			    "ios": "http://online2.hitfm.ua/HitFM_Top_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+	{
+	    "id": 200,
+	    "names": {
+		"uk": "Radio ROKS (5)",
+		"en": "Radio ROKS (5)",
+		"ru": "Radio ROKS (5)"
+	     },
+	    "tags": {
+		"uk": "Рок. Тільки рок!",
+		"en": "Rock. Only rock!",
+		"ru": "Рок. Только рок!"
+	     },
+	    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks.png",
+	    "stations": [
+		{
+		    "id": 201,
+		    "url": "radioroks",
+		    "names": {
+			"uk": "Radio ROKS",
+			"en": "Radio ROKS",
+			"ru": "Radio ROKS" 
+		    },
+		    "tags": {
+			"uk": "Рок. Тільки рок!",
+			"en": "Rock. Only rock!",
+			"ru": "Рок. Только рок!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks.png",
+		    "playlist": "https://o.tavrmedia.ua/roks24songs",
+		    "current_song": "https://o.tavrmedia.ua/roks",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radioroks.ua/RadioROKS",
+			    "ios": "http://online.radioroks.ua/RadioROKS_Live"
+			},
+			"hd": {
+			    "android": "http://online.radioroks.ua/RadioROKS_HD",
+			    "ios": "http://online.radioroks.ua/RadioROKS_HD"
+			}
+		    }
+		},
+		{
+		    "id": 202,
+		    "url": "radioroks-ukr",
+		    "names": {
+			"uk": "Український рок",
+			"en": "Ukrainian Rock",
+			"ru": "Украинский рок"
+		    },
+		    "tags": {
+			"uk": "Тільки український рок!",
+			"en": "Only Ukrainian Rock!",
+			"ru": "Только украинский рок!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks_ukr.png",
+		    "playlist": "https://o.tavrmedia.ua/roks24ukr",
+		    "current_song": "https://o.tavrmedia.ua/roksukr",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_Ukr",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_Ukr_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_Ukr_HD",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_Ukr_HD"
+			}
+		    }
+		},
+		{
+		    "id": 203,
+		    "url": "radioroks-newrock",
+		    "names": {
+			"uk": "Новий рок",
+			"en": "New Rock",
+			"ru": "Новый рок"
+		    },
+		    "tags": {
+			"uk": "Тільки новий рок!",
+			"en": "Only New Rock!",
+			"ru": "Только новый рок!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks_newrock.png",
+		    "playlist": "https://o.tavrmedia.ua/roks24new",
+		    "current_song": "https://o.tavrmedia.ua/roksnew",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_NewRock",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_NewRock_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_NewRock_HD",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_NewRock_HD"
+			}
+		    }
+		},
+		{
+		    "id": 204,
+		    "url": "radioroks-hardnheavy",
+		    "names": {
+			"uk": "Hard'n'Heavy",
+			"en": "Hard'n'Heavy",
+			"ru": "Hard'n'Heavy"
+		    },
+		    "tags": {
+			"uk": "Тільки Hard'n'Heavy!",
+			"en": "Only Hard'n'Heavy!",
+			"ru": "Только Hard'n'Heavy!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks_hardnheavy.png",
+		    "playlist": "https://o.tavrmedia.ua/roks24hard",
+		    "current_song": "https://o.tavrmedia.ua/rokshar",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_HardnHeavy",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_HardnHeavy_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_HardnHeavy_HD",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_HardnHeavy_HD"
+			}
+		    }
+		},
+		{
+		    "id": 205,
+		    "url": "radioroks-ballads",
+		    "names": {
+			"uk": "Рок-балади",
+			"en": "Rock-Ballads",
+			"ru": "Рок-баллады"
+		    },
+		    "tags": {
+			"uk": "Тільки рок-балади!",
+			"en": "Only Rock-Ballads!",
+			"ru": "Только рок-баллады!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioroks_ballads.png",
+		    "playlist": "https://o.tavrmedia.ua/roks24ballads",
+		    "current_song": "https://o.tavrmedia.ua/roksbal",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_Ballads",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_Ballads_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radioroks.ua/RadioROKS_Ballads_HD",
+			    "ios": "http://online2.radioroks.ua/RadioROKS_Ballads_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+	{
+	    "id": 300,
+	    "names": {
+		"uk": "Kiss FM (6)",
+		"en": "Kiss FM (6)",
+		"ru": "Kiss FM (6)"
+	     },
+	    "tags": {
+		"uk": "The Best Dance Radio",
+		"en": "The Best Dance Radio",
+		"ru": "The Best Dance Radio"
+	     },
+	    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm.png",
+	    "stations": [
+		{
+		    "id": 301,
+		    "url": "kissfm",
+		    "names": {
+			"uk": "Kiss FM",
+			"en": "Kiss FM",
+			"ru": "Kiss FM" 
+		    },
+		    "tags": {
+			"uk": "The Best Dance Radio",
+			"en": "The Best Dance Radio",
+			"ru": "The Best Dance Radio"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24songs",
+		    "current_song": "https://o.tavrmedia.ua/kiss",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.kissfm.ua/KissFM",
+			    "ios": "http://online.kissfm.ua/KissFM_Live"
+			},
+			"hd": {
+			    "android": "http://online.kissfm.ua/KissFM_HD",
+			    "ios": "http://online.kissfm.ua/KissFM_HD"
+			}
+		    }
+		},
+		{
+		    "id": 302,
+		    "url": "kissfm-ukr",
+		    "names": {
+			"uk": "Kiss FM Ukrainian",
+			"en": "Kiss FM Ukrainian",
+			"ru": "Kiss FM Ukrainian"
+		    },
+		    "tags": {
+			"uk": "Найкраща українська танцювальна музика",
+			"en": "Best Ukrainian Dance Music",
+			"ru": "Лучшая украинская танцевальная музыка"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm_ukr.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24ukr",
+		    "current_song": "https://o.tavrmedia.ua/kissukr",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.kissfm.ua/KissFM_Ukr",
+			    "ios": "http://online2.kissfm.ua/KissFM_Ukr_Live"
+			},
+			"hd": {
+			    "android": "http://online2.kissfm.ua/KissFM_Ukr_HD",
+			    "ios": "http://online2.kissfm.ua/KissFM_Ukr_HD"
+			}
+		    }
+		},
+		{
+		    "id": 303,
+		    "url": "kissfm-deep",
+		    "names": {
+			"uk": "Kiss FM Deep",
+			"en": "Kiss FM Deep",
+			"ru": "Kiss FM Deep"
+		    },
+		    "tags": {
+			"uk": "Best Deep House Music",
+			"en": "Best Deep House Music",
+			"ru": "Best Deep House Music"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm_deep.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24deep",
+		    "current_song": "https://o.tavrmedia.ua/kissdeep",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.kissfm.ua/KissFM_Deep",
+			    "ios": "http://online2.kissfm.ua/KissFM_Deep_Live"
+			},
+			"hd": {
+			    "android": "http://online2.kissfm.ua/KissFM_Deep_HD",
+			    "ios": "http://online2.kissfm.ua/KissFM_Deep_HD"
+			}
+		    }
+		},
+		{
+		    "id": 304,
+		    "url": "kissfm-black",
+		    "names": {
+			"uk": "Kiss FM Black",
+			"en": "Kiss FM Black",
+			"ru": "Kiss FM Black"
+		    },
+		    "tags": {
+			"uk": "Best Hip Hop, Afro, Trap",
+			"en": "Best Hip Hop, Afro, Trap",
+			"ru": "Best Hip Hop, Afro, Trap"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm_black.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24black",
+		    "current_song": "https://o.tavrmedia.ua/kissblack",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.kissfm.ua/KissFM_Black",
+			    "ios": "http://online2.kissfm.ua/KissFM_Black_Live"
+			},
+			"hd": {
+			    "android": "http://online2.kissfm.ua/KissFM_Black_HD",
+			    "ios": "http://online2.kissfm.ua/KissFM_Black_HD"
+			}
+		    }
+		},
+		{
+		    "id": 305,
+		    "url": "kissfm-digital",
+		    "names": {
+			"uk": "Kiss FM Digital",
+			"en": "Kiss FM Digital",
+			"ru": "Kiss FM Digital"
+		    },
+		    "tags": {
+			"uk": "Best Dance and House Music",
+			"en": "Best Dance and House Music",
+			"ru": "Best Dance and House Music"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm_digital.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24digital",
+		    "current_song": "https://o.tavrmedia.ua/kissdigital",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.kissfm.ua/KissFM_Digital",
+			    "ios": "http://online2.kissfm.ua/KissFM_Digital_Live"
+			},
+			"hd": {
+			    "android": "http://online2.kissfm.ua/KissFM_Digital_HD",
+			    "ios": "http://online2.kissfm.ua/KissFM_Digital_HD"
+			}
+		    }
+		},
+		{
+		    "id": 306,
+		    "url": "kissfm-trendz",
+		    "names": {
+			"uk": "Kiss FM Trendz",
+			"en": "Kiss FM Trendz",
+			"ru": "Kiss FM Trendz"
+		    },
+		    "tags": {
+			"uk": "Best Trendy Music",
+			"en": "Best Trendy Music",
+			"ru": "Best Trendy Music"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_kissfm_trendz.png",
+		    "playlist": "https://o.tavrmedia.ua/kiss24trendz",
+		    "current_song": "https://o.tavrmedia.ua/kisstrendz",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.kissfm.ua/KissFM_Trendz",
+			    "ios": "http://online2.kissfm.ua/KissFM_Trendz_Live"
+			},
+			"hd": {
+			    "android": "http://online2.kissfm.ua/KissFM_Trendz_HD",
+			    "ios": "http://online2.kissfm.ua/KissFM_Trendz_HD"
+			}
+		    }
+		}
+
+	    ]
+	},
+
+	{
+	    "id": 400,
+	    "names": {
+		"uk": "Radio Relax (4)",
+		"en": "Radio Relax (4)",
+		"ru": "Radio Relax (4)"
+	     },
+	    "tags": {
+		"uk": "Легке та спокійне радіо",
+		"en": "Light and quiet radio",
+		"ru": "Легкое и спокойное радио"
+	     },
+	    "logo": "https://radioplayer.ua/stuff/logo/logo_radiorelax.png",
+	    "stations": [
+		{
+		    "id": 401,
+		    "url": "radiorelax",
+		    "names": {
+			"uk": "Radio Relax",
+			"en": "Radio Relax",
+			"ru": "Radio Relax" 
+		    },
+		    "tags": {
+			"uk": "Легке та спокійне радіо",
+			"en": "Light and quiet radio",
+			"ru": "Легкое и спокойное радио"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radiorelax.png",
+		    "playlist": "https://o.tavrmedia.ua/relax24songs",
+		    "current_song": "https://o.tavrmedia.ua/relax",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radiorelax.ua/RadioRelax",
+			    "ios": "http://online.radiorelax.ua/RadioRelax_Live"
+			},
+			"hd": {
+			    "android": "http://online.radiorelax.ua/RadioRelax_HD",
+			    "ios": "http://online.radiorelax.ua/RadioRelax_HD"
+			}
+		    }
+		},
+		{
+		    "id": 403,
+		    "url": "radiorelax-international",
+		    "names": {
+			"uk": "Relax International",
+			"en": "Relax International",
+			"ru": "Relax International"
+		    },
+		    "tags": {
+			"uk": "Легка та спокійна музика з усього світу",
+			"en": "Best International Relax Music",
+			"ru": "Легкая и спокойная музыка со всего мира"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radiorelax_int.png",
+		    "playlist": "https://o.tavrmedia.ua/relax24int",
+		    "current_song": "https://o.tavrmedia.ua/relaxint",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Int",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Int_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Int_HD",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Int_HD"
+			}
+		    }
+		},
+		{
+		    "id": 404,
+		    "url": "radiorelax-instrumental",
+		    "names": {
+			"uk": "Relax Instrumental",
+			"en": "Relax Instrumental",
+			"ru": "Relax Instrumental"
+		    },
+		    "tags": {
+			"uk": "Легка та спокійна музика без слів",
+			"en": "Best Instrumental Music",
+			"ru": "Легкая и спокойная музыка без слов"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radiorelax_instrumental.png",
+		    "playlist": "https://o.tavrmedia.ua/relax24instrumental",
+		    "current_song": "https://o.tavrmedia.ua/relaxinstrumental",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Instrumental",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Instrumental_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Instrumental_HD",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Instrumental_HD"
+			}
+		    }
+		},
+		{
+		    "id": 405,
+		    "url": "radiorelax-cafe",
+		    "names": {
+			"uk": "Relax Cafe",
+			"en": "Relax Cafe",
+			"ru": "Relax Cafe"
+		    },
+		    "tags": {
+			"uk": "Легка та спокійна lounge-музика",
+			"en": "Best Lounge Music",
+			"ru": "Легкая и спокойная lounge-музыка"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radiorelax_cafe.png",
+		    "playlist": "https://o.tavrmedia.ua/relax24cafe",
+		    "current_song": "https://o.tavrmedia.ua/relaxcafe",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Cafe",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Cafe_Live"
+			},
+			"hd": {
+			    "android": "http://online2.radiorelax.ua/RadioRelax_Cafe_HD",
+			    "ios": "http://online2.radiorelax.ua/RadioRelax_Cafe_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+	{
+	    "id": 500,
+	    "names": {
+		"uk": "Мелодія FM (4)",
+		"en": "Melodia FM (4)",
+		"ru": "Мелодія FM (4)"
+	     },
+	    "tags": {
+		"uk": "Радіо для гарного настрою!",
+		"en": "Radio for good mood!",
+		"ru": "Радио для хорошего настроения!"
+	     },
+	    "logo": "https://radioplayer.ua/stuff/logo/logo_melodiafm.png",
+	    "stations": [
+		{
+		    "id": 501,
+		    "url": "melodiafm",
+		    "names": {
+			"uk": "Мелодія FM",
+			"en": "Melodia FM",
+			"ru": "Мелодія FM" 
+		    },
+		    "tags": {
+			"uk": "Радіо для гарного настрою!",
+			"en": "Radio for good mood!",
+			"ru": "Радио для хорошего настроения!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_melodiafm.png",
+		    "playlist": "https://o.tavrmedia.ua/melodia24songs",
+		    "current_song": "https://o.tavrmedia.ua/melodia",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.melodiafm.ua/MelodiaFM",
+			    "ios": "http://online.melodiafm.ua/MelodiaFM_Live"
+			},
+			"hd": {
+			    "android": "http://online.melodiafm.ua/MelodiaFM_HD",
+			    "ios": "http://online.melodiafm.ua/MelodiaFM_HD"
+			}
+		    }
+		},
+		{
+		    "id": 502,
+		    "url": "melodiafm-disco",
+		    "names": {
+			"uk": "Мелодія FM Disco",
+			"en": "Melodia FM Disco",
+			"ru": "Мелодія FM Disco"
+		    },
+		    "tags": {
+			"uk": "Найкращі танцювальні хіти",
+			"en": "Best Disco Songs",
+			"ru": "Лучшие танцевальные хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_melodiafm_disco.png",
+		    "playlist": "https://o.tavrmedia.ua/melodia24disco",
+		    "current_song": "https://o.tavrmedia.ua/melodiad",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Disco",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Disco_Live"
+			},
+			"hd": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Disco_HD",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Disco_HD"
+			}
+		    }
+		},
+		{
+		    "id": 503,
+		    "url": "melodiafm-romantic",
+		    "names": {
+			"uk": "Мелодія FM Romantic",
+			"en": "Melodia FM Romantic",
+			"ru": "Мелодія FM Romantic"
+		    },
+		    "tags": {
+			"uk": "Найкращі романтичні хіти",
+			"en": "Best Romantic Hits",
+			"ru": "Лучшие романтические хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_melodiafm_romantic.png",
+		    "playlist": "https://o.tavrmedia.ua/melodia24romantic",
+		    "current_song": "https://o.tavrmedia.ua/melodiar",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Romantic",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Romantic_Live"
+			},
+			"hd": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Romantic_HD",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Romantic_HD"
+			}
+		    }
+		},
+		{
+		    "id": 504,
+		    "url": "melodiafm-italiano",
+		    "names": {
+			"uk": "Мелодія FM Italiano",
+			"en": "Melodia FM Italiano",
+			"ru": "Мелодія FM Italiano"
+		    },
+		    "tags": {
+			"uk": "Найкращі італійські хіти",
+			"en": "Best Italian Hits",
+			"ru": "Лучшие итальянские хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_melodiafm_italiano.png",
+		    "playlist": "https://o.tavrmedia.ua/melodia24italiano",
+		    "current_song": "https://o.tavrmedia.ua/melodiai",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Italiano",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Italiano_Live"
+			},
+			"hd": {
+			    "android": "http://online2.melodiafm.ua/MelodiaFM_Italiano_HD",
+			    "ios": "http://online2.melodiafm.ua/MelodiaFM_Italiano_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+	{
+	    "id": 600,
+	    "names": {
+		"uk": "Русское Радио Україна (4)",
+		"en": "Russkoe Radio Ukraine (4)",
+		"ru": "Русское Радио Україна (4)"
+	     },
+	    "tags": {
+		"uk": "Все буде добре!",
+		"en": "Everything will be fine!",
+		"ru": "Все будет хорошо!"
+	     },
+	    "logo": "https://radioplayer.ua/stuff/logo/logo_rusradio.png",
+	    "stations": [
+		{
+		    "id": 601,
+		    "url": "rusradio",
+		    "names": {
+			"uk": "Русское Радио Україна",
+			"en": "Russkoe Radio Ukraine",
+			"ru": "Русское Радио Україна" 
+		    },
+		    "tags": {
+			"uk": "Все буде добре!",
+			"en": "Everything will be fine!",
+			"ru": "Все будет хорошо!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_rusradio.png",
+		    "playlist": "https://o.tavrmedia.ua/rus24songs",
+		    "current_song": "https://o.tavrmedia.ua/russ",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.rusradio.ua/RusRadio",
+			    "ios": "http://online.rusradio.ua/RusRadio_Live"
+			},
+			"hd": {
+			    "android": "http://online.rusradio.ua/RusRadio_HD",
+			    "ios": "http://online.rusradio.ua/RusRadio_HD"
+			}
+		    }
+		},
+		{
+		    "id": 602,
+		    "url": "rusradio-dance",
+		    "names": {
+			"uk": "Дискотека Русского Радио",
+			"en": "Russkoe Radio Disco",
+			"ru": "Дискотека Русского Радио"
+		    },
+		    "tags": {
+			"uk": "Найкращі танцювальні хіти",
+			"en": "Russian and Ukrainian Dance Hits",
+			"ru": "Лучшие танцевальные хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_rusradio_dance.png",
+		    "playlist": "https://o.tavrmedia.ua/rus24dance",
+		    "current_song": "https://o.tavrmedia.ua/russd",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Dance",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Dance_Live"
+			},
+			"hd": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Dance_HD",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Dance_HD"
+			}
+		    }
+		},
+		{
+		    "id": 603,
+		    "url": "rusradio-lyric",
+		    "names": {
+			"uk": "Лірика Русского Радио",
+			"en": "Russkoe Radio Lyric",
+			"ru": "Лирика Русского Радио"
+		    },
+		    "tags": {
+			"uk": "Найкращі хіти",
+			"en": "Russian and Ukrainian Top Hits",
+			"ru": "Лучшие хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_rusradio_lyric.png",
+		    "playlist": "https://o.tavrmedia.ua/rus24lyric",
+		    "current_song": "https://o.tavrmedia.ua/russl",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Lyric",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Lyric_Live"
+			},
+			"hd": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Lyric_HD",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Lyric_HD"
+			}
+		    }
+		},
+		{
+		    "id": 604,
+		    "url": "rusradio-classic",
+		    "names": {
+			"uk": "Класика Русского Радио",
+			"en": "Russkoe Radio Classic",
+			"ru": "Классика Русского Радио"
+		    },
+		    "tags": {
+			"uk": "Найбільші хіти",
+			"en": "Russian and Ukrainian Classic Hits",
+			"ru": "Лучшие хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_rusradio_classic.png",
+		    "playlist": "https://o.tavrmedia.ua/rus24classic",
+		    "current_song": "https://o.tavrmedia.ua/russc",
+		    "streams": {
+			"regular": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Classic",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Classic_Live"
+			},
+			"hd": {
+			    "android": "http://online2.rusradio.ua/RusRadio_Classic_HD",
+			    "ios": "http://online2.rusradio.ua/RusRadio_Classic_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+	{
+	    "id": 650,
+	    "names": {
+		"uk": "Ще більше радіостанцій (3)",
+		"en": "More stations (3)",
+		"ru": "Еще больше радиостанций (3)"
+	     },
+	    "tags": {
+		"uk": " ",
+		"en": " ",
+		"ru": " "
+	     },
+	    "logo": " ",
+	    "stations": [
+		{
+		    "id": 651,
+		    "url": "luxfm",
+		    "names": {
+			"uk": "Люкс ФМ",
+			"en": "Lux FM",
+			"ru": "Люкс ФМ" 
+		    },
+		    "tags": {
+			"uk": "Розважальне радіо №1",
+			"en": " ",
+			"ru": "Развлекательное радио №1"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/lux24/logo_luxfm_1000.png",
+		    "playlist": "",
+		    "current_song": "",
+		    "streams": {
+			"regular": {
+			    "android": "http://icecastdc.luxnet.ua/lux_mp3_128",
+			    "ios": "http://icecastdc.luxnet.ua/lux_mp3_128"
+			},
+			"hd": {
+			    "android": "http://icecastdc.luxnet.ua/lux_mp3",
+			    "ios": "http://icecastdc.luxnet.ua/lux_mp3"
+			}
+		    }
+		},
+		{
+		    "id": 652,
+		    "url": "maximum",
+		    "names": {
+			"uk": "Радіо МАКСИМУМ",
+			"en": "Radio MAXIMUM",
+			"ru": "Радіо МАКСИМУМ"
+		    },
+		    "tags": {
+			"uk": "Справжні хіти",
+			"en": " ",
+			"ru": "Настоящие хиты"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/lux24/logo_radiomaximum_1000.png",
+		    "playlist": "",
+		    "current_song": "",
+		    "streams": {
+			"regular": {
+			    "android": "http://icecastdc.luxnet.ua/maximum_mp3_128",
+			    "ios": "http://icecastdc.luxnet.ua/maximum_mp3_128"
+			},
+			"hd": {
+			    "android": "http://icecastdc.luxnet.ua/maximum_mp3",
+			    "ios": "http://icecastdc.luxnet.ua/maximum_mp3"
+			}
+		    }
+		},
+		{
+		    "id": 653,
+		    "url": "nostalgie",
+		    "names": {
+			"uk": "Radio NOSTALGIE",
+			"en": "Radio NOSTALGIE",
+			"ru": "Radio NOSTALGIE"
+		    },
+		    "tags": {
+			"uk": "Життя зі смаком",
+			"en": " ",
+			"ru": "Жизнь со вкусом"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/lux24/logo_radionostalgie_1000.png",
+		    "playlist": "",
+		    "current_song": "",
+		    "streams": {
+			"regular": {
+			    "android": "http://icecastdc.luxnet.ua/nostalgie_mp3_128",
+			    "ios": "http://icecastdc.luxnet.ua/nostalgie_mp3_128"
+			},
+			"hd": {
+			    "android": "http://icecastdc.luxnet.ua/nostalgie_mp3",
+			    "ios": "http://icecastdc.luxnet.ua/nostalgie_mp3"
+			}
+		    }
+		}
+
+	    ]
+	},
+
+	{
+	    "id": 700,
+	    "names": {
+		"uk": "Ще більше музики (4)",
+		"en": "More music (4)",
+		"ru": "Еще больше музыки (4)"
+	     },
+	    "tags": {
+		"uk": " ",
+		"en": " ",
+		"ru": " "
+	     },
+	    "logo": " ",
+	    "stations": [
+		{
+		    "id": 701,
+		    "url": "radiojazz",
+		    "names": {
+			"uk": "Radio Jazz",
+			"en": "Radio Jazz",
+			"ru": "Radio Jazz" 
+		    },
+		    "tags": {
+			"uk": "Бути собою",
+			"en": " ",
+			"ru": "Бути собою"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radiojazz.jpg",
+		    "playlist": "https://o.tavrmedia.ua/jazz24songs",
+		    "current_song": "https://o.tavrmedia.ua/jazz",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radiojazz.ua/RadioJazz",
+			    "ios": "http://online.radiojazz.ua/RadioJazz_Live"
+			},
+			"hd": {
+			    "android": "http://online.radiojazz.ua/RadioJazz_HD",
+			    "ios": "http://online.radiojazz.ua/RadioJazz_HD"
+			}
+		    }
+		},
+		{
+		    "id": 702,
+		    "url": "radioclassic",
+		    "names": {
+			"uk": "Радіо Класика",
+			"en": "Radio Classic",
+			"ru": "Радио Классика"
+		    },
+		    "tags": {
+			"uk": " ",
+			"en": " ",
+			"ru": " "
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioclassic.jpg",
+		    "playlist": "https://o.tavrmedia.ua/radio24classic",
+		    "current_song": "https://o.tavrmedia.ua/radio3classic",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radioplayer.ua/RadioClassic",
+			    "ios": "http://online.radioplayer.ua/RadioClassic_Live"
+			},
+			"hd": {
+			    "android": "http://online.radioplayer.ua/RadioClassic_HD",
+			    "ios": "http://online.radioplayer.ua/RadioClassic_HD"
+			}
+		    }
+		},
+		{
+		    "id": 703,
+		    "url": "radioindieua",
+		    "names": {
+			"uk": "Радіо Інді.UA",
+			"en": "Radio Indie.UA",
+			"ru": "Радіо Інді.UA"
+		    },
+		    "tags": {
+			"uk": "Незалежна українська музика",
+			"en": "Independent Ukrainian music",
+			"ru": "Независимая украинская музыка"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_radioindieua.png",
+		    "playlist": "https://o.tavrmedia.ua/radio24indieua",
+		    "current_song": "https://o.tavrmedia.ua/radio3indieua",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radioplayer.ua/RadioIndieUA",
+			    "ios": "http://online.radioplayer.ua/RadioIndieUA_Live"
+			},
+			"hd": {
+			    "android": "http://online.radioplayer.ua/RadioIndieUA_HD",
+			    "ios": "http://online.radioplayer.ua/RadioIndieUA_HD"
+			}
+		    }
+		},
+		{
+		    "id": 704,
+		    "url": "guliayradio",
+		    "names": {
+			"uk": "Гуляй Радіо",
+			"en": "Guliay Radio",
+			"ru": "Гуляй Радіо"
+		    },
+		    "tags": {
+			"uk": "Будьмо!",
+			"en": " ",
+			"ru": "Будьмо!"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/logo_guliayradio.jpg",
+		    "playlist": "https://o.tavrmedia.ua/radio24guliay",
+		    "current_song": "https://o.tavrmedia.ua/radio3guliay",
+		    "streams": {
+			"regular": {
+			    "android": "http://online.radioplayer.ua/GuliayRadio",
+			    "ios": "http://online.radioplayer.ua/GuliayRadio_Live"
+			},
+			"hd": {
+			    "android": "http://online.radioplayer.ua/GuliayRadio_HD",
+			    "ios": "http://online.radioplayer.ua/GuliayRadio_HD"
+			}
+		    }
+		}
+	    ]
+	},
+
+
+	{
+	    "id": 800,
+	    "names": {
+		"uk": "Новини та розмови (1)",
+		"en": "News & Talk (1)",
+		"ru": "Новости и разговоры (1)"
+	     },
+	    "tags": {
+		"uk": " ",
+		"en": " ",
+		"ru": " "
+	     },
+	    "logo": " ",
+	    "stations": [
+		{
+		    "id": 801,
+		    "url": "radionv",
+		    "names": {
+			"uk": "Радіо НВ",
+			"en": "Radio NV",
+			"ru": "Радіо НВ" 
+		    },
+		    "tags": {
+			"uk": "Дізнавайся нове",
+			"en": " ",
+			"ru": "Дізнавайся нове"
+		    },
+		    "logo": "https://radioplayer.ua/stuff/logo/radionv/logo_radionv.jpg",
+		    "playlist": "",
+		    "current_song": "",
+		    "streams": {
+			"regular": {
+			    "android": "http://91.218.212.84:8000/radionv.mp3",
+			    "ios": "http://91.218.212.84:8000/radionv.mp3"
+			},
+			"hd": {
+			    "android": "http://91.218.212.84:8000/radionv.mp3",
+			    "ios": "http://91.218.212.84:8000/radionv.mp3"
+			}
+		    }
+		}
+	    ]
+	}
+
+]
