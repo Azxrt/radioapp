@@ -109,7 +109,7 @@
         },
         "logo": "https://dl.dropbox.com/s/4sbh8uowaqqbhww/k24.png",
         "playlist": "https://o.tavrmedia.ua/roks24songs",
-        "current_song": "Barcelona",
+        "current_song": "https://o.tavrmedia.ua/hitu",
         "streams": {
           "regular": {
             "android": "http://edge.mixlr.com/channel/ajqeg",
