@@ -84,7 +84,7 @@
 		    },
 		    "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png",
 		    "playlist": "http://149.56.175.167:5429/stream",
-		    "current_song": "http://149.56.175.167:5429/stream",
+		    "current_song": "http://149.56.175.167:5429/currentsong?sid=1",
 		    "streams": {
 			"regular": {
 			    "android": "http://149.56.175.167:5429/stream",
