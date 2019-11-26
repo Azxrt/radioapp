@@ -108,8 +108,8 @@
           "us": "KURDI"
         },
         "logo": "https://dl.dropbox.com/s/4sbh8uowaqqbhww/k24.png",
-        "playlist": "https://o.tavrmedia.ua/roks24songs",
-        "current_song": "Barcelona",
+        "playlist": "",
+        "current_song": "",
         "streams": {
           "regular": {
             "android": "http://edge.mixlr.com/channel/ajqeg",
@@ -3789,7 +3789,7 @@
         "current_song": "Barcelona",
         "streams": {
           "regular": {
-            "android": "http://online.radiorecord.ru:8102/technopop_320",
+            "android": "http://online.radiorecord.ru:8102/technopop_128",
             "ios": "http://online.radiorecord.ru:8102/technopop_320"
           },
           "hd": {
@@ -3951,7 +3951,7 @@
         "current_song": "Barcelona",
         "streams": {
           "regular": {
-            "android": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
+            "android": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-mq",
             "ios": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq"
           },
           "hd": {
@@ -4036,7 +4036,7 @@
             "ios": "http://149.56.175.167:5429/stream"
           },
           "hd": {
-            "android": "http://149.56.175.167:5429/stream",
+            "android": "http://149.56.175.167:5429/;",
             "ios": "http://149.56.175.167:5429/stream"
           }
         }
@@ -4086,7 +4086,7 @@
         "current_song": "Barcelona",
         "streams": {
           "regular": {
-            "android": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+            "android": "http://mp3.ffh.de/ffhchannels/eurodance.mp3",
             "ios": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3"
           },
           "hd": {
@@ -4140,7 +4140,7 @@
         "current_song": "Barcelona",
         "streams": {
           "regular": {
-            "android": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq?sABC=",
+            "android": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-mq?sABC=",
             "ios": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq?sABC="
           },
           "hd": {
