@@ -1,0 +1,164 @@
+{
+  "Country": [
+    {
+      "id": "12",
+      "category_id": "15",
+      "radio_name": "GRA Wrocław",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/grawroclaw.jpg",
+      "radio_url": "http://217.74.72.4:8000/radio_gra_wroc",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "23",
+      "category_id": "17",
+      "radio_name": "PR Wrocław",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/wroclaw.jpg",
+      "radio_url": "http://stream4.nadaje.com:9240/prw ",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "26",
+      "category_id": "15",
+      "radio_name": "Radio RAM",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/ram.jpg",
+      "radio_url": "http://stream4.nadaje.com:9220/ram",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "98",
+      "category_id": "24",
+      "radio_name": "Radio Luz",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/luz.jpg",
+      "radio_url": "http://radioluz.pwr.wroc.pl:8000/luz_hifi",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "106",
+      "category_id": "24",
+      "radio_name": "Muzyczne Radio",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/mz.jpg",
+      "radio_url": "http://stream3.nadaje.com:9900/;",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "112",
+      "category_id": "22",
+      "radio_name": "Radio Wrocław Kultura",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/kultura.jpg",
+      "radio_url": "http://stream4.nadaje.com:9230/rwkultura",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "115",
+      "category_id": "24",
+      "radio_name": "ArtRadio Bogatynia",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/art.jpg",
+      "radio_url": "http://s5.radiohost.pl:8274/",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "199",
+      "category_id": "24",
+      "radio_name": "Radio Plus Legnica",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/plus.jpg",
+      "radio_url": "http://gea.legnica.fm:8000/plusodsluch",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "205",
+      "category_id": "24",
+      "radio_name": "Radio Sudety 24",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/sudety.jpg",
+      "radio_url": "http://stream4.nadaje.com:15006/sudety24",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "224",
+      "category_id": "28",
+      "radio_name": "Radio Rodzina",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/rodzina.jpg",
+      "radio_url": "http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "940",
+      "category_id": "19",
+      "radio_name": "ESKA Wrocław",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/eskakat.jpg",
+      "radio_url": "http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-wroclaw",
+      "view": "0",
+      "frequency": "fm"
+    },
+    {
+      "id": "947",
+      "category_id": "9",
+      "radio_name": "Radio Orbit",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/orbit.png",
+      "radio_url": "http://s1.slotex.pl:7390/;",
+      "view": "0",
+      "frequency": "online"
+    },
+    {
+      "id": "975",
+      "category_id": "6",
+      "radio_name": "Disco Radio",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/discoradio.png",
+      "radio_url": "https://stream4.nadaje.com:8175/test",
+      "view": "0",
+      "frequency": "online"
+    },
+    {
+      "id": "2008",
+      "category_id": "15",
+      "radio_name": "Złote Przeboje Legnica",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/zlote.png",
+      "radio_url": "http://stream.radioagora.pl/tuba8916-1.mp3",
+      "view": "0",
+      "frequency": "online"
+    },
+    {
+      "id": "2009",
+      "category_id": "29",
+      "radio_name": "Radio Clubbers",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/clubbers.png",
+      "radio_url": "http://s1.slotex.pl:7278/;stream.mp3",
+      "view": "0",
+      "frequency": "online"
+    },
+    {
+      "id": "5006",
+      "category_id": "29",
+      "radio_name": "Hopstacja",
+      "genre_id": "1",
+      "radio_image": "http://radiopolska.live/polska/street/site-img/radioimg/hop.png",
+      "radio_url": "http://4stream.pl:18226/stream/1/",
+      "view": "0",
+      "frequency": "online"
+    }
+  ]
+}
