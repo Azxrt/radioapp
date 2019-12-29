@@ -1,0 +1,658 @@
+[
+  {
+    "trend": {
+      "id": "214",
+      "radio_id": "211",
+      "count": "274512"
+    },
+    "radio": {
+      "id": "211",
+      "name": "Radio RPP Noticias.",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPPAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/rpp-noticias-lima.png",
+      "added": "2017-10-16 07:46:39",
+      "cat_id": "97",
+      "image_file": "rpp-noticias-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "83",
+      "radio_id": "207",
+      "count": "205124"
+    },
+    "radio": {
+      "id": "207",
+      "name": "Radio Exitosa 95.5 FM",
+      "radio_url": "http://167.114.118.120:7444/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-exitosa-95-5-fm-lima.png",
+      "added": "2016-10-26 12:44:52",
+      "cat_id": "97",
+      "image_file": "radio-exitosa-95-5-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "62",
+      "radio_id": "210",
+      "count": "190173"
+    },
+    "radio": {
+      "id": "210",
+      "name": "Radio la Kalle FM",
+      "radio_url": "http://167.114.118.120:7448/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-la-kalle-fm-lima.png",
+      "added": "2016-10-26 12:47:33",
+      "cat_id": "97",
+      "image_file": "radio-la-kalle-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "130",
+      "radio_id": "199",
+      "count": "185180"
+    },
+    "radio": {
+      "id": "199",
+      "name": "Radio Panamericana  101.1 FM",
+      "radio_url": "http://192.99.148.184:6710/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-panamericana-101-1-fm-lima.png",
+      "added": "2016-10-26 12:34:48",
+      "cat_id": "97",
+      "image_file": "radio-panamericana-101-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "103",
+      "radio_id": "196",
+      "count": "176736"
+    },
+    "radio": {
+      "id": "196",
+      "name": "Radio Mar Plus 106.3 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-mar-plus-106-3-fm-lima.png",
+      "added": "2017-12-24 20:32:23",
+      "cat_id": "97",
+      "image_file": "radio-mar-plus-106-3-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "61",
+      "radio_id": "181",
+      "count": "159300"
+    },
+    "radio": {
+      "id": "181",
+      "name": "Radio Karibeña 94.9 FM",
+      "radio_url": "http://167.114.118.120:7442/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-karibena-94-9-fm-lima.png",
+      "added": "2016-10-26 12:09:57",
+      "cat_id": "97",
+      "image_file": "radio-karibena-94-9-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "58",
+      "radio_id": "208",
+      "count": "155826"
+    },
+    "radio": {
+      "id": "208",
+      "name": "Radio Moda 97.3 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MODAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-moda-97-3-fm-lima.png",
+      "added": "2018-01-27 14:39:33",
+      "cat_id": "97",
+      "image_file": "radio-moda-97-3-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "69",
+      "radio_id": "189",
+      "count": "139514"
+    },
+    "radio": {
+      "id": "189",
+      "name": "Radio Inolvidable 660 AM",
+      "radio_url": "http://13743.live.streamtheworld.com/CRP_LI.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-inolvidable-660-am-lima.png",
+      "added": "2017-02-21 22:42:29",
+      "cat_id": "97",
+      "image_file": "radio-inolvidable-660-am-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "165",
+      "radio_id": "195",
+      "count": "132379"
+    },
+    "radio": {
+      "id": "195",
+      "name": "Radio Nueva Q 107.1 FM",
+      "radio_url": "http://19253.live.streamtheworld.com/CRP_NQ_SC",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-nueva-q-107-1-fm-lima.png",
+      "added": "2017-03-10 13:51:20",
+      "cat_id": "97",
+      "image_file": "radio-nueva-q-107-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "211",
+      "radio_id": "214",
+      "count": "122529"
+    },
+    "radio": {
+      "id": "214",
+      "name": "Radio Oxigeno 102.1 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENOAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/oxigeno-102-1-fm-lima.png",
+      "added": "2017-10-16 07:37:20",
+      "cat_id": "97",
+      "image_file": "oxigeno-102-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "209",
+      "radio_id": "216",
+      "count": "106258"
+    },
+    "radio": {
+      "id": "216",
+      "name": "Radio Felicidad 88.9 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDADAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/felicidad-88-9-fm-lima.png",
+      "added": "2017-10-16 07:31:46",
+      "cat_id": "97",
+      "image_file": "felicidad-88-9-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "210",
+      "radio_id": "215",
+      "count": "101375"
+    },
+    "radio": {
+      "id": "215",
+      "name": "Radio La Zona 90.5 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONAAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-la-zona-90-5-fm-lima.png",
+      "added": "2017-10-16 07:34:02",
+      "cat_id": "97",
+      "image_file": "radio-la-zona-90-5-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "213",
+      "radio_id": "212",
+      "count": "64301"
+    },
+    "radio": {
+      "id": "212",
+      "name": "Radio Capital 96.7 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CAPITALAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-capital-96-7-fm-lima.png",
+      "added": "2017-10-16 07:44:04",
+      "cat_id": "97",
+      "image_file": "radio-capital-96-7-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "60",
+      "radio_id": "200",
+      "count": "63555"
+    },
+    "radio": {
+      "id": "200",
+      "name": "Radio Oasis 100.1 FM",
+      "radio_url": "http://18723.live.streamtheworld.com/CRP_OAS_SC",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-oasis-100-1-fm-lima.png",
+      "added": "2017-03-10 13:25:01",
+      "cat_id": "97",
+      "image_file": "radio-oasis-100-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "578",
+      "radio_id": "241",
+      "count": "62740"
+    },
+    "radio": {
+      "id": "241",
+      "name": "Radio Ovación 620 AM",
+      "radio_url": "https://5949aa132c8fb.streamlock.net:554/ipradioovacion1/liveovacion1radio/playlist.m3u8",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-ovacion-620-am-lima.png",
+      "added": "2017-07-06 23:15:48",
+      "cat_id": "97",
+      "image_file": "radio-ovacion-620-am-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "63",
+      "radio_id": "204",
+      "count": "60430"
+    },
+    "radio": {
+      "id": "204",
+      "name": "Ritmo Romantica 91.3 FM",
+      "radio_url": "http://18253.live.streamtheworld.com/CRP_RIT.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-ritmo-romantica-91-3-fm-lima.png",
+      "added": "2016-12-17 15:55:31",
+      "cat_id": "97",
+      "image_file": "radio-ritmo-romantica-91-3-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "208",
+      "radio_id": "217",
+      "count": "49681"
+    },
+    "radio": {
+      "id": "217",
+      "name": "Radio Corazon 94.3 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZONAAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-corazon-dos.png",
+      "added": "2017-10-16 07:25:04",
+      "cat_id": "97",
+      "image_file": "radio-corazon-dos.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "423",
+      "radio_id": "220",
+      "count": "43762"
+    },
+    "radio": {
+      "id": "220",
+      "name": "Radio Magica 88.3 FM",
+      "radio_url": "http://18313.live.streamtheworld.com/MAG.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-magica-88-3-fm-lima.png",
+      "added": "2017-05-22 14:34:06",
+      "cat_id": "97",
+      "image_file": "radio-magica-88-3-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "59",
+      "radio_id": "203",
+      "count": "41543"
+    },
+    "radio": {
+      "id": "203",
+      "name": "Radio Onda Cero 98.1 FM",
+      "radio_url": "http://192.99.148.184:6720/;?1467564527439.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-onda-cero-98-1-fm-lima.png",
+      "added": "2016-10-26 12:37:55",
+      "cat_id": "97",
+      "image_file": "radio-onda-cero-98-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "82",
+      "radio_id": "205",
+      "count": "37687"
+    },
+    "radio": {
+      "id": "205",
+      "name": "Radio Z Rock and Pop 96.1 FM",
+      "radio_url": "http://167.114.118.120:7440/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-z-rock-y-pop-96-1-fm-lima.png",
+      "added": "2016-10-26 12:41:05",
+      "cat_id": "97",
+      "image_file": "radio-z-rock-y-pop-96-1-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "96",
+      "radio_id": "180",
+      "count": "37014"
+    },
+    "radio": {
+      "id": "180",
+      "name": "Radio Peru Cumbia",
+      "radio_url": "http://playservistream.net:8144/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/peru-cumbia-radio-lima.png",
+      "added": "2016-10-26 12:09:05",
+      "cat_id": "97",
+      "image_file": "peru-cumbia-radio-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "212",
+      "radio_id": "213",
+      "count": "31835"
+    },
+    "radio": {
+      "id": "213",
+      "name": "Radio Studio 92 FM",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_STUDIO92AAC.aac",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/studio_95_radio.png",
+      "added": "2017-10-16 07:40:34",
+      "cat_id": "97",
+      "image_file": "studio_95_radio.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "895",
+      "radio_id": "298",
+      "count": "30988"
+    },
+    "radio": {
+      "id": "298",
+      "name": "Radio Fiesta 105.5 FM",
+      "radio_url": "http://46.4.33.73:5250/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/c74cb7f835cc06c918bbd7aad18694d3.png",
+      "added": "2018-05-16 01:44:15",
+      "cat_id": "97",
+      "image_file": "c74cb7f835cc06c918bbd7aad18694d3.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "86",
+      "radio_id": "120",
+      "count": "25228"
+    },
+    "radio": {
+      "id": "120",
+      "name": "Radio Huancayo 104.3 FM",
+      "radio_url": "http://212.83.146.67:7208/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-huancayo-104-3-fm.png",
+      "added": "2016-10-26 10:41:42",
+      "cat_id": "92",
+      "image_file": "radio-huancayo-104-3-fm.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "93",
+      "radio_id": "170",
+      "count": "24680"
+    },
+    "radio": {
+      "id": "170",
+      "name": "Radio Amor",
+      "radio_url": "http://167.114.118.120:7450/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-amor-lima.png",
+      "added": "2016-10-26 12:02:15",
+      "cat_id": "97",
+      "image_file": "radio-amor-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "697",
+      "radio_id": "271",
+      "count": "23972"
+    },
+    "radio": {
+      "id": "271",
+      "name": "Radio Felicidad 900 AM",
+      "radio_url": "http://str.radioplayerperu.com/fam.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/Radio-Felicidad-900-AM.jpg",
+      "added": "2017-09-13 18:46:33",
+      "cat_id": "97",
+      "image_file": "Radio-Felicidad-900-AM.jpg"
+    }
+  },
+  {
+    "trend": {
+      "id": "84",
+      "radio_id": "183",
+      "count": "23382"
+    },
+    "radio": {
+      "id": "183",
+      "name": "Union La Radio",
+      "radio_url": "http://playservistream.net:7218/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/union-la-radio-103-3-fm-lima.png",
+      "added": "2016-10-26 12:14:58",
+      "cat_id": "97",
+      "image_file": "union-la-radio-103-3-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "100",
+      "radio_id": "152",
+      "count": "23016"
+    },
+    "radio": {
+      "id": "152",
+      "name": "Radio frecuencia 100",
+      "radio_url": "http://oyotunstream.com:7066/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-frecuencia-100-trujillo.png",
+      "added": "2016-10-26 11:32:09",
+      "cat_id": "95",
+      "image_file": "radio-frecuencia-100-trujillo.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "121",
+      "radio_id": "197",
+      "count": "22076"
+    },
+    "radio": {
+      "id": "197",
+      "name": "Radio Planeta 107.7 FM",
+      "radio_url": "http://13743.live.streamtheworld.com/CRP_PLA_SC",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-planeta-107-7-fm-lima.png",
+      "added": "2017-04-21 13:47:51",
+      "cat_id": "97",
+      "image_file": "radio-planeta-107-7-fm-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "95",
+      "radio_id": "179",
+      "count": "21174"
+    },
+    "radio": {
+      "id": "179",
+      "name": "Radio La Ochentera",
+      "radio_url": "http://playservistream.net:8132/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/la-ochentera-punto-com-lima.png",
+      "added": "2016-10-26 12:08:35",
+      "cat_id": "97",
+      "image_file": "la-ochentera-punto-com-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "857",
+      "radio_id": "287",
+      "count": "19415"
+    },
+    "radio": {
+      "id": "287",
+      "name": "Radio los Andes 99.5 FM",
+      "radio_url": "http://195.154.56.114:9180/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/339b68f7c5f4d3b35fbfd985d17c5a4a.png",
+      "added": "2018-03-02 06:55:02",
+      "cat_id": "97",
+      "image_file": "339b68f7c5f4d3b35fbfd985d17c5a4a.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "858",
+      "radio_id": "289",
+      "count": "18660"
+    },
+    "radio": {
+      "id": "289",
+      "name": "Radio Disney Perú 91.1 FM",
+      "radio_url": "http://173.192.105.252:8000/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/f40460c8239e7d4b7d4fe34e19e90a57.png",
+      "added": "2018-04-10 01:01:30",
+      "cat_id": "97",
+      "image_file": "f40460c8239e7d4b7d4fe34e19e90a57.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "440",
+      "radio_id": "228",
+      "count": "17830"
+    },
+    "radio": {
+      "id": "228",
+      "name": "Radio Inca 540 AM",
+      "radio_url": "http://14013.live.streamtheworld.com/CRP_INC.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-inca-540-am-lima.png",
+      "added": "2017-05-22 14:46:47",
+      "cat_id": "93",
+      "image_file": "radio-inca-540-am-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "135",
+      "radio_id": "192",
+      "count": "16417"
+    },
+    "radio": {
+      "id": "192",
+      "name": "Radio Bacan Sat 1130 AM",
+      "radio_url": "http://lin1.ash.fast-serv.com:8944/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-bacan-sat-1130-am-lima.png",
+      "added": "2016-10-26 12:24:22",
+      "cat_id": "97",
+      "image_file": "radio-bacan-sat-1130-am-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "557",
+      "radio_id": "238",
+      "count": "14092"
+    },
+    "radio": {
+      "id": "238",
+      "name": "Radio Viva FM 104.7",
+      "radio_url": "http://65.60.45.74:5420/;stream.mp3",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/viva-fm.png",
+      "added": "2017-06-25 18:19:13",
+      "cat_id": "97",
+      "image_file": "viva-fm.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "143",
+      "radio_id": "132",
+      "count": "13538"
+    },
+    "radio": {
+      "id": "132",
+      "name": "Radio Turbo Mix 1540 AM",
+      "radio_url": "http://167.114.118.120:7624/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-turbo-mix-1540-am-cajamarca.png",
+      "added": "2016-10-26 11:00:01",
+      "cat_id": "93",
+      "image_file": "radio-turbo-mix-1540-am-cajamarca.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "145",
+      "radio_id": "184",
+      "count": "13443"
+    },
+    "radio": {
+      "id": "184",
+      "name": "Radio Nuevo Tiempo 1380 AM",
+      "radio_url": "http://stream.novotempo.com:1935/radio/smil:radionuevotiempo.smil/playlist.m3u8",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-nuevo-tiempo-1380-am-lima.png",
+      "added": "2018-04-03 00:42:44",
+      "cat_id": "97",
+      "image_file": "radio-nuevo-tiempo-1380-am-lima.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "648",
+      "radio_id": "257",
+      "count": "12589"
+    },
+    "radio": {
+      "id": "257",
+      "name": "Radio Pachamama 850 AM",
+      "radio_url": "http://pacha.blstreamperu.com:9822/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-pachamana-850-am.png",
+      "added": "2017-08-14 20:08:45",
+      "cat_id": "98",
+      "image_file": "radio-pachamana-850-am.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "878",
+      "radio_id": "295",
+      "count": "12326"
+    },
+    "radio": {
+      "id": "295",
+      "name": "Radio Loreto 103.5 FM",
+      "radio_url": "http://oyotunstream.com:8006/;stream",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/794b88127e35e10174af51460a3d5d4c.png",
+      "added": "2018-05-03 20:08:01",
+      "cat_id": "99",
+      "image_file": "794b88127e35e10174af51460a3d5d4c.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "131",
+      "radio_id": "129",
+      "count": "12320"
+    },
+    "radio": {
+      "id": "129",
+      "name": "Radio Ritmo Romantica 91.5 FM",
+      "radio_url": "http://18253.live.streamtheworld.com/CRP_RIT_SC",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-ritmo-romantica-91-5-fm-chiclayo.png",
+      "added": "2017-03-10 14:12:51",
+      "cat_id": "93",
+      "image_file": "radio-ritmo-romantica-91-5-fm-chiclayo.png"
+    }
+  },
+  {
+    "trend": {
+      "id": "7409",
+      "radio_id": "92",
+      "count": "1"
+    },
+    "radio": {
+      "id": "92",
+      "name": "Radio Onda Azul",
+      "radio_url": "http://167.114.118.120:7160/;",
+      "image_url": "https://www.radiosbackend.com/radioperu/uploads/radio-onda-azul.png",
+      "added": "2016-10-26 09:47:16",
+      "cat_id": "90",
+      "image_file": "radio-onda-azul.png"
+    }
+  }
+]
