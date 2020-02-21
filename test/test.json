@@ -1,5 +1,95 @@
 [
   {
+    "name": "Yasser AlDosari",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9984/;",
+    "logo": "https://dl.dropboxusercontent.com/s/mefyfifbxmv5xul/yaser.png"
+  },
+  {
+    "name": "Nasser Alqatami",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9994/;",
+    "logo": "https://dl.dropboxusercontent.com/s/gfa7vhvsksku9ic/naser.png"
+  },
+  {
+    "name": "Mohammed AlLohaidan",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9832/;",
+    "logo": "https://dl.dropboxusercontent.com/s/fua28w95yr23wbs/mohamad.png"
+  },
+  {
+    "name": "Ahmad Al ajmi Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:8008/",
+    "logo": "https://i.scdn.co/image/1b7a833ca47af3ef531aee26dca3dca4a7a735b7"
+  },
+  {
+    "name": "Maher Meaqli Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:8002/;",
+    "logo": "https://dl.dropboxusercontent.com/s/2eg8prgiddh7y29/maher.png"
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9974/;",
+    "logo": "https://dl.dropboxusercontent.com/s/c0aymb5h0hqlkve/abdulbast.png"
+  },
+  {
+    "name": "Mohammed Siddiq",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9978/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0m03cvdbuivu49v/almanshawe.png"
+  },
+  {
+    "name": "Mishary Alafasi",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:8010/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0m3yf9b8rgc9293/alafasy.png"
+  },
+  {
+    "name": "Idrees Abkr",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9968/;",
+    "logo": "https://dl.dropboxusercontent.com/s/694c6qnozhfwbjd/idris%20abkar.png"
+  },
+  {
+    "name": "Fares Abbad Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9972/",
+    "logo": "http://quran.com.kw/en/wp-content/uploads/fares-abbad.jpg"
+  },
+  {
+    "name": "Abdulrahman Alsudaes Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9988/",
+    "logo": "http://quran.com.kw/en/wp-content/uploads/al-sudais.jpg"
+  },
+  {
+    "name": "Saud Alshuraim Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9986/",
+    "logo": "http://quran.com.kw/en/wp-content/uploads/alshariem-300x300.jpg"
+  },
+  {
+    "name": "Shaik Abu Bakr Al Shatri Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9966/",
+    "logo": "http://quran.com.kw/en/wp-content/uploads/abobakr-alshatry.jpg"
+  },
+  {
+    "name": "Khaled AlQahtani Radio",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9970/",
+    "logo": "https://podcasts.qurancentral.com/_artwork/khaled-al-qahtani.jpg"
+  },
+  {
+    "name": "Abdulrahman AlMajed",
+    "category": "ISLAMIC",
+    "url": "http://184.173.185.71:9726/stream",
+    "logo": "https://mostaql.hsoubcdn.com/uploads/209-1423251215-e1ce92cf648f04856102dc3b95e78a47.png"
+  },
+  {
     "name": "R - Mufah Muhammad Al-Saltani",
     "url": "http://quraan.us:9800/;",
     "logo": "http://quraan.us/en/wp-content/uploads/Muftah-al-saltany.jpg",
@@ -706,5 +796,143 @@
     "url": "http://quraan.us:9980/;",
     "logo": "http://quraan.us/en/wp-content/uploads/hungarian.jpg",
     "category": "ISLAMIC"
+  },
+  {
+    "name": "KSA Quran Makkah",
+    "category": "ISLAMIC",
+    "url": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s270277q.png"
+  },
+  {
+    "name": "Quran Radio Tafsir",
+    "category": "ISLAMIC",
+    "url": "http://66.45.232.130:9992/",
+    "logo": "https://www.arabic-radio.com/images/emblems/quran_radio_tafsir.jpg"
+  },
+  {
+    "name": "JIBWIS - Online Radion ",
+    "category": "ISLAMIC",
+    "url": "http://50.7.129.122:8348/",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s213835q.png"
+  },
+  {
+    "name": "Radio Anshorus Sunnah",
+    "category": "ISLAMIC",
+    "url": "http://45.64.97.82:8110/stream",
+    "logo": "http://radiomuslimindonesia.com/gbr/TAS%20Riau.jpg"
+  },
+  {
+    "name": "Radio Muslim",
+    "category": "ISLAMIC",
+    "url": "http://128.199.156.6:80/",
+    "logo": "https://img12.androidappsapk.co/300/1/a/e/id.co.radiomuslim.png"
+  },
+  {
+    "name": "SASFM Surabaya Radio Muslim",
+    "category": "ISLAMIC",
+    "url": "http://199.167.134.163:7102/",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/DznDWZDteR.png"
+  },
+  {
+    "name": "abc Islam for Non-Muslims",
+    "category": "ISLAMIC",
+    "url": "http://s10.voscast.com:9276/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Sbs_radio.png"
+  },
+  {
+    "name": "Radio Muslim Cengkareng",
+    "category": "ISLAMIC",
+    "url": "http://45.64.97.82:8302/stream",
+    "logo": "http://radioislam.or.id/wp-content/plugins/radio-islam/assets/images/rii.png"
+  },
+  {
+    "name": "Radio Muslim Malinau",
+    "category": "ISLAMIC",
+    "url": "http://45.64.97.82:8182/stream",
+    "logo": "http://radiomuslimindonesia.com/gbr/antang.png"
+  },
+  {
+    "name": "Radio Muslim Palu",
+    "category": "ISLAMIC",
+    "url": "http://45.64.97.82:8394/stream",
+    "logo": "https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1516054043.png"
+  },
+  {
+    "name": "Radio Quraan",
+    "category": "ISLAMIC",
+    "url": "http://66.45.232.130:9994/",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/g6pf4srqvanf.png"
+  },
+  {
+    "name": "Xamsadine wakhtaan - Senegal",
+    "category": "ISLAMIC",
+    "url": "http://s7.voscast.com:7200/",
+    "logo": "http://fmradiotuner.com/wp-content/uploads/2017/04/101792-300x300.jpg"
+  },
+  {
+    "name": "Radio Izlam",
+    "category": "ISLAMIC",
+    "url": "http://66.45.232.130:9998/",
+    "logo": "https://static-media.streema.com/media/cache/19/81/19812349f1d150bf66a295bf1e451065.jpg"
+  },
+  {
+    "name": "Dua Kumail Beautiful Recitation",
+    "category": "ISLAMIC",
+    "url": "http://163.172.77.142:8360/stream",
+    "logo": "https://is3-ssl.mzstatic.com/image/thumb/Purple4/v4/37/0e/da/370eda1c-9647-3147-a3db-0944eafd54df/source/512x512bb.jpg"
+  },
+  {
+    "name": "Love Islam Radio",
+    "category": "ISLAMIC",
+    "url": "http://167.114.64.181:8368/stream",
+    "logo": "https://cdn-profiles.tunein.com/s298409/images/logoq.png"
+  },
+  {
+    "name": "Islam2Day Radio - Islamic Songs",
+    "category": "ISLAMIC",
+    "url": "http://islam2day.tv:8000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s129384q.png"
+  },
+  {
+    "name": "duas kumayl",
+    "category": "ISLAMIC",
+    "url": "https://.duas.org/mp3/kumail.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz-Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/003.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia601905.us.archive.org/26/items/koonoz-Doaa/001.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz-Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia601905.us.archive.org/26/items/koonoz-Doaa/006.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz-Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/010.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz-Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/012.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+  },
+  {
+    "name": "koonoz-Doaa",
+    "category": "ISLAMIC",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/029.mp3",
+    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   }
 ]
