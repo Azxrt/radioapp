@@ -3,7 +3,7 @@
     "name": "América Dance 90's",
     "category": "EURODANCE - MUSIC",
     "url": "http://stm8.srvstm.com:8212/1",
-    "logo": "https://i3.radionomy.com/radios/67/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
+    "logo": "https://static.radio.net/images/broadcasts/79/da/36411/2/c175.png"
   },
   {
     "name": "E-Dance 90's",
@@ -15,19 +15,7 @@
     "name": "Радио Рекорд Technopop",
     "category": "EURODANCE - MUSIC",
     "url": "http://online.radiorecord.ru:8102/technopop_320",
-    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png"
-  },
-  {
-    "name": "Play 90's",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://live.playradio.org:9000/;",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s105837q.png"
-  },
-  {
-    "name": "Day Dee Eurodance",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
-    "logo": "https://static.radio.net/images/broadcasts/9b/7d/121403/1/c175.png"
+    "logo": "https://static.radio.net/images/broadcasts/55/a6/114201/2/c175.png"
   },
   {
     "name": "EURODANCE 90S free",
@@ -36,34 +24,16 @@
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgxbLu1wkMCxIOU3RhdGlvblByb2ZpbGUYgIDg-ZqN-QgMogEEemVubw/image/?keep=w&lu=Sat%20Dec%2028%2023:01:47%20UTC+0000%202019&resize=350x350"
   },
   {
-    "name": "Radio The Big Boss",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://79.98.108.172:8022/;",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s188755q.png"
-  },
-  {
     "name": "radio-eurodance-classic",
     "category": "EURODANCE - MUSIC",
     "url": "http://hazel.torontocast.com:1310/stream",
     "logo": "https://cdn-radiotime-logos.tunein.com/s135210q.png"
   },
   {
-    "name": "Die 90er (Sunshine Live)",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s237962q.png"
-  },
-  {
     "name": "Eurodance 90 - Dance Anos 90",
     "category": "EURODANCE - MUSIC",
     "url": "http://stream.zeno.fm/zx9h2b61u8quv",
     "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png"
-  },
-  {
-    "name": "gherlafm.ro",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://89.39.189.52:8000/;stream/1",
-    "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
   },
   {
     "name": "VIPradio EuroDance",
@@ -108,24 +78,6 @@
     "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
   },
   {
-    "name": "Radio Sun Gold Hits",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://live.radiosun.ro/sungold",
-    "logo": "https://cdn-profiles.tunein.com/s237042/images/logoq.jpg"
-  },
-  {
-    "name": "Baden 1",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/eurodance",
-    "logo": "https://static.radio.net/images/broadcasts/28/92/106996/1/c175.png"
-  },
-  {
-    "name": "THE 90S",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen.radionomy.com/the90s",
-    "logo": "https://i3.radionomy.com/radios/400/90af8fc3-6560-4318-b4cd-62b3812ec129.jpg"
-  },
-  {
     "name": "Danceshow Eurodance",
     "category": "EURODANCE - MUSIC",
     "url": "https://stream.laut.fm/danceshow-eurodance",
@@ -142,6 +94,78 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://213.251.190.165/puls90HD.mp3",
     "logo": "https://dl.dropbox.com/s/ggv70845eozjta1/Puls%2790s.png"
+  },
+  {
+    "name": "Eurodance90",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://listen1.myradio24.com/5967?d=",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },
+  {
+    "name": "handsup",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-mq",
+    "logo": "https://dl.dropbox.com/s/qyv21lcmi3ipz9m/handsup.jpg"
+  },
+  {
+    "name": "90s90s Techno",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=",
+    "logo": "https://dl.dropbox.com/s/ios93ldce4llk0p/90s90s%20Techno.png"
+  },
+  {
+    "name": "Eurodance Time",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://stream.laut.fm/eurodancetime",
+    "logo": "https://i.scdn.co/image/48c12189a8a399931087f917dc90566c6bec8cd4"
+  },
+  {
+    "name": "Play 90's",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://live.playradio.org:9000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s105837q.png"
+  },
+  {
+    "name": "Day Dee Eurodance",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
+    "logo": "https://static.radio.net/images/broadcasts/9b/7d/121403/1/c175.png"
+  },
+  {
+    "name": "Radio The Big Boss",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://79.98.108.172:8022/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s188755q.png"
+  },
+  {
+    "name": "Die 90er (Sunshine Live)",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s237962q.png"
+  },
+  {
+    "name": "gherlafm.ro",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://89.39.189.52:8000/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
+  },
+  {
+    "name": "Radio Sun Gold Hits",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://live.radiosun.ro/sungold",
+    "logo": "https://cdn-profiles.tunein.com/s237042/images/logoq.jpg"
+  },
+  {
+    "name": "Baden 1",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://stream.laut.fm/eurodance",
+    "logo": "https://static.radio.net/images/broadcasts/28/92/106996/1/c175.png"
+  },
+  {
+    "name": "THE 90S",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen.radionomy.com/the90s",
+    "logo": "https://i3.radionomy.com/radios/400/90af8fc3-6560-4318-b4cd-62b3812ec129.jpg"
   },
   {
     "name": "Superdisco of the 90ies",
@@ -190,12 +214,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen.radionomy.com/90s-dance-classics",
     "logo": "https://i3.radionomy.com/radios/400/ee6f2ead-bb55-4d26-bd19-54bdadae618b.png"
-  },
-  {
-    "name": "Eurodance90",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://listen1.myradio24.com/5967?d=",
-    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
   },
   {
     "name": "A'11 Eurodance 90s",
@@ -324,22 +342,10 @@
     "logo": "https://dl.dropbox.com/s/f0bn6gn09wb6c9s/Loca%20FM%20Remember.png"
   },
   {
-    "name": "handsup",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-mq",
-    "logo": "https://dl.dropbox.com/s/qyv21lcmi3ipz9m/handsup.jpg"
-  },
-  {
     "name": "Radio Crisami Romania",
     "category": "EURODANCE - MUSIC",
     "url": "http://listen.radionomy.com/Eurodance-90",
     "logo": "https://dl.dropboxusercontent.com/s/7cnz9vx2dp9tcom/radiocrisime.png"
-  },
-  {
-    "name": "90s90s Techno",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=",
-    "logo": "https://dl.dropbox.com/s/ios93ldce4llk0p/90s90s%20Techno.png"
   },
   {
     "name": "Puls'Dance",
@@ -484,12 +490,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "https://stream.laut.fm/laserbeat-fm",
     "logo": "https://static.radio.net/images/broadcasts/2b/a6/5339/1/c175.png"
-  },
-  {
-    "name": "Eurodance Time",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/eurodancetime",
-    "logo": "https://i.scdn.co/image/48c12189a8a399931087f917dc90566c6bec8cd4"
   },
   {
     "name": "NRJ DANCE 90",
