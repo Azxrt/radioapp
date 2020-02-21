@@ -1,1 +1,3422 @@
-["SUCCESS",[["fg",["ഫിജി","ഫിഗ്","ഫ്ഗ്","ഫഗ്‌","ഫങ്","ഫഗ"],[],{"candidate_type":[0,0,0,0,0,0]}]]]
+﻿[
+  {
+    "name2": "إذاعة القرآن الكريم من السعودية",
+    "url": "http://radio12.tarat.com:9320",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545389621.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من القاهرة",
+    "url": "http://radio3.tarat.com:9994/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545389832.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة القرآن الكريم من السعودية",
+    "url": "http://radio12.tarat.com:9318",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1525594479.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من السعودية",
+    "url": "http://radio3.tarat.com:9996",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545389543.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من القاهرة 2",
+    "url": "http://radio12.tarat.com:9322",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545389815.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القران الكريم - البحرين",
+    "url": "http://radio2.tarat.com:9966/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545396288.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القران الكريم - الكويت",
+    "url": "http://radio2.tarat.com:9998/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545396394.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة القران - دبي",
+    "url": "http://uk5.internet-radio.com:8079/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545397253.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من قطر",
+    "url": "http://radio3.tarat.com:9974",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545396524.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة القرآن الكريم من عمان",
+    "url": "http://radio2.tarat.com:9604/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545396779.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من السعودية (البث متأخر ساعة)",
+    "url": "http://radio2.tarat.com:9764",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545399442.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة نداء الاسلام",
+    "url": "http://radio2.tarat.com:9972/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1463303403.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة السنة النبوية",
+    "url": "http://radio2.tarat.com:9962/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1463302388.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة قناة مكة ",
+    "url": "http://radio2.tarat.com:9956/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/mecca2.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة أهل القرآن",
+    "url": "http://radio2.tarat.com:9760/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545399698.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم - قناة المجد",
+    "url": "http://radio2.tarat.com:9602/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1545396988.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة القرآن - ابوظبي",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/QURAN_KAREEM.mp3",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1463303253.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم الشارقة",
+    "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476447683.jpg",
+    "category": "ar"
+  },
+  {
+    "name": " اذاعة الزيتونة للقران الكريم - تونس",
+    "url": "http://stream8.tanitweb.com/zitounafm",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476448290.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة المجد العلمية",
+    "url": "http://radio3.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465905993.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة حياة اف ام للقرآن الكريم – الاردن",
+    "url": "http://213.239.218.99:7166/live",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/3aIfIGIS_400x400.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من الجزائر",
+    "url": "https://statslive.infomaniak.ch/playlist/coran/coran-64.aac/playlist.m3u",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1501112972.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من المغرب",
+    "url": "http://stream4.coran.tk:8005/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1501113417.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة الله اكبر",
+    "url": "http://66.45.232.132:9996/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476461014.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الصحابة من غزة",
+    "url": "http://s2.voscast.com:11326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476461832.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة تعليم الاسلام باللغة البشتوية",
+    "url": "http://ice31.securenetsystems.net/FMRADIO",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465923398.jpg",
+    "category": "pa"
+  },
+  {
+    "name": "اذاعة القرآن زمزم من فرنسا",
+    "url": "http://radiozamzam.vestaradio.com/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1481971311.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الفرقان - السودان",
+    "url": "http://109.123.114.30:7012/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476449412.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة القرآن الكريم - نابلس",
+    "url": "http://www.quran-radio.org:8002/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/27.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة صوت الإيمان من مصر",
+    "url": "http://www.emanlive.com:8000/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476461589.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الوقف",
+    "url": "http://delicious.wavestreamer.com:4618/live",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476462687.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة البيان من استراليا",
+    "url": "http://s9.viastreaming.net:9645",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1481972899.jpg",
+    "category": "en"
+  },
+  {
+    "name": " إذاعة زايد للقرآن الكريم",
+    "url": "http://ccfz.dyndns.org:4427/zfm",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466706597.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة بينات للقرآن الكريم",
+    "url": "http://5.9.97.68:8050/;stream.mp3",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/30.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم التعليمية من غزة",
+    "url": "http://s10.voscast.com:9986",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1481973192.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة الحج",
+    "url": "http://radio.alukah.net/hajj",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1504177350.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن الكريم من تونس",
+    "url": "http://5.135.194.225:8000",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1482000753.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الهدى من فلسطين",
+    "url": "http://46.43.64.50:8024/stream.ogg.m3u",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1482001270.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة السلام من تورونتو في كندا",
+    "url": "http://streaming.radio.co/sdd7cb3b85/listen",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1504909371.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة البصيرة السودانية ",
+    "url": "http://5.152.208.98:8082/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1503160609.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة السنة",
+    "url": "http://andromeda.shoutca.st:8189/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1508993544.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة الشيخ العلامة محمد بن صالح العثيمين",
+    "url": "http://radio2.tarat.com:9958/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/BinOthimeen.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة طريق الإرتقاء",
+    "url": "http://188.166.95.19:8002",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1501805562.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة بينونة للقران الكريم",
+    "url": "http://94.23.0.178:8001/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485941681.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة بينونة للعلوم الشرعية",
+    "url": "http://94.23.0.178:8000/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485941954.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة القرآن الكريم",
+    "url": "http://radio.alukah.net/quran",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457177894.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فيصل بن سعود الحليبي",
+    "url": "http://radio1.tarat.com:9352",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1518086674.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صالح الصاهود",
+    "url": "http://radio1.tarat.com:9354",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1518087024.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "حسن صالح",
+    "url": "http://radio1.tarat.com:9360",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1519534804.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "حسن صالح",
+    "url": "http://radio12.tarat.com:9300",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1524384672.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تميم الريمي",
+    "url": "http://radio12.tarat.com:9316",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1525442423.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سورة الكهف - تلاوات لعدة قراء",
+    "url": "http://radio1.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1507299118.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "المصحف المكي",
+    "url": "http://radio1.tarat.com:9358",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1518529945.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سورة البقرة",
+    "url": "http://radio10.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493122685.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة تلاوات خاشعة -",
+    "url": "http://radio10.tarat.com:9346/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/telawat.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "منصور السالمي",
+    "url": "http://radio12.tarat.com:9326",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1526723792.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالرحمن بن موسى",
+    "url": "http://radio12.tarat.com:9340",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528242844.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "القارى مصطفى غربي",
+    "url": "http://radio12.tarat.com:9344",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528373575.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عكاشة حسن كميني",
+    "url": "http://radio12.tarat.com:9366",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528768231.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "د. صلاح باعثمان",
+    "url": "http://radio12.tarat.com:9368",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528768632.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "هشام الهراز",
+    "url": "http://radio12.tarat.com:9374",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1530110926.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالرحمن الماجد",
+    "url": "http://radio1.tarat.com:9350",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1517755395.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "شعبان عبدالعزيز الصياد",
+    "url": "http://radio12.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1558786071.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سيد متولي",
+    "url": "http://radio12.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1558789992.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الرقية الشرعية",
+    "url": "http://radio9.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/roqyah.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف كالو",
+    "url": "http://radio6.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1483616297.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف بن نوح أحمد",
+    "url": "http://live.mp3quran.net:9768/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/noo7.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد الحذيفي",
+    "url": "http://radio10.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ahmadalhodifi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد صابر",
+    "url": "http://radio10.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ahmedSaber.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد عامر",
+    "url": "http://radio10.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/amer.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد عبدالله اللحدان",
+    "url": "http://radio12.tarat.com:9370",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ahmad-d.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد نعينع",
+    "url": "http://radio9.tarat.com:9414/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/n3en3.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أكرم العلاقمي",
+    "url": "http://radio10.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/akram.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة إدريس أبكر",
+    "url": "http://live.mp3quran.net:9968/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/edres.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ابراهيم الأخضر (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/26.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "ابراهيم الدوسري",
+    "url": "http://live.mp3quran.net:9902/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ibrahim_aldosri.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة احمد الحواشي",
+    "url": "http://radio10.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/98438.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة احمد الطرابلسي (قالون عن نافع)",
+    "url": "http://radio10.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ahmad.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة احمد خليل شاهين",
+    "url": "http://radio10.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/shaheen.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الدوكالي محمد العالم",
+    "url": "http://radio10.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/aldokali.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الزين محمد أحمد",
+    "url": "http://radio10.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/AlzainMohamedAhmed.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة العيون الكوشي(ورش عن نافع)",
+    "url": "http://radio10.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/aloun.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الفاتح محمد الزبير (الدوري عن ابي عمر",
+    "url": "http://radio9.tarat.com:9418/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/alfateh.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبد الرزاق بن عبطان الدليمي (تلاوة ال",
+    "url": "http://radio6.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484483763.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة جبريل وهاب",
+    "url": "http://radio6.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497055959.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة انس بن عيسى العمادي",
+    "url": "http://radio10.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/anas_alemadi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة توفيق الصايغ",
+    "url": "http://radio9.tarat.com:9416/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/tawfeq.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة تلاوات بالمقام العراقي",
+    "url": "http://radio6.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484137749.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد النفيس",
+    "url": "http://radio6.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484221874.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سامي الكردي",
+    "url": "http://radio3.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495798973.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة جمال شاكر عبدالله",
+    "url": "http://radio9.tarat.com:9412/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/jamal.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "رضية عبدالرحمن",
+    "url": "http://radio6.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484222464.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "داود حمزة",
+    "url": "http://radio6.tarat.com:9346/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484416991.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبد الرزاق بن عبطان الدليمي (تلاوة ال",
+    "url": "http://radio6.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484657206.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة لافي العوني (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490187203.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة حاتم فريد الواعر",
+    "url": "http://radio9.tarat.com:9410/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/71be443.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة حسين بن عبد العزيز آل الشيخ",
+    "url": "http://radio10.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/hosen.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خالد القحطاني",
+    "url": "http://live.mp3quran.net:9970/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/khaledkhtani.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خالد عبدالكافي",
+    "url": "http://radio9.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/dededed.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خليفة الطنيجي",
+    "url": "http://radio9.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/zzszzs.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة زكي داغستاني",
+    "url": "http://radio9.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/im74cmms24sr.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سعد الغامدي (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491310270.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سعود الشريم (الحرم المكي)",
+    "url": "http://radio10.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/5.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سهل ياسين",
+    "url": "http://radio9.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/sahlyasin.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سيد رمضان",
+    "url": "http://radio9.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/photo.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة شيرزاد عبدالرحمن طاهر",
+    "url": "http://radio9.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/new142192379.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة صلاح البدير (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/SalahAlbder.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة صلاح الهاشم",
+    "url": "http://live.mp3quran.net:9880/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/SalahAlhashem.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة صلاح بوخاطر",
+    "url": "http://radio10.tarat.com:9432/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/Salah.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة طارق عبدالغني داعوب",
+    "url": "http://radio10.tarat.com:9430/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/tareq-abdulgani-daawob.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عادل الكلباني",
+    "url": "http://radio10.tarat.com:9428/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/AdelAlkalbani.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عادل ريان",
+    "url": "http://radio10.tarat.com:9426/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/32e32e23.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالباري الثبيتي (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9386/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/11AW36J.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "روائع عبد الباسط عبد الصمد",
+    "url": "http://radio2.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1504188888.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة زيد الزبيدي",
+    "url": "http://radio6.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484054098.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالباسط عبدالصمد | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/8.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالرحمن السديس (الحرم المكي)",
+    "url": "http://radio10.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/4.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالباسط عبدالصمد - المصحف المجود",
+    "url": "http://radio10.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/8.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالرحمن بن جمال العوسي",
+    "url": "http://radio2.tarat.com:9976/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/e4ff1f.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالرشيد صوفي برواية خلف عن حمزة",
+    "url": "http://radio2.tarat.com:9968/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/Rashid2.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالعزيز الأحمد",
+    "url": "http://live.mp3quran.net:9862/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/abdulaziz.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالعزيز بن محمد التويجري",
+    "url": "http://radio6.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/photo.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالله الجهني (الحرم المكي)",
+    "url": "http://radio10.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/johani.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالله غيلان",
+    "url": "http://radio10.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/gilan.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالله كامل",
+    "url": "http://radio10.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/kamel.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالمحسن العبيكان",
+    "url": "http://live.mp3quran.net:9854/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/obikan.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالمحسن القاسم",
+    "url": "http://live.mp3quran.net:9852/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/qassim.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالهادي أحمد كناكري",
+    "url": "http://radio10.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/234324324.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالولي الأركاني",
+    "url": "http://radio2.tarat.com:9964/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/arkani.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة علاء المزجاجي",
+    "url": "http://radio10.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/mzjaji.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة علي الحذيفي (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9390/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ali-al-huthayfi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة علي الحذيفي - المصحف المرتل",
+    "url": "http://radio10.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ali-al-huthayfi2.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "علي بن عبدالرحمن الحذيفي | حفص عن عاصم",
+    "url": "http://radio9.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468682018.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة علي جابر (الحرم المكي)",
+    "url": "http://radio10.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/17.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "علي جابر | حفص عن عاصم",
+    "url": "http://radio9.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468681368.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة علي حجاج السويسي",
+    "url": "http://live.mp3quran.net:9842/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/234234234234.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عماد زهير حافظ",
+    "url": "http://live.mp3quran.net:9840/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/555554.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عمر القزابري",
+    "url": "http://live.mp3quran.net:9838/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/333334444.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة فارس عباد",
+    "url": "http://radio10.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/14.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ماهر المعيقلي (الحرم المكي)",
+    "url": "http://radio10.tarat.com:9374/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/2.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الإذاعة العامة - اذاعة متنوعة",
+    "url": "http://live.mp3quran.net:9960/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/28.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ماهر شخاشيرو",
+    "url": "http://live.mp3quran.net:9836/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/111231231123.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد أيوب",
+    "url": "http://radio10.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/20.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد أيوب",
+    "url": "http://radio9.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468678686.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد أيوب | حفص عن عاصم",
+    "url": "http://radio9.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468679495.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد الطبلاوي",
+    "url": "http://live.mp3quran.net:9834/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/tablawi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد الطبلاوي - المصحف المجود",
+    "url": "http://radio10.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/tablawy22.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد العبدالكريم",
+    "url": "http://live.mp3quran.net:9824/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/qwqwqws1212.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد اللحيدان",
+    "url": "http://live.mp3quran.net:9832/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/allhedaan.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد المحيسني",
+    "url": "http://radio10.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1455279863.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد خليل القارئ",
+    "url": "http://radio10.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/alqari3.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد رشاد الشريف",
+    "url": "http://live.mp3quran.net:9830/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/wer234234.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد رفعت",
+    "url": "http://radio10.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/rrfaat.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد صالح عالم شاه",
+    "url": "http://live.mp3quran.net:9828/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/eee323232.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد صديق المنشاوي",
+    "url": "http://live.mp3quran.net:9978/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/menshawi1.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد صديق المنشاوي -المصحف المجود",
+    "url": "http://live.mp3quran.net:9826/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/menshawi2.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد صلاح الدين كبارة",
+    "url": "http://radio10.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/kobarah.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد عثمان خان ( من الهند )",
+    "url": "http://live.mp3quran.net:9820/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/hindi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود علي البنا - المصحف المجود",
+    "url": "http://live.mp3quran.net:9810/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/MahmoodAlbana.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود علي البنا - حفص عن عاصم",
+    "url": "http://live.mp3quran.net:9808/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/benna4.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مشاري العفاسي",
+    "url": "http://radio10.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491397242.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مصطفى اسماعيل",
+    "url": "http://radio2.tarat.com:9984/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/ismail.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مصطفى اللاهوني",
+    "url": "http://live.mp3quran.net:9798/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/lahoni.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ناصر القطامي",
+    "url": "http://radio10.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/9.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مصطفى اللاهوني (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490093853.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة هاني الرفاعي",
+    "url": "http://live.mp3quran.net:9780/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/hani.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة هزاع البلوشي",
+    "url": "http://radio10.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468757501.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة وديع اليمني",
+    "url": "http://radio10.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/wadee.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسر الدوسري",
+    "url": "http://radio10.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/6.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسر سلامة",
+    "url": "http://radio10.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/yaser_salamh.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف الشويعي",
+    "url": "http://live.mp3quran.net:9770/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/alshwai.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة بندر بن عبد العزيز بليلة",
+    "url": "http://radio2.tarat.com:9982/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/Bandar.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة مصطفى رعد العزاوي",
+    "url": "http://radio12.tarat.com:9304",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1523202994.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة مصطفى رعد العزاوي",
+    "url": "http://radio12.tarat.com:9306",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1523203319.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة مصطفى رعد العزاوي",
+    "url": "http://radio12.tarat.com:9312",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1523910827.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة خالد الجليل",
+    "url": "http://radio2.tarat.com:9986/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/khalid-al-jalil-.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة خالد الجليل - تلاوات خاشعة",
+    "url": "http://radio2.tarat.com:9978/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/KhaledAljalil.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "رعد محمد الكردي",
+    "url": "http://radio9.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466900045.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة (وليد الدليمي - برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484657799.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة عبدالعزيز الزهراني",
+    "url": "http://radio2.tarat.com:9960/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490799943.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة وليد الدليمي",
+    "url": "http://radio2.tarat.com:9950/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/dlimi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة القارئ عبدالودود حنيف (المسجد النبوي)",
+    "url": "http://radio10.tarat.com:9388/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/abdul-wadud-haneef.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أبو بكر الشاطري | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9416/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/16.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد بن علي العجمي | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9414/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467290033.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد بن علي العجمي",
+    "url": "http://radio7.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470905200.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "احمد محمد طاهر السوداني",
+    "url": "http://radio10.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1455275655.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "جمعان العصيمي | حفص عن عاصم",
+    "url": "http://radio9.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/24.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سعيد محمد نور السوداني",
+    "url": "http://radio1.tarat.com:9356",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1518181414.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد عبدالحكيم سعيد (برواية الدوري عن الكسا",
+    "url": "http://radio6.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486026242.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خالد الغامدي",
+    "url": "http://radio9.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1459156171.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سلمان العتيبي",
+    "url": "http://radio10.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1455401705.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صابر عبدالحكم | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9422/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/23.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صالح ال طالب إمام الحرم المكي",
+    "url": "http://radio10.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/altaleb.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة حسين آل الشيخ (برواية حفص عن عاصم)",
+    "url": "http://radio4.tarat.com:9416/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489302048.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ابراهيم العسيري",
+    "url": "http://radio3.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496148464.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالبارئ محمد",
+    "url": "http://radio3.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496318370.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد نزار مريش الدمشقي",
+    "url": "http://radio1.tarat.com:9346",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1517498677.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد صالح اليمني",
+    "url": "http://radio6.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485347913.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة فاتح سفرجيك",
+    "url": "http://radio6.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485871149.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد محمد سلامه",
+    "url": "http://radio6.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485942511.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالرحمن الجريذي",
+    "url": "http://radio6.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486456819.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد سعود (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486471016.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالله بن إبراهيم القرعاوي",
+    "url": "http://radio6.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486634687.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود الطبيب",
+    "url": "http://radio6.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486880482.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة بدر التركي",
+    "url": "http://radio6.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486881082.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالودود حنيف (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486902614.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "رقية سولونق",
+    "url": "http://radio6.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486903086.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة استاذ زامري",
+    "url": "http://radio6.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486903394.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يحيى حوا (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486988834.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسر القرشي (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1487250508.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة نعمة الحسان (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1487510297.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف ابكر (تلاوات عراقية)",
+    "url": "http://radio4.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488535032.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالولي الأركاني (برواية حفص عن عاصم",
+    "url": "http://radio4.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488795076.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد البراك (برواية حفص عن عاصم)",
+    "url": "http://radio4.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489830383.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة معمر الأندونيسي (برواية حفص عن عاصم)",
+    "url": "http://radio4.tarat.com:9412/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489062363.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أنس العمادي (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490013792.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سعد الغامدي",
+    "url": "http://radio4.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490355378.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إبراهيم بن علي الجحاف",
+    "url": "http://radio12.tarat.com:9378",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1548606205.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خالد الرياعي",
+    "url": "http://radio4.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490430158.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة راشد الأركاني",
+    "url": "http://radio4.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490618592.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة بشير عبدالله",
+    "url": "http://radio4.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490619911.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة فارس عباد (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490682865.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة هلويست نصر الدين",
+    "url": "http://radio4.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490795129.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد الدبيخي",
+    "url": "http://radio4.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491224223.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ماجد العقل",
+    "url": "http://radio4.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491224389.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد الهديب",
+    "url": "http://radio4.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491235138.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالرحمن علي أبا الخيل",
+    "url": "http://radio4.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1502069535.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود خليل القارئ",
+    "url": "http://radio4.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491309645.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة نعمة الحسان",
+    "url": "http://radio6.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1487510428.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة حمد الدغريري",
+    "url": "http://radio6.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488090549.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف الصقير",
+    "url": "http://radio4.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488793937.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد الأيراوي (برواية حفص عن عاصم)",
+    "url": "http://radio4.tarat.com:9410/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488888823.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود الشيمي (برواية الدوري عن الكسائي)",
+    "url": "http://radio4.tarat.com:9414/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489062543.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يحيى حوا",
+    "url": "http://radio6.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489829785.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسر القرشي",
+    "url": "http://radio4.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489829941.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مالك العمودي",
+    "url": "http://radio6.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1486026654.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالهادي كناكري (برواية حفص عن عاصم)",
+    "url": "http://radio4.tarat.com:9418/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489302180.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد الكنتاوي",
+    "url": "http://radio4.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490014385.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أنس براق",
+    "url": "http://radio6.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489574062.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد النقيب",
+    "url": "http://radio6.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489656265.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف ابكر",
+    "url": "http://radio4.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488536721.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "زكي داغستاني",
+    "url": "http://radio4.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490187367.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة توفيق الصايغ",
+    "url": "http://radio4.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490187604.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عمر عبدالله",
+    "url": "http://radio4.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490795391.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خالد الجليل",
+    "url": "http://radio2.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490355858.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مؤيد المزين",
+    "url": "http://radio4.tarat.com:9374/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490619058.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة خالد الجهيم",
+    "url": "http://radio4.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490620149.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد حمادي",
+    "url": "http://radio4.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490795736.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد أيوب (تلاوات حجازية)",
+    "url": "http://radio4.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491236162.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة انس جلهوم",
+    "url": "http://radio5.tarat.com:9386/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492159779.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة هاني الرفاعي (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492347013.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مشاري العفاسي (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492347380.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة وليد النائحي (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492521248.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود الرفاعي (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9374/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492521461.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ابراهيم العسيري برواية (حفص عن عاصم)",
+    "url": "http://radio3.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496150002.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالبارئ محمد",
+    "url": "http://radio3.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496318521.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالمجيد الأركاني",
+    "url": "http://radio3.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496664747.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالعزيز الكرعاني",
+    "url": "http://radio6.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485161919.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة إدريس أبكر (برواية حفص عن عاصم)",
+    "url": "http://radio6.tarat.com:9390/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490354986.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالعزيز التركي",
+    "url": "http://radio4.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490617979.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة يوسف السعيد (تلاوات بالمقام العراقي)",
+    "url": "http://radio4.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492160011.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد البخيت (تلاوات نجدية)",
+    "url": "http://radio4.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491236567.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد خليل القارئ",
+    "url": "http://radio4.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491238994.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة فهد الكندري (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491916542.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة نبيل الرفاعي (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492346683.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة وليد النائحي ",
+    "url": "http://radio5.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494245833.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة كامل الفشني",
+    "url": "http://radio5.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494246614.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة طه الفشني (تلاوة المصحف المجود) ",
+    "url": "http://radio5.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494246860.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة حاتم المالكي",
+    "url": "http://radio5.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494577618.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عمير شميم",
+    "url": "http://radio4.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490619266.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سعيد الخطيب",
+    "url": "http://radio4.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490619635.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد جبريل (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493291985.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عادل الكلباني (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490796030.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مختار الحاج",
+    "url": "http://radio3.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497966843.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة سلطان الصرام",
+    "url": "http://radio3.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497967376.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبد المتعال منصور عرفة",
+    "url": "http://radio3.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497967634.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة طارق عبدالغني داعوب برواية (قالون عن نافع)",
+    "url": "http://radio3.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497008619.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عامر المهلهل",
+    "url": "http://radio3.tarat.com:9346/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497183791.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة عبدالعزيز الزهراني (برواية حفص عن عاص",
+    "url": "http://radio4.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491239240.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة وديع اليمني (برواية حفص عن عاصم) ",
+    "url": "http://radio5.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492347821.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة كامل البهتيمى",
+    "url": "http://radio5.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495794588.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة مشاري العفاسي (برواية الدوري عن الكسائي )",
+    "url": "http://radio5.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492521836.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود الرفاعي",
+    "url": "http://radio5.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494245607.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة صالح آل طالب (برواية حفص عن عاصم) ",
+    "url": "http://radio4.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490014507.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمود خليل الحصري | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/19.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمود خليل الحصري | المصحف المرتل",
+    "url": "http://radio5.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1499211662.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمود خليل الحصري | ورش عن نافع",
+    "url": "http://radio10.tarat.com:9410/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/al_hussary.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمود خليل الحصري | المصحف المجود",
+    "url": "http://radio10.tarat.com:9412/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1456403342.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد جبريل | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9418/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/18.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالله بصفر | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9420/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/22.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالله خياط | حفص عن عاصم",
+    "url": "http://radio10.tarat.com:9424/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/25.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "القارئ محمد الغزالي",
+    "url": "http://radio1.tarat.com:9348",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1517647215.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فيصل الرشيد",
+    "url": "http://radio12.tarat.com:9390",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1575304856.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عمر بن عبدالعزيز",
+    "url": "http://radio12.tarat.com:9392",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1575304822.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد سليمان السعدني",
+    "url": "http://radio12.tarat.com:9394",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1576830280.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "ماجد الزامل",
+    "url": "http://radio9.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1464438427.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالرشيد صوفي برواية أبي الحارث عن الكساي",
+    "url": "http://radio2.tarat.com:9970/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/Rashid1.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "نايف الفيصل",
+    "url": "http://radio9.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465819458.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "يونس أسويلص",
+    "url": "http://radio7.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469898139.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "جزاع الصويلح",
+    "url": "http://radio7.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469924147.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "رمضان شكور",
+    "url": "http://radio7.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470220112.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبد المطلب بن عاشورة من الجزائر",
+    "url": "http://radio7.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470229125.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فؤاد الخامري",
+    "url": "http://radio7.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470347888.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عمران حافظ",
+    "url": "http://radio7.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470332577.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فهد الكندري",
+    "url": "http://radio7.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470477103.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إبراهيم الجبرين",
+    "url": "http://radio7.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470504126.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "ربيع حافظ",
+    "url": "http://radio7.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470489076.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إبراهيم الجبرين | حفص عن عاصم",
+    "url": "http://radio7.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470491712.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "القراء الماليزيون",
+    "url": "http://radio7.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470905337.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد البراك",
+    "url": "http://radio7.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470905621.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبد الله الكندري",
+    "url": "http://radio7.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470932891.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "داود حمزة",
+    "url": "http://radio7.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470991992.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "د.عبدالرحمن معاذ الخن",
+    "url": "http://radio7.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1471700497.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عماد المنصري",
+    "url": "http://radio7.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1471775134.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالله فهمي",
+    "url": "http://radio7.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472832209.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فهد البواردي",
+    "url": "http://radio7.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472926189.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالله الموسى",
+    "url": "http://radio7.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472926360.png",
+    "category": "ar"
+  },
+  {
+    "name": "سلطان الروكان",
+    "url": "http://radio7.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472926437.jpg",
+    "category": "ar"
+  },
+  {
+    "name": " د. محمد بن عبدالمجيد بقراءة عاصم",
+    "url": "http://radio7.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1473158861.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالله المطرود",
+    "url": "http://radio7.tarat.com:9550/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472990748.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "مولانا كورتش من مقدونيا",
+    "url": "http://radio6.tarat.com:9418/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1473159587.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمود حجازي",
+    "url": "http://radio7.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1475930203.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تلاوات أشبال",
+    "url": "http://radio7.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1475948239.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خالد المهنا",
+    "url": "http://radio7.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476204845.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمود عبد الحكم",
+    "url": "http://radio7.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476293929.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محمد المقيط",
+    "url": "http://radio7.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477083074.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "فيصل بن محمد الرشيد",
+    "url": "http://radio10.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/00.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد البخيت",
+    "url": "http://radio9.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1456613662.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "نبيل الرفاعي",
+    "url": "http://radio9.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467393233.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صالح الطوالة",
+    "url": "http://radio9.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494056632.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صالح الهبدان",
+    "url": "http://radio9.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469095368.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "احمد العبيد",
+    "url": "http://radio9.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469271945.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "محمد حسين عامر",
+    "url": "http://radio9.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469275191.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد ديبان برواية البزي عن ابن كثير",
+    "url": "http://radio6.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477642622.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "عبدالعزيز الحميدي (قراءة نجدية)",
+    "url": "http://radio9.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466771241.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "صالح الانصاري",
+    "url": "http://radio9.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469105736.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "مشاري البغلي",
+    "url": "http://radio9.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469106216.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد ديبان برواية قنبل عن ابن كثير",
+    "url": "http://radio6.tarat.com:9410/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477643045.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد ديبان برواية شعبة عن عاصم",
+    "url": "http://radio6.tarat.com:9412/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477673558.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد ديبان برواية حفص عن عاصم",
+    "url": "http://radio6.tarat.com:9414/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477736602.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سامي السلمي",
+    "url": "http://radio6.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1478279818.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أسامة بن علي الغانم برواية حفص عن عاصم",
+    "url": "http://radio6.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1478284325.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أسامة بن علي الغانم",
+    "url": "http://radio6.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1478282869.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أحمد الطرابلسي",
+    "url": "http://radio6.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485848472.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسر المزروعي (بروايتي رويس و روح عن يعقوب الحضرمي)",
+    "url": "http://radio1.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506540078.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة غسان الشوربجي ",
+    "url": "http://radio1.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506541126.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسرالمزروعي",
+    "url": "http://radio1.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506530327.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد سعيد العمرانى المصحف المرتل",
+    "url": "http://radio1.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506541883.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد سعيد العمرانى",
+    "url": "http://radio1.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506542273.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أحمد سعيد العمرانى ",
+    "url": "http://radio1.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506633554.png",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ياسين الجزائري",
+    "url": "http://radio1.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506635643.png",
+    "category": "ar"
+  },
+  {
+    "name": " عبدالعزيز العيدان",
+    "url": "http://radio6.tarat.com:9388/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485004403.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وتين",
+    "url": "http://radio12.tarat.com:9308",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1523608718.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الاربعين النووية",
+    "url": "http://radio12.tarat.com:9324",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1526648705.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج لله در الصابرين للشيخ عبدالرحمن الحمد",
+    "url": "http://radio12.tarat.com:9330",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528067803.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج شهركم مبارك",
+    "url": "http://radio12.tarat.com:9332",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528107939.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج المبشرون بالجنة",
+    "url": "http://radio12.tarat.com:9334",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528109773.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج التأريخ الإسلامي",
+    "url": "http://radio12.tarat.com:9336",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528113119.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج مدكر",
+    "url": "http://radio12.tarat.com:9338",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528211174.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج رسائل قرآنية",
+    "url": "http://radio12.tarat.com:9342",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528290162.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج خير القرون",
+    "url": "http://radio12.tarat.com:9346",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528453237.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وعلى آل محمد",
+    "url": "http://radio12.tarat.com:9348",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528456712.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الكلمة الطيبة للشيخ صالح المغامسي",
+    "url": "http://radio7.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476467893.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ونفس وما سواها",
+    "url": "http://radio12.tarat.com:9350",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528463014.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الآداب الشرعية",
+    "url": "http://radio9.tarat.com:9346/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467307202.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "العالم الاخير - للشيخ د. محمد العريفي ",
+    "url": "http://radio9.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467336464.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج اللهم بك أصبحنا",
+    "url": "http://radio9.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468032309.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ( قصة آية ) لـ نايف الصحفي و منصور السالمي",
+    "url": "http://radio9.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490800025.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذكروني اذكركم مع الشيخ عائض القرني",
+    "url": "http://radio9.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468187913.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج درر للشيخ نبيل العوضي",
+    "url": "http://radio7.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468504051.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج إشراقة قلب للشيخ سعد العتيق",
+    "url": "http://radio7.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492520772.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "وقفات مع التعزية د سعد العتيق",
+    "url": "http://radio7.tarat.com:9410/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468577076.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الشيخ البشير عصام المراكشي",
+    "url": "http://radio9.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468938943.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "حكاية ومغزى لـ نايف الصحفي و منصور السالمي ",
+    "url": "http://radio9.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490800139.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج هداية",
+    "url": "http://radio12.tarat.com:9354",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528539971.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج آية وحديث",
+    "url": "http://radio12.tarat.com:9356",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528540537.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج من نور القران",
+    "url": "http://radio12.tarat.com:9358",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528628155.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج سعادة الدارين",
+    "url": "http://radio12.tarat.com:9360",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528630991.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج محطات إيمانية",
+    "url": "http://radio12.tarat.com:9362",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528647562.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج بصائر",
+    "url": "http://radio12.tarat.com:9364",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528713435.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وبشر المخبتين",
+    "url": "http://radio12.tarat.com:9376",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1530287836.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أمهات المؤمنين",
+    "url": "http://radio12.tarat.com:9372",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1529235242.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة ميراث الأنبياء",
+    "url": "http://miraath.ddns.net:7000/stream",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/miraath.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "السيرة النبوية في تغريدات",
+    "url": "http://radio12.tarat.com:9380",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1557566902.jpg",
+    "category": "ar"
+  },
+  {
+    "name": " دروس الشيخ محمد بن محمد المختار الشنقيطي",
+    "url": "http://radio3.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484036121.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الشيخ محمد المختار الشنقيطي",
+    "url": "http://radio10.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/noname11.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الباقيات الصالحات للشيخ صالح المغامسي",
+    "url": "http://radio4.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489834474.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ويتفكرون للشيخ د.محمد راتب النابلسي",
+    "url": "http://radio6.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490876773.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قصة الفاروق للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9386/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488276241.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج من كل الثمرات للشيخ صالح المغامسي",
+    "url": "http://radio4.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489834212.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج شرف مكة للدكتور زغلول النجار",
+    "url": "http://radio4.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1489834780.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج حدثني القمر",
+    "url": "http://radio5.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494057583.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج إلهي للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488533792.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الهدى و النور",
+    "url": "http://radio3.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496149740.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قبس من القرآن",
+    "url": "http://radio3.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496750388.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج نحن و القرآن",
+    "url": "http://radio3.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497006584.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج صفوة الصفوة للشيخ عمر عبد الكافي",
+    "url": "http://radio6.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1484812756.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج آدم للشيخ سلمان العودة",
+    "url": "http://radio6.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485078071.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج آخلاق الحبيب للدكتور نايف العجمي",
+    "url": "http://radio6.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485163553.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج يدعون إلى الخير",
+    "url": "http://radio12.tarat.com:9314",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1525020669.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ياالله للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9388/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488278647.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج مكارم للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488532879.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج مشاهد للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490356756.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج افلا يعقلون للدكتور زغلول النجار",
+    "url": "http://radio4.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491237973.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج من الظلمات إلى النور",
+    "url": "http://radio5.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491914242.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج إنها مكة",
+    "url": "http://radio2.tarat.com:9994/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492090894.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج موئل",
+    "url": "http://radio2.tarat.com:9996/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492091494.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فثم الجنة",
+    "url": "http://radio5.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493364732.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قصص الأنبياء للشيخ سعيد الكملي",
+    "url": "http://radio5.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493968962.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سيرة أبو بكر الصديق رضي الله عنه",
+    "url": "http://radio5.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494247839.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج علمني موسى",
+    "url": "http://radio5.tarat.com:9402/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495198023.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فضائل للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488534338.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الصفوة للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488354061.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فديناك",
+    "url": "http://radio5.tarat.com:9390/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491826890.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج هو الله",
+    "url": "http://radio5.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493728031.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أشذاء وأنداء",
+    "url": "http://radio5.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493730207.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج نساء خالدات",
+    "url": "http://radio5.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494333080.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وحيٌ يوحى",
+    "url": "http://radio5.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491827186.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج روائع للشيخ محمد راتب النابلسي",
+    "url": "http://radio5.tarat.com:9396/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492086805.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج كرسي الإمام مالك للشيخ سعيد الكملي",
+    "url": "http://radio5.tarat.com:9440/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493968671.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج سير الصحابة",
+    "url": "http://radio5.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493969625.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أجمل قصة حب",
+    "url": "http://radio5.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494417697.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فقهيات الصيام",
+    "url": "http://radio3.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497008996.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج المغزى الرمضاني",
+    "url": "http://radio3.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497007108.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج عمر والليل للدكتور حسن شريم",
+    "url": "http://radio6.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1485249118.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج هل يستويان للشيخ نبيل العوضي",
+    "url": "http://radio4.tarat.com:9390/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488353428.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج السابقون الأولون",
+    "url": "http://radio3.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496665534.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج خير الزاد",
+    "url": "http://radio3.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496750081.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الحضارة النبوية للدكتور زغلول النجار",
+    "url": "http://radio4.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491236875.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج و يتفكرون للدكتور زغلول النجار",
+    "url": "http://radio4.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491237515.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قسمات مكية للدكتور وسيم معلم",
+    "url": "http://radio4.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491238610.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أحسن الحديث للدكتور محمد الطيان ",
+    "url": "http://radio5.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491827536.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ربيع الإيمان للشيخ محمد راتب النابلسي",
+    "url": "http://radio5.tarat.com:9408/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491915027.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج العقيدة والإعجاز للشيخ محمد راتب النابلسي",
+    "url": "http://radio5.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491916276.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الرحمة المهداة",
+    "url": "http://radio2.tarat.com:9756/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492159165.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج خاتم النبيين",
+    "url": "http://radio5.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493369673.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج تأملات قرآنية",
+    "url": "http://radio5.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493370246.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج المقام الأمين",
+    "url": "http://radio5.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493642658.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سيرة عمر بن الخطاب رضي الله عنه",
+    "url": "http://radio5.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494248011.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سيرة عثمان بن عفان رضي الله عنه",
+    "url": "http://radio5.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494263691.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ومحياي",
+    "url": "http://radio5.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495184489.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج نحن و القرآن",
+    "url": "http://radio3.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497008209.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج معالم منهجية حول الصحابة",
+    "url": "http://radio3.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497009199.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وقفة مع آية",
+    "url": "http://radio3.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497530132.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج دروس الحرمين للشيخ أبو بكر الجزائري",
+    "url": "http://radio3.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497907820.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج زاد الصائمين",
+    "url": "http://radio3.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497965735.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج هدى و بينات",
+    "url": "http://radio3.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497966165.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج زاد الصائمين",
+    "url": "http://radio3.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497966520.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج التربية النبوية",
+    "url": "http://radio3.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496665829.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج منارات القرآن",
+    "url": "http://radio3.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496665004.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قرار",
+    "url": "http://radio5.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493363510.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج البيان",
+    "url": "http://radio5.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493367020.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج سير الصحابة",
+    "url": "http://radio5.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494245392.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "سيرة علي بن أبي طالب رضي الله عنه",
+    "url": "http://radio5.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1494248144.jpeg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج اسجد و اقترب",
+    "url": "http://radio12.tarat.com:9328",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495025212.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قصة آية",
+    "url": "http://radio3.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497442196.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج خزائن الرحمة",
+    "url": "http://radio5.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493729581.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج شخصيات و عبر",
+    "url": "http://radio3.tarat.com:9332/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496750750.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج نوافذ",
+    "url": "http://radio3.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496666224.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ورقات",
+    "url": "http://radio5.tarat.com:9360/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493367872.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أعز الناس",
+    "url": "http://radio5.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495186195.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج لمعات للدكتور عبدالكريم بكار",
+    "url": "http://radio5.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1495793807.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الكنوز في ثواني",
+    "url": "http://radio5.tarat.com:9362/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493367428.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أحبه الله",
+    "url": "http://radio5.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493729918.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "وقفات قرآنية",
+    "url": "http://radio12.tarat.com:9352",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1528468257.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة السيرة النبوية وقصص القرآن والأنبياء والصحابة",
+    "url": "http://radio.alukah.net/sirah",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457182983.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "السيرة النبوية - نبيل العوضي",
+    "url": "http://radio9.tarat.com:9352/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466792137.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الشيخ مشارى الخراز - برنامج كيف تتلذذ بعبادتك ؟",
+    "url": "http://radio9.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469658790.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج \"العظماء المائة\" تقديم جهاد الترباني",
+    "url": "http://radio7.tarat.com:9386/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470235772.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الشيخ محمد بقنة الشهراني",
+    "url": "http://radio7.tarat.com:9388/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1470260145.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وقفات نبوية - الشيخ فيصل الهاشمي",
+    "url": "http://radio7.tarat.com:9404/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492953011.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "مقتطفات من كلام الشيخ على الطنطاوى رحمة الله",
+    "url": "http://radio6.tarat.com:9420/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472821184.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فضل الصلاة على النبي للشيخ حسن الحسيني",
+    "url": "http://radio7.tarat.com:9552/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492952883.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أيام عمر للشيخ حسن الحسيني",
+    "url": "http://radio7.tarat.com:9348/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492952732.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج حدثني التاريخ للشيخ عبد العزيز العويد",
+    "url": "http://radio7.tarat.com:9346/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472860224.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "كيف تتلذذ بالصلاة للشيخ مشاري الخراز",
+    "url": "http://radio7.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1475862422.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "نفحات إيمانية للشيخ محمد صالح المنجد",
+    "url": "http://radio7.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1475955727.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أسوة حسنة للشيخ محمد صالح المنجد",
+    "url": "http://radio7.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476036853.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج درر للشيخ محمد راتب النابلسي (الجزء الأول)",
+    "url": "http://radio7.tarat.com:9330/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490685421.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج \"ونمارق مصفوفة\" للشيخ صالح المغامسي",
+    "url": "http://radio7.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476470816.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أيام الصديق للشيخ حسن الحسيني",
+    "url": "http://radio7.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476534872.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج دار السلام للشيخ صالح المغامسي",
+    "url": "http://radio7.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477036825.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "السيرة النبوية للشيخ عائض القرني",
+    "url": "http://radio7.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1492520681.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج مع القرآن للشيخ صالح المغامسي",
+    "url": "http://radio7.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477065735.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج وياكم للشيخ د.محمد العوضي",
+    "url": "http://radio7.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477092154.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "المجلس الفقهي للشيخ مبروك زيد الخير",
+    "url": "http://radio7.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477151111.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج زدني علما للشيخ د. محمد العوضي",
+    "url": "http://radio7.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477637533.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة محاضرات الشيخ صالح بن عواد المغامسي",
+    "url": "http://radio10.tarat.com:9336/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468239475.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قصص الأنبياء للشيخ نبيل العوضي",
+    "url": "http://radio10.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1455278542.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "في ظلال السيرة",
+    "url": "http://radio10.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/FeThilalAsiyrah.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "روح المعاني للشيخ صالح المغامسي",
+    "url": "http://radio9.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457862080.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج ذكرى - من قناة المجد",
+    "url": "http://radio9.tarat.com:9378/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465399530.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دروس شرح كتاب التوحيد للشيخ الدكتور خالد بن عبد ال",
+    "url": "http://radio9.tarat.com:9340/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467394582.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "نور على الدرب للشيخ عبدالكريم الخضير",
+    "url": "http://radio9.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467396309.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "الشيخ مشارى الخراز - برنامج كيف تتعامل مع الله؟",
+    "url": "http://radio7.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469752340.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج درر للشيخ محمد راتب النابلسي (الجزء الثاني)",
+    "url": "http://radio6.tarat.com:9342/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1490685517.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج درر (الجزء الثالث)",
+    "url": "http://radio12.tarat.com:9310",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1523645144.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أشراط الساعة - الشيخ نافع بن خالد العلواني",
+    "url": "http://radio6.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1479570979.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قصص الأنبياء - الشيخ نافع بن خالد العلواني",
+    "url": "http://radio6.tarat.com:9406/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1479571325.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "السيرة النبوية - الشيخ نافع بن خالد العلواني",
+    "url": "http://radio6.tarat.com:9398/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1479571965.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الوعد الحق للشيخ عمر عبد الكافي",
+    "url": "http://radio6.tarat.com:9416/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1477889530.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "بالقرآن اهتديت - فهد الكندري",
+    "url": "http://radio9.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466799597.jpg",
+    "category": "e/ع"
+  },
+  {
+    "name": "برنامج وصف الجنة",
+    "url": "http://radio1.tarat.com:9316/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506638396.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج أروع القصص",
+    "url": "http://radio1.tarat.com:9318/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506638612.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج يا ربي",
+    "url": "http://radio1.tarat.com:9320/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506762373.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج قصة وآية",
+    "url": "http://radio1.tarat.com:9322/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506762468.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج الراحمون",
+    "url": "http://radio1.tarat.com:9324/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506762556.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج علمني ربي",
+    "url": "http://radio1.tarat.com:9326/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506762658.png",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج فسيروا",
+    "url": "http://radio1.tarat.com:9314/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1506638237.png",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة خطب الحرمين الشريفين",
+    "url": "http://radio6.tarat.com:9354/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/images_2tjs.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الجمعة من المسجد الأقصى المبارك",
+    "url": "http://radio9.tarat.com:9328/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469635572.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "ادعية للشيخ خالد الغامدي",
+    "url": "http://radio2.tarat.com:9306/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1503261988.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تكبيرات",
+    "url": "http://radio6.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/allahakbar.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أذكار الصباح",
+    "url": "http://radio2.tarat.com:9300/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/xxx.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة أذكار المساء",
+    "url": "http://radio2.tarat.com:9302/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/yyy.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دعاء ركوب السيارة",
+    "url": "http://radio3.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496149132.jpg",
+    "category": "ar"
+  },
+  {
+    "name": " أسماء الله الحسنى",
+    "url": "http://radio5.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1493369443.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دعاء التلبية في الحج و العمرة",
+    "url": "http://radio3.tarat.com:9364/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497967105.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دعاء صلاة الإستخارة",
+    "url": "http://radio3.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497967869.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دعاء سيد الإستغفار",
+    "url": "http://radio3.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1497968222.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة الأدعية والأذكار اليومية",
+    "url": "http://adiyyah.alradio.net:9968/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457183103.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دعاء السفر",
+    "url": "http://radio7.tarat.com:9334/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1476290531.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أدعية",
+    "url": "http://radio10.tarat.com:9358/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/doaa.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الفارسية",
+    "url": "http://live.mp3quran.net:9724",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1511696410.jpg",
+    "category": "fa"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الانجليزية",
+    "url": "http://radio9.tarat.com:9392/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1467116488.jpg",
+    "category": "en"
+  },
+  {
+    "name": "السديس والشريم مترجم للاردو",
+    "url": "http://radio9.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465604908.jpg",
+    "category": "ur"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الهندية",
+    "url": "http://radio9.tarat.com:9374/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465607663.jpg",
+    "category": "hi"
+  },
+  {
+    "name": "إذاعة القرآن باللغة البوسنية",
+    "url": "http://radio9.tarat.com:9382/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465609785.jpg",
+    "category": "bs"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الاندونيسية",
+    "url": "http://radio9.tarat.com:9386/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465648800.jpg",
+    "category": "in"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الصينية",
+    "url": "http://radio9.tarat.com:9380/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465648864.jpg",
+    "category": "zh-cn"
+  },
+  {
+    "name": "إذاعة القرآن باللغة البنغالية",
+    "url": "http://radio9.tarat.com:9388/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465646221.jpg",
+    "category": "bn"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الكورية",
+    "url": "http://radio9.tarat.com:9390/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465647076.jpg",
+    "category": "ko"
+  },
+  {
+    "name": "إذاعة القرآن باللغة التركية",
+    "url": "http://radio9.tarat.com:9394/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465653235.jpg",
+    "category": "tr"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الكردية",
+    "url": "http://radio9.tarat.com:9384/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1465648734.jpg",
+    "category": "ku"
+  },
+  {
+    "name": "إذاعة القرآن باللغة الفلبينية",
+    "url": "http://radio9.tarat.com:9356/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1466703330.jpg",
+    "category": "ta"
+  },
+  {
+    "name": "تفسير القرآن - عبد الله بن محمد الأمين الشنقيطي",
+    "url": "http://radio3.tarat.com:9776",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457796733.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "برنامج حوارات قرآنية",
+    "url": "http://radio7.tarat.com:9412/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468578361.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "دروس التفسير المفصل للشيخ محمد بن علي الشنقيطي",
+    "url": "http://radio3.tarat.com:9400/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1483450980.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "التفسير العلمي للقرآن الكريم للدكتور زغلول النجار",
+    "url": "http://radio4.tarat.com:9308/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1491238370.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تعلم تجويد القرآن مع د. أيمن سويد",
+    "url": "http://radio4.tarat.com:9344/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1501111912.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "أيسر التفاسير للشيخ أبو بكر الجزائري",
+    "url": "http://radio1.tarat.com:9344",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1515488940.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "اذاعة الشيخ محمد متولى الشعراوى",
+    "url": "http://radio2.tarat.com:9980/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/Sharawi.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة علوم القرآن الكريم",
+    "url": "http://radio.alukah.net/ulumalquran",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457182357.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "القناة الفقهية",
+    "url": "http://radio.alukah.net/fiqhiyyah",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457182735.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "شبكة الألوكة - قناة تفسير القرآن الكريم",
+    "url": "http://radio.alukah.net/tafsir",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457177462.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة العقيدة والتوحيد",
+    "url": "http://radio.alukah.net/aqidah",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457182540.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة المجد للحديث النبوي",
+    "url": "http://radio3.tarat.com:9600/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1472488297.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة صحيح البخاري",
+    "url": "http://radio2.tarat.com:9304/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/3080.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "قناة الحديث وعلومه",
+    "url": "http://hadith.alradio.net:9936/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457182659.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة المصحف المعلم للصغار",
+    "url": "http://radio6.tarat.com:9350/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/mzl.aiykesvx.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خليفة الطنيجي",
+    "url": "http://radio9.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1459155247.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "المعلم للاطفال",
+    "url": "http://radio6.tarat.com:9338/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1488217632.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تلاوات تعليمية (خليل القارئ)",
+    "url": "http://radio3.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1496150450.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "المصحف المعلم - علي بن عبدالرحمن الحذيفي",
+    "url": "http://radio9.tarat.com:9366/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1457972202.png",
+    "category": "ar"
+  },
+  {
+    "name": "تلاوات مجمعة من صلاة التراويح للشيخ د. صالح آل طالب عام ١٤٢٤هـ",
+    "url": "http://radio12.tarat.com:9302",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1524404463.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تراويح الحرم المكي ١٤٣٥هـ",
+    "url": "http://radio9.tarat.com:9310/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468689133.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "تراويح المسجد النبوي ١٤٣٥هـ",
+    "url": "http://radio9.tarat.com:9312/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1468691383.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ اسامة خياط",
+    "url": "http://radio1.tarat.com:9330",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514462619.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ سعود الشريم",
+    "url": "http://radio1.tarat.com:9332",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514561178.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ صالح بن حميد",
+    "url": "http://radio1.tarat.com:9336",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514646257.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ عبد الرحمن السديس",
+    "url": "http://radio1.tarat.com:9338",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514652547.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ عمر السبيل",
+    "url": "http://radio1.tarat.com:9340",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514883454.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ محمد السبيل",
+    "url": "http://radio1.tarat.com:9342",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514966225.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ صالح آل طالب",
+    "url": "http://radio1.tarat.com:9334",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1514633048.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ علي الحذيفي",
+    "url": "http://radio7.tarat.com:9368/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469807194.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ حسين آل الشيخ",
+    "url": "http://radio7.tarat.com:9370/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469810074.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ صلاح البدير",
+    "url": "http://radio7.tarat.com:9372/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469832130.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ عبد الباري الثبيتي",
+    "url": "http://radio7.tarat.com:9374/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469833583.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "خطب الشيخ عبد العزيز بن صالح",
+    "url": "http://radio7.tarat.com:9376/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/1469835358.jpg",
+    "category": "ar"
+  },
+  {
+    "name": "إذاعة الفتاوى",
+    "url": "http://live.mp3quran.net:8014/",
+    "logo": "https://quranrad.io/quran_v2/public/radio_icon/28.jpg",
+    "category": "ar"
+  }
+]
