@@ -207,19 +207,7 @@
     "name": "Energy 93 - Euro EDM (181.Fm)",
     "category": "EURODANCE - MUSIC",
     "url": "http://relay.181.fm:8044/",
-    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xv8fazrfgh27.png"
-  },
-  {
-    "name": "90S DANCE CLASSICS",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen.radionomy.com/90s-dance-classics",
-    "logo": "https://i3.radionomy.com/radios/400/ee6f2ead-bb55-4d26-bd19-54bdadae618b.png"
-  },
-  {
-    "name": "A'11 Eurodance 90s",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://streaming.radionomy.com/A-11-Eurodance-90s",
-    "logo": "https://dl.dropbox.com/s/ommqnv29gpe2yku/A%2711%20Eurodance%2090s.png"
+    "logo": "https://static.radio.net/images/broadcasts/07/d6/105208/1/c300.png"
   },
   {
     "name": "Sunset Radio : EuroDance",
@@ -466,18 +454,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen.radionomy.com/-superdance-",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png"
-  },
-  {
-    "name": "LATVIAN DANCE MUSIC",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen.radionomy.com/latviandancemusic",
-    "logo": "https://i3.radionomy.com/radios/400/dadf7853-d7f4-4b27-b5d2-668190c2fec9.jpg"
-  },
-  {
-    "name": "RADIO ROMANIAN DANCE",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://asculta.radioromanian.net:8100/;",
-    "logo": "https://i3.radionomy.com/radios/400/8abcb870-4d96-4542-867e-907f4c82ba91.png"
   },
   {
     "name": "Fantasy Dance Beatz",
