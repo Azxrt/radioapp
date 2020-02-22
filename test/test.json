@@ -68,7 +68,7 @@
   {
     "name": "MPR Classical Relax",
     "url": "http://50.31.167.245/relax.mp3",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "logo": "https://oiradio.co/assets/images/stations/i/i0.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "Relax FM",
     "url": "http://37.0.31.66:8000/relax",
-    "logo": "https://cdn-profiles.tunein.com/s226346/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s226346/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "ON Relax",
     "url": "https://0n-relax.radionetz.de/0n-relax.mp3",
-    "logo": "https://cdn-profiles.tunein.com/s307976q.png",
+    "logo": "https://cdn-profiles.tunein.com/s307976/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "ANTENNE BAYERN Relax",
     "url": "http://s9-webradio.antenne.de/relax/stream/mp3",
-    "logo": "https://cdn-profiles.tunein.com/s307393/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s307393/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -154,7 +154,7 @@
   {
     "name": "Relaxing Radio 365",
     "url": "http://s10.voscast.com:9574/;",
-    "logo": "https://cdn-profiles.tunein.com/s305342q.png",
+    "logo": "https://cdn-profiles.tunein.com/s305342/images/logoq.jpg",
     "category": "RELAXING MUSIC"
   },
 
@@ -168,7 +168,7 @@
   {
     "name": "RH Ambient & Relaxing Music",
     "url": "http://158.69.253.153:5842/stream",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s165934/logos/logoq.jpg",
+    "logo": "https://cdn-profiles.tunein.com/s165934/images/logoq.jpg",
     "category": "RELAXING MUSIC"
   },
   {
@@ -186,7 +186,7 @@
   {
     "name": "Живое Радио Релакс",
     "url": "http://air.jivoe.in/relax-hi.mp3",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "logo": "http://top-radio.ru/assets/image/radio/180/jivoe.jpg",
     "category": "RELAXING MUSIC"
   },
 
@@ -205,13 +205,13 @@
   {
     "name": "In the Mood Music",
     "url": "http://live.inthemoodmusic.com:8080/",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s118874q.png",
+    "logo": "https://i1.sndcdn.com/artworks-000345690522-x3fmeg-t500x500.jpg",
     "category": "RELAXING MUSIC"
   },
   {
     "name": "Spectrum Chillout",
     "url": "http://51.255.235.165:5024/live",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s305101/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s305101/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
