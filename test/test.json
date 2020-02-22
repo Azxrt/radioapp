@@ -14,13 +14,13 @@
   {
     "name": "Relax Zone",
     "url": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s302892q.png",
+    "logo": "https://cdn-profiles.tunein.com/s302892/images/logoq.jpg",
     "category": "RELAXING MUSIC"
   },
   {
     "name": "Аплюс Relax",
     "url": "http://shoutcast.aplus.by:9000/aplus_relax_128",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s142469q.png",
+    "logo": "https://time4radio.ru/wp-content/uploads/2018/03/aplus-relax-300x300.jpg",
     "category": "RELAXING MUSIC"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "RADIO PSR Relax",
     "url": "http://psr.hoerradar.de/psr-relax-mp3-mq",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s306590/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s306590/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -56,7 +56,7 @@
   {
     "name": "WJCT Relax Radio HD3",
     "url": "https://17023.live.streamtheworld.com/WJCTHD3.mp3",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s67042q.png",
+    "logo": "https://cdn-profiles.tunein.com/s67042/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "RDS Relax",
     "url": "https://icstream.rds.radio/rdsrelax",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s299243q.png",
+    "logo": "https://cdn-profiles.tunein.com/s299243/images/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "Relax FM",
     "url": "http://37.0.31.66:8000/relax",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s226346/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s226346/logos/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -104,13 +104,13 @@
   {
     "name": "ON Relax",
     "url": "https://0n-relax.radionetz.de/0n-relax.mp3",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s307976q.png",
+    "logo": "https://cdn-profiles.tunein.com/s307976q.png",
     "category": "RELAXING MUSIC"
   },
   {
     "name": "RMN Relax",
     "url": "http://telekom.powersender.de/rmnrelax",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s54694q.png",
+    "logo": "https://cdn-profiles.tunein.com/s54694q.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "ANTENNE BAYERN Relax",
     "url": "http://s9-webradio.antenne.de/relax/stream/mp3",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s307393/logos/logoq.png",
+    "logo": "https://cdn-profiles.tunein.com/s307393/logos/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -154,7 +154,7 @@
   {
     "name": "Relaxing Radio 365",
     "url": "http://s10.voscast.com:9574/;",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s305342q.png",
+    "logo": "https://cdn-profiles.tunein.com/s305342q.png",
     "category": "RELAXING MUSIC"
   },
 
