@@ -388,5 +388,59 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://air.radiorecord.ru:805/pump_128",
     "logo": "https://static.radio.net/images/broadcasts/2e/40/114203/2/c175.png"
-  }
+  },
+  {
+    "name": "BDJ EURODANCE 90S",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjeurodance90s",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-eurodance-90s.jpg"
+  },
+  {
+    "name": "BDJ BERLIN DIGITAL JACK",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://streamingv2.shoutcast.com/BDJBerlinDigitalJack",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-berlin-digital-jack-01.jpg"
+  },  
+  {
+    "name": "VOYAGE - THE SCHILLER RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://16153.live.streamtheworld.com/SAM07AAC259_SC",
+    "logo": "https://bdjradio.com/media/images/logo-voyage-the-schiller-radio.jpg"
+  },    
+  {
+    "name": "BDJ ELECTRONIC LOUNGE RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjelectroniclounge",
+    "logo": "https://bdjradio.com/media/images/electronic-lounge-radio-logo.jpg"
+  },   
+   {
+    "name": "BDJ PURE 80s RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjpure80s",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-pure-81s.jpg"
+  },  
+    {
+    "name": "BDJ ITALO DISCO RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjitalodisco",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
+  },   
+    {
+    "name": "BDJ MAXI MIX",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjmaximix",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-maxi-mix.jpg"
+  },   
+     {
+    "name": "BDJ MASH UP RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://streamingv2.shoutcast.com/BDJMashUp",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-mashup.jpg"
+  },  
+     {
+    "name": "BDJ CHRISTMAS CHANNEL",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen64.radionomy.com/bdjchristmaschannel",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-christmas-channel.jpg"
+  }   
 ]
