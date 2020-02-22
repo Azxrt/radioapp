@@ -1,229 +1,229 @@
 [
   {
-    "text": "Радио Релакс Музыка без слов",
-    "URL": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Instrumental",
-    "image": "http://cdn-radiotime-logos.tunein.com/s224284q.png",
+    "name": "Радио Релакс Музыка без слов",
+    "url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Instrumental",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s224284q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Relax Electronic",
-    "URL": "http://82.146.35.241:8000/relax64",
-    "image": "http://cdn-radiotime-logos.tunein.com/s279083/images/logoq.jpg?t=155351",
+    "name": "Relax Electronic",
+    "url": "http://82.146.35.241:8000/relax64",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s279083/logos/logoq.jpg?t=155351",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Relax Zone",
-    "URL": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
-    "image": "http://cdn-radiotime-logos.tunein.com/s302892/images/logoq.jpg?t=151550",
+    "name": "Relax Zone",
+    "url": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s302892/logos/logoq.jpg?t=151550",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Аплюс Relax",
-    "URL": "http://shoutcast.aplus.by:9000/aplus_relax_128",
-    "image": "http://cdn-radiotime-logos.tunein.com/s142469q.png",
+    "name": "Аплюс Relax",
+    "url": "http://shoutcast.aplus.by:9000/aplus_relax_128",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s142469q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Soundstorm - Relax Radio",
-    "URL": "http://stream.soundstorm-radio.com:8000/stream1",
-    "image": "http://cdn-radiotime-logos.tunein.com/s113468q.png",
+    "name": "Soundstorm - Relax Radio",
+    "url": "http://stream.soundstorm-radio.com:8000/stream1",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s113468q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Intimidad relax",
-    "URL": "http://37.59.121.120:9390/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s297114q.png",
+    "name": "Intimidad relax",
+    "url": "http://37.59.121.120:9390/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s297114q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "1000Slots to relax",
-    "URL": "http://hyades.shoutca.st:8714/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "name": "1000Slots to relax",
+    "url": "http://hyades.shoutca.st:8714/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "RADIO PSR Relax",
-    "URL": "http://psr.hoerradar.de/psr-relax-mp3-mq",
-    "image": "http://cdn-radiotime-logos.tunein.com/s306590/images/logoq.png",
+    "name": "RADIO PSR Relax",
+    "url": "http://psr.hoerradar.de/psr-relax-mp3-mq",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s306590/logos/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "За облаками Relax",
-    "URL": "http://195.88.63.114:8000/relax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s199921q.png",
+    "name": "За облаками Relax",
+    "url": "http://195.88.63.114:8000/relax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s199921q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "WJCT Relax Radio HD3",
-    "URL": "https://17023.live.streamtheworld.com/WJCTHD3.mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s67042q.png",
+    "name": "WJCT Relax Radio HD3",
+    "url": "https://17023.live.streamtheworld.com/WJCTHD3.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s67042q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Radio Dimensione Relax",
-    "URL": "http://tachyon.shoutca.st:8919/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s260893q.png",
+    "name": "Radio Dimensione Relax",
+    "url": "http://tachyon.shoutca.st:8919/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s260893q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "MPR Classical Relax",
-    "URL": "http://50.31.167.245/relax.mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "name": "MPR Classical Relax",
+    "url": "http://50.31.167.245/relax.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "RDS Relax",
-    "URL": "https://icstream.rds.radio/rdsrelax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s299243q.png",
+    "name": "RDS Relax",
+    "url": "https://icstream.rds.radio/rdsrelax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s299243q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "R.SH Relax",
-    "URL": "http://rsh.hoerradar.de/rsh-relax-mp3-mq",
-    "image": "http://cdn-radiotime-logos.tunein.com/s275739q.png",
+    "name": "R.SH Relax",
+    "url": "http://rsh.hoerradar.de/rsh-relax-mp3-mq",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s275739q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Relax FM",
-    "URL": "http://37.0.31.66:8000/relax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s226346/images/logoq.png",
+    "name": "Relax FM",
+    "url": "http://37.0.31.66:8000/relax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s226346/logos/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "ABC Relax",
-    "URL": "http://manager2.creativradio.com:2290/;",
-    "image": "http://cdn-radiotime-logos.tunein.com/s224505q.png",
+    "name": "ABC Relax",
+    "url": "http://manager2.creativradio.com:2290/;",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s224505q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Vibration Zen relax",
-    "URL": "http://vibration.stream2net.eu:8220/;",
-    "image": "http://cdn-radiotime-logos.tunein.com/s240346q.png",
+    "name": "Vibration Zen relax",
+    "url": "http://vibration.stream2net.eu:8220/;",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s240346q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "ON Relax",
-    "URL": "https://0n-relax.radionetz.de/0n-relax.mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s307976q.png",
+    "name": "ON Relax",
+    "url": "https://0n-relax.radionetz.de/0n-relax.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s307976q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "RMN Relax",
-    "URL": "http://telekom.powersender.de/rmnrelax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s54694q.png",
+    "name": "RMN Relax",
+    "url": "http://telekom.powersender.de/rmnrelax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s54694q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "voicebookradio.com - Relax",
-    "URL": "http://37.59.53.198:8020/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s191445q.png",
+    "name": "voicebookradio.com - Relax",
+    "url": "http://37.59.53.198:8020/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s191445q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "ANTENNE BAYERN Relax",
-    "URL": "http://s9-webradio.antenne.de/relax/stream/mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s307393/images/logoq.png",
+    "name": "ANTENNE BAYERN Relax",
+    "url": "http://s9-webradio.antenne.de/relax/stream/mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s307393/logos/logoq.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Energy Relax",
-    "URL": "http://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s290615q.png",
+    "name": "Energy Relax",
+    "url": "http://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s290615q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "San FM Relax",
-    "URL": "http://sanfm.ru:8000/relax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s81798q.png",
-    "category": "RELAXING MUSIC"
-  },
-
-  {
-    "text": "Aloha Joe's Relaxation Island",
-    "URL": "http://s2.voscast.com:7932/;",
-    "image": "http://cdn-radiotime-logos.tunein.com/s196293q.png",
+    "name": "San FM Relax",
+    "url": "http://sanfm.ru:8000/relax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s81798q.png",
     "category": "RELAXING MUSIC"
   },
 
   {
-    "text": "Antenne Niedersachsen Relax",
-    "URL": "http://antennends-ais-edge-3003.fra-eco.cdn.addradio.net/antennends/relax/mp3/high",
-    "image": "http://cdn-radiotime-logos.tunein.com/s248112q.png",
-    "category": "RELAXING MUSIC"
-  },
-  {
-    "text": "Relaxing Radio 365",
-    "URL": "http://s10.voscast.com:9574/;",
-    "image": "http://cdn-radiotime-logos.tunein.com/s305342/images/logoq.jpg?t=1",
+    "name": "Aloha Joe's Relaxation Island",
+    "url": "http://s2.voscast.com:7932/;",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s196293q.png",
     "category": "RELAXING MUSIC"
   },
 
   {
-    "text": "Chill, Relaxing, Positive",
-    "URL": "http://streamingv2.shoutcast.com/Chill-Relaxing-Positive-Work-Study-Relax",
-    "image": "http://cdn-radiotime-logos.tunein.com/s257854q.png",
+    "name": "Antenne Niedersachsen Relax",
+    "url": "http://antennends-ais-edge-3003.fra-eco.cdn.addradio.net/antennends/relax/mp3/high",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s248112q.png",
+    "category": "RELAXING MUSIC"
+  },
+  {
+    "name": "Relaxing Radio 365",
+    "url": "http://s10.voscast.com:9574/;",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s305342/logos/logoq.jpg?t=1",
     "category": "RELAXING MUSIC"
   },
 
   {
-    "text": "RH Ambient & Relaxing Music",
-    "URL": "http://158.69.253.153:5842/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s165934/images/logoq.jpg",
-    "category": "RELAXING MUSIC"
-  },
-  {
-    "text": "Music Lake - Relaxation, Meditation, Focus, Instrumental Music",
-    "URL": "http://50.7.68.251:7168/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s240485q.png",
-    "category": "RELAXING MUSIC"
-  },
-  {
-    "text": "Ambi Nature Radio (Sleep, Relaxation & Meditation)",
-    "URL": "http://94.23.252.14:8067/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s266086q.png",
-    "category": "RELAXING MUSIC"
-  },
-  {
-    "text": "Живое Радио Релакс",
-    "URL": "http://air.jivoe.in/relax-hi.mp3",
-    "image": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "name": "Chill, Relaxing, Positive",
+    "url": "http://streamingv2.shoutcast.com/Chill-Relaxing-Positive-Work-Study-Relax",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s257854q.png",
     "category": "RELAXING MUSIC"
   },
 
   {
-    "text": "Radio Alquima",
-    "URL": "http://server2.crearradio.com:8641/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s260674q.png",
+    "name": "RH Ambient & Relaxing Music",
+    "url": "http://158.69.253.153:5842/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s165934/logos/logoq.jpg",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "NRG Smooth",
-    "URL": "http://scserv.nrgplay.com/stream/3/",
-    "image": "http://cdn-radiotime-logos.tunein.com/s189700q.png",
+    "name": "Music Lake - Relaxation, Meditation, Focus, Instrumental Music",
+    "url": "http://50.7.68.251:7168/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s240485q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "In the Mood Music",
-    "URL": "http://live.inthemoodmusic.com:8080/",
-    "image": "http://cdn-radiotime-logos.tunein.com/s118874q.png",
+    "name": "Ambi Nature Radio (Sleep, Relaxation & Meditation)",
+    "url": "http://94.23.252.14:8067/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s266086q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Spectrum Chillout",
-    "URL": "http://51.255.235.165:5024/live",
-    "image": "http://cdn-radiotime-logos.tunein.com/s305101/images/logoq.png",
+    "name": "Живое Радио Релакс",
+    "url": "http://air.jivoe.in/relax-hi.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "category": "RELAXING MUSIC"
+  },
+
+  {
+    "name": "Radio Alquima",
+    "url": "http://server2.crearradio.com:8641/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s260674q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "Abacus Birdsong",
-    "URL": "http://178.33.232.106:8030/stream",
-    "image": "http://cdn-radiotime-logos.tunein.com/s271998q.png",
+    "name": "NRG Smooth",
+    "url": "http://scserv.nrgplay.com/stream/3/",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s189700q.png",
     "category": "RELAXING MUSIC"
   },
   {
-    "text": "electro-music Ambience",
-    "URL": "http://electro-music.com:8502/;",
-    "image": "http://cdn-radiotime-logos.tunein.com/s282245q.png",
+    "name": "In the Mood Music",
+    "url": "http://live.inthemoodmusic.com:8080/",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s118874q.png",
+    "category": "RELAXING MUSIC"
+  },
+  {
+    "name": "Spectrum Chillout",
+    "url": "http://51.255.235.165:5024/live",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s305101/logos/logoq.png",
+    "category": "RELAXING MUSIC"
+  },
+  {
+    "name": "Abacus Birdsong",
+    "url": "http://178.33.232.106:8030/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s271998q.png",
+    "category": "RELAXING MUSIC"
+  },
+  {
+    "name": "electro-music Ambience",
+    "url": "http://electro-music.com:8502/;",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s282245q.png",
     "category": "RELAXING MUSIC"
   }
 ]
