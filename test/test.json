@@ -237,7 +237,164 @@
     "category": "MUSIC",
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/chunklist.m3u8",
     "logo": "https://cdn.onlineradiobox.com/img/logo/4/84844.v4.png"
-  }] 
+  }, 
+
+
+
+
+
+
+
+    {
+    "name": "IRIB Radio Maaref",
+    "category": "talk - islamic",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/7/84857.v2.png"
+  }, 
+    {
+    "name": "IRIB Radio Eghtesad",
+    "category": "MUSIC",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/4/84854.v2.png"
+  },  
+    {
+    "name": "IRIB Radio Saba",
+    "category": "MUSIC",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/6/84846.v2.png"
+  },
+
+
+
+
+
+    {
+    "name": "IRIB Radio Goftego",
+    "category": "talk - islamic",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/8/84858.v2.png"
+  }, 
+    {
+    "name": "IRIB Radio Quran",
+    "category": "MUSIC",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/5/84845.v2.png"
+  },  
+    {
+    "name": "IRIB Radio Namayesh",
+    "category": "MUSIC",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/6/84856.v2.png"
+  },
+
+
+
+
+
+
+
+
+    {
+    "name": "IRIB Radio Salamat",
+    "category": "talk - islamic",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/7/84847.v3.png"
+  }, 
+    {
+    "name": "IRIB Radio Ziarat",
+    "category": "MUSIC",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/9/84849.v2.png"
+  },  
+    {
+    "name": "IRIB Radio Varzesh",
+    "category": "MUSIC",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/5/84855.v2.png"
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+    "name": "IRIB Radio Enghelab",
+    "category": "talk - islamic",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/2/84852.v2.png"
+  }, 
+    {
+    "name": "IRIB Radio English",
+    "category": "MUSIC",
+    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/media.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/2/84902.v1.png"
+  },  
+    {
+    "name": "IRIB Radio West Azerbaijan",
+    "category": "MUSIC",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/chunklist.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/9/84909.v1.png"
+  },  
+  
+  
+  
+  
+ 
+
+
+
+
+
+  
+    {
+    "name": "Radio Mojahed",
+    "category": "talk - islamic",
+    "url": "https://s2.radio.co/s830691c74/listen",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/9/74929.v3.png"
+  }, 
+    {
+    "name": "Bia2",
+    "category": "MUSIC",
+    "url": "http://199.58.163.15:8002/;",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/9/73159.v4.png"
+  },  
+    {
+    "name": "Radio AvazFarsi",
+    "category": "MUSIC",
+    "url": "http://avazfarsi.com:9300/;",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/8/31498.v3.png"
+  }, 
+
+
+
+
+
+
+
+
+
+
+    {
+    "name": "AVA Radio",
+    "category": "talk - islamic",
+    "url": "http://cassini.shoutca.st:9043/live",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/5/73155.v4.png"
+  }, 
+    {
+    "name": "Russkoe Radio",
+    "category": "MUSIC",
+    "url": "https://node-33.zeno.fm/43q0ey00phruv",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/4/82354.v7.png"
+  },  
+    {
+    "name": "670AM KIRN",
+    "category": "MUSIC",
+    "url": "https://stream.zeno.fm/0bybax2r3heuv",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/3/7483.v9.pngg"
+  }]
 
 
 
@@ -250,16 +407,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+ 
+  
+  
 
   
   
