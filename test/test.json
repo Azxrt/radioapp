@@ -406,13 +406,7 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://16153.live.streamtheworld.com/SAM07AAC259_SC",
     "logo": "https://bdjradio.com/media/images/logo-voyage-the-schiller-radio.jpg"
-  },    
-  {
-    "name": "BDJ ELECTRONIC LOUNGE RADIO",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen128.radionomy.com/bdjelectroniclounge",
-    "logo": "https://bdjradio.com/media/images/electronic-lounge-radio-logo.jpg"
-  },   
+  },       
    {
     "name": "BDJ PURE 80s RADIO",
     "category": "EURODANCE - MUSIC",
@@ -430,17 +424,5 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen128.radionomy.com/bdjmaximix",
     "logo": "https://bdjradio.com/media/images/logo-bdj-maxi-mix.jpg"
-  },   
-     {
-    "name": "BDJ MASH UP RADIO",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://streamingv2.shoutcast.com/BDJMashUp",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-mashup.jpg"
-  },  
-     {
-    "name": "BDJ CHRISTMAS CHANNEL",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen64.radionomy.com/bdjchristmaschannel",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-christmas-channel.jpg"
-  }   
+  }
 ]
