@@ -150,24 +150,6 @@
     "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
   },
   {
-    "name": "Radio Sun Gold Hits",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://live.radiosun.ro/sungold",
-    "logo": "https://cdn-profiles.tunein.com/s237042/images/logoq.jpg"
-  },
-  {
-    "name": "Baden 1",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/eurodance",
-    "logo": "https://static.radio.net/images/broadcasts/28/92/106996/1/c175.png"
-  },
-  {
-    "name": "THE 90S",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen.radionomy.com/the90s",
-    "logo": "https://cdn-profiles.tunein.com/s179574/images/logoq.png"
-  },
-  {
     "name": "Superdisco of the 90ies",
     "category": "EURODANCE - MUSIC",
     "url": "http://online.radiorecord.ru:8102/sd90_aac",
@@ -204,28 +186,10 @@
     "logo": "http://eurodance90.fr/img/logos/logo.png"
   },
   {
-    "name": "Energy 93 - Euro EDM (181.Fm)",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://relay.181.fm:8044/",
-    "logo": "https://static.radio.net/images/broadcasts/07/d6/105208/1/c300.png"
-  },
-  {
-    "name": "Sunset Radio : EuroDance",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://s.sunset-radio.com:14020/",
-    "logo": "https://static.radio.net/images/broadcasts/7d/a1/18814/c175.png"
-  },
-  {
     "name": "Eurodance",
     "category": "EURODANCE - MUSIC",
     "url": "https://eurodance.stream.laut.fm/eurodance",
     "logo": "https://static.radio.net/images/broadcasts/90/f4/5944/1/c175.png"
-  },
-  {
-    "name": "BDJ EURODANCE 90S",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
-    "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png"
   },
   {
     "name": "2ks dance radio - eurodance and italodance",
@@ -264,42 +228,6 @@
     "logo": "https://dl.dropboxusercontent.com/s/8sxymnmbv077j50/balerman.png"
   },
   {
-    "name": "auf Foxwahn Radio",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://144.76.84.153:22042/;",
-    "logo": "https://dl.dropbox.com/s/876f405h8ww81y4/RETRO90.png"
-  },
-  {
-    "name": "Sunset Radio : Hands Up",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://s.sunset-radio.com:14200/",
-    "logo": "https://dl.dropbox.com/s/1yet61s84rqpby6/Sunset%20Radio.png"
-  },
-  {
-    "name": "Sunset Radio : Discofox",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://s.sunset-radio.com:14120/",
-    "logo": "https://static.radio.net/images/broadcasts/7c/e4/18815/c175.png"
-  },
-  {
-    "name": "foxbox",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/foxbox",
-    "logo": "https://static.radio.net/images/broadcasts/70/50/15543/1/c175.png"
-  },
-  {
-    "name": "Radio Record",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://air.radiorecord.ru:8102/dc_320",
-    "logo": "https://dl.dropboxusercontent.com/s/4vfo9mh7cv2240h/Auto%20DJ.png"
-  },
-  {
-    "name": "Technopop",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://air.radiorecord.ru:805/technopop_320",
-    "logo": "https://dl.dropboxusercontent.com/s/ulax27hrf2vhw11/Beirut%20Nights.png"
-  },
-  {
     "name": "Dance Wave Retro!",
     "category": "EURODANCE - MUSIC",
     "url": "http://stream2.dancewave.online:8080/retrodance.mp3",
@@ -310,12 +238,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://air.radiorecord.ru:805/eurodance_320",
     "logo": "https://dl.dropboxusercontent.com/s/so6liazsidffzlz/Radio%20Europa%20Live.png"
-  },
-  {
-    "name": "RADIO EUROMIX EL",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://78.129.163.129:23534/",
-    "logo": "https://dl.dropboxusercontent.com/s/7xfu8h2ratqlsym/Radio109.png"
   },
   {
     "name": "1.FM - Absolute 90s",
@@ -330,12 +252,6 @@
     "logo": "https://dl.dropbox.com/s/f0bn6gn09wb6c9s/Loca%20FM%20Remember.png"
   },
   {
-    "name": "Radio Crisami Romania",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen.radionomy.com/Eurodance-90",
-    "logo": "https://dl.dropboxusercontent.com/s/7cnz9vx2dp9tcom/radiocrisime.png"
-  },
-  {
     "name": "Puls'Dance",
     "category": "EURODANCE - MUSIC",
     "url": "http://87.98.153.24/pulsHD.mp3",
@@ -346,12 +262,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://87.98.129.202/puls00HD.mp3",
     "logo": "https://dl.dropbox.com/s/h56c8nieu73liyp/Puls%272000.png"
-  },
-  {
-    "name": "ARADIO90S JUICE",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?ad=radiono5",
-    "logo": "https://dl.dropboxusercontent.com/s/7vdugh8rvoxx5a3/A%20.RADIO%2090S%20JUICE.png"
   },
   {
     "name": "ABCD Eurodance",
@@ -432,12 +342,6 @@
     "logo": "https://dl.dropboxusercontent.com/s/nre53duy4oq1vlo/Eurodance%20Worldwide.png"
   },
   {
-    "name": "RADIOTX",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://janus.shoutca.st:8675/stream",
-    "logo": "https://dl.dropboxusercontent.com/s/t8pp0duzpzwg71g/AvaFM%20Remix.png"
-  },
-  {
     "name": "Dance FM Supermix",
     "category": "EURODANCE - MUSIC",
     "url": "http://5.135.183.124:8130/stream",
@@ -454,24 +358,6 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen.radionomy.com/-superdance-",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png"
-  },
-  {
-    "name": "Fantasy Dance Beatz",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/fantasydancebeatz",
-    "logo": "https://assets.laut.fm/c9c2c4c9af78ad055ec938bc370f9f66?t=_640x640"
-  },
-  {
-    "name": "laserbeat-fm",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://stream.laut.fm/laserbeat-fm",
-    "logo": "https://static.radio.net/images/broadcasts/2b/a6/5339/1/c175.png"
-  },
-  {
-    "name": "NRJ DANCE 90",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://185.52.127.131/fr/31099/mp3_128.mp3",
-    "logo": "https://static.radio.net/images/broadcasts/43/25/39989/4/c175.png"
   },
   {
     "name": "90 dance radio",
