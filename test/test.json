@@ -394,19 +394,7 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen128.radionomy.com/bdjeurodance90s",
     "logo": "https://bdjradio.com/media/images/logo-bdj-eurodance-90s.jpg"
-  },
-  {
-    "name": "BDJ BERLIN DIGITAL JACK",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://streamingv2.shoutcast.com/BDJBerlinDigitalJack",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-berlin-digital-jack-01.jpg"
-  },  
-  {
-    "name": "VOYAGE - THE SCHILLER RADIO",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://16153.live.streamtheworld.com/SAM07AAC259_SC",
-    "logo": "https://bdjradio.com/media/images/logo-voyage-the-schiller-radio.jpg"
-  },       
+  },     
    {
     "name": "BDJ PURE 80s RADIO",
     "category": "EURODANCE - MUSIC",
@@ -418,11 +406,5 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen128.radionomy.com/bdjitalodisco",
     "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
-  },   
-    {
-    "name": "BDJ MAXI MIX",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen128.radionomy.com/bdjmaximix",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-maxi-mix.jpg"
   }
 ]
