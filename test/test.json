@@ -96,12 +96,6 @@
     "logo": "https://dl.dropbox.com/s/ggv70845eozjta1/Puls%2790s.png"
   },
   {
-    "name": "Eurodance90",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://listen1.myradio24.com/5967?d=",
-    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
-  },
-  {
     "name": "handsup",
     "category": "EURODANCE - MUSIC",
     "url": "http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-mq",
@@ -185,6 +179,12 @@
     "url": "https://listen.openstream.co/3178/audio",
     "logo": "http://eurodance90.fr/img/logos/logo.png"
   },
+  {
+    "name": "Eurodance90",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://listen1.myradio24.com/5967?d=",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },  
   {
     "name": "2ks dance radio - eurodance and italodance",
     "category": "EURODANCE - MUSIC",
@@ -348,6 +348,36 @@
     "logo": "https://bdjradio.com/media/images/logo-bdj-eurodance-90s.jpg"
   },
   {
+    "name": "Eurodance 90 - Dance Anos 90",
+    "category": "EURODANCE - ",
+    "url": "http://node-30.zeno.fm/g1u270e2ybruv",
+    "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png"
+  }, 
+  {
+    "name": "90s90s POP",
+    "category": "EURODANCE - ",
+    "url": "http://streams.90s90s.de/pop/mp3-128/radiode/",
+    "logo": "https://static.radio.net/images/broadcasts/a3/43/41908/1/c175.png"
+  },      
+   {
+    "name": "Radio 105 - Dance 90",
+    "category": "EURODANCE - ",
+    "url": "https://icy.unitedradio.it/105Dance90.mp3",
+    "logo": "https://static.radio.net/images/broadcasts/64/b3/37460/1/c175.png"
+  },   
+      {
+    "name": "die90er",
+    "category": "EURODANCE - ",
+    "url": "https://die90er.stream.laut.fm/die90er",
+    "logo": "https://static.radio.net/images/broadcasts/94/a7/32477/1/c175.png"
+  },
+       {
+    "name": "104.6 RTL 90er",
+    "category": "EURODANCE - ",
+    "url": "https://stream.104.6rtl.com/rtl-90er",
+    "logo": "https://static.radio.net/images/broadcasts/ed/45/40575/6/c175.png"
+  },   
+  {
     "name": "RMI - Beach Club",
     "category": "EURODANCE - MUSIC",
     "url": "http://188.165.195.176:8046/",
@@ -408,12 +438,6 @@
     "logo": "https://static.radio.net/images/broadcasts/90/f4/5944/1/c175.png"
   },
   {
-    "name": "BDJ PURE 80s RADIO",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen128.radionomy.com/bdjpure80s",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-pure-81s.jpg"
-  },
-  {
     "name": "BDJ ITALO DISCO RADIO",
     "category": "EURODANCE - MUSIC",
     "url": "http://listen128.radionomy.com/bdjitalodisco",
@@ -431,36 +455,6 @@
     "url": "http://s2.slotex.pl:10064/;",
     "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
   },
-  {
-    "name": "Eurodance 90 - Dance Anos 90",
-    "category": "EURODANCE - ",
-    "url": "http://node-30.zeno.fm/g1u270e2ybruv",
-    "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png"
-  },
-  {
-    "name": "M1 FM - 90er",
-    "category": "EURODANCE - ",
-    "url": "http://tuner.m1.fm/90er.mp3",
-    "logo": "https://static.radio.net/images/broadcasts/4a/44/40894/1/c175.png"
-  },  
-  {
-    "name": "90s90s POP",
-    "category": "EURODANCE - ",
-    "url": "http://streams.90s90s.de/pop/mp3-128/radiode/",
-    "logo": "https://static.radio.net/images/broadcasts/a3/43/41908/1/c175.png"
-  },    
-  {
-    "name": "Voltage 90",
-    "category": "EURODANCE - ",
-    "url": "https://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3",
-    "logo": "https://static.radio.net/images/broadcasts/ff/ba/38883/4/c175.png"
-  },   
-   {
-    "name": "Radio 105 - Dance 90",
-    "category": "EURODANCE - ",
-    "url": "https://icy.unitedradio.it/105Dance90.mp3",
-    "logo": "https://static.radio.net/images/broadcasts/64/b3/37460/1/c175.png"
-  },  
     {
     "name": "Fantasy Italo Radio",
     "category": "EURODANCE - ",
@@ -472,29 +466,5 @@
     "category": "EURODANCE - ",
     "url": "https://stream.open.fm/27",
     "logo": "https://static.radio.net/images/broadcasts/f9/d8/16091/1/c175.png"
-  },   
-     {
-    "name": "club93",
-    "category": "EURODANCE - ",
-    "url": "https://club93.stream.laut.fm/club93",
-    "logo": "https://static.radio.net/images/broadcasts/d2/a4/5565/1/c175.png"
-  },  
-     {
-    "name": "best_of_90s",
-    "category": "EURODANCE - ",
-    "url": "https://bestof90s.stream.laut.fm/best_of_90s",
-    "logo": "https://static.radio.net/images/broadcasts/36/61/29162/1/c175.png"
-  },
-      {
-    "name": "die90er",
-    "category": "EURODANCE - ",
-    "url": "https://die90er.stream.laut.fm/die90er",
-    "logo": "https://static.radio.net/images/broadcasts/94/a7/32477/1/c175.png"
-  },
-       {
-    "name": "104.6 RTL 90er",
-    "category": "EURODANCE - ",
-    "url": "https://stream.104.6rtl.com/rtl-90er",
-    "logo": "https://static.radio.net/images/broadcasts/ed/45/40575/6/c175.png"
-  }  
+  }
 ]
