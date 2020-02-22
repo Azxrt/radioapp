@@ -12,15 +12,9 @@
     "category": "SPORTS"
   },
   {
-    "name": "Radio Hereford FC (UK)",
-    "url": "https://stream.radio.co/s025ead1b9/listen",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s247000q.png",
-    "category": "SPORTS"
-  },
-  {
     "name": "Radio Radio (Lazio, Italy)",
     "url": "http://mp3.radioradio.it:8102/;",
-    "logo": "http://cdn-profiles.tunein.com/s2488/logos/logoq.png?t=1",
+    "logo": "https://cdn.raddio.net/storage/photos/785/b7wv5c2544abd6662599721764.png",
     "category": "SPORTS"
   },
   {
@@ -37,13 +31,13 @@
   },
   {
     "name": "Radio Sportiva (Tuscany, Italy)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s95059",
+    "url": "http://46.105.114.57:8000/stream",
     "logo": "http://cdn-radiotime-logos.tunein.com/s95059q.png",
     "category": "SPORTS"
   },
   {
     "name": "Rete Sport (Lazio, Italy)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s94166",
+    "url": "https://retesport.newradio.it/1",
     "logo": "http://cdn-radiotime-logos.tunein.com/s94166q.png",
     "category": "SPORTS"
   },
