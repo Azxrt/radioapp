@@ -8,13 +8,13 @@
   {
     "name": "Relax Electronic",
     "url": "http://82.146.35.241:8000/relax64",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s279083/logos/logoq.jpg?t=155351",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s279083q.png",
     "category": "RELAXING MUSIC"
   },
   {
     "name": "Relax Zone",
     "url": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s302892/logos/logoq.jpg?t=151550",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s302892q.png",
     "category": "RELAXING MUSIC"
   },
   {
@@ -154,7 +154,7 @@
   {
     "name": "Relaxing Radio 365",
     "url": "http://s10.voscast.com:9574/;",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s305342/logos/logoq.jpg?t=1",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s305342q.png",
     "category": "RELAXING MUSIC"
   },
 
