@@ -185,12 +185,7 @@
     "url": "https://listen.openstream.co/3178/audio",
     "logo": "http://eurodance90.fr/img/logos/logo.png"
   },
-  {
-    "name": "Eurodance",
-    "category": "EURODANCE - MUSIC",
-    "url": "https://eurodance.stream.laut.fm/eurodance",
-    "logo": "https://static.radio.net/images/broadcasts/90/f4/5944/1/c175.png"
-  },
+
   {
     "name": "2ks dance radio - eurodance and italodance",
     "category": "EURODANCE - MUSIC",
@@ -275,53 +270,12 @@
     "url": "http://air.radiorecord.ru:8102/rave_320",
     "logo": "https://dl.dropboxusercontent.com/s/tbfb0skxo0yxr2d/Radio%20BalloBello.png"
   },
-  {
-    "name": "RMI - Italo Disco Greatest Hits",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8046/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s178246q.png"
-  },
-  {
-    "name": "RMI - Euro Disco",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8034/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s166416q.png"
-  },
-  {
-    "name": "RMI - Italo Disco New Generation",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8010/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s166410q.png"
-  },
-  {
-    "name": "RMI - Italo Euro Disco In The Mix",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8016/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s166413q.png"
-  },
-  {
-    "name": "Italo Dance FM",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://hubble.shoutca.st:8120/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s192667q.png"
-  },
-  {
-    "name": "Italo Dance",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://s2.slotex.pl:10064/;",
-    "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
-  },
+
   {
     "name": "Classic Dance Hitz",
     "category": "EURODANCE - MUSIC",
     "url": "http://streams.radio.co/s7a933605c/listen",
     "logo": "http://static.radio.net/images/broadcasts/e2/2c/106614/2/c175.png"
-  },
-  {
-    "name": "Radio Dancefloor",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://185.92.223.206:443/live-hq",
-    "logo": "https://dl.dropboxusercontent.com/s/j99wvkj4rax7irm/RadioDielli.png"
   },
   {
     "name": "Radio Retro Brazil",
@@ -395,36 +349,19 @@
     "url": "http://listen128.radionomy.com/bdjeurodance90s",
     "logo": "https://bdjradio.com/media/images/logo-bdj-eurodance-90s.jpg"
   },     
-   {
-    "name": "BDJ PURE 80s RADIO",
+
+     {
+    "name": "RMI - Beach Club",
     "category": "EURODANCE - MUSIC",
-    "url": "http://listen128.radionomy.com/bdjpure80s",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-pure-81s.jpg"
+    "url": "http://188.165.195.176:8046/",
+    "logo": "https://static.radio.net/images/broadcasts/e5/61/33874/c175.png"
   },  
-    {
-    "name": "BDJ ITALO DISCO RADIO",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://listen128.radionomy.com/bdjitalodisco",
-    "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
-  },
-  {
-    "name": "RMI - Italo Disco Classic",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8004/;",
-    "logo": "https://static.radio.net/images/broadcasts/08/7e/33871/c300.png"
-  },
   {
     "name": "RMI - Italo Disco New Generation",
     "category": "EURODANCE - MUSIC",
     "url": "http://188.165.195.176:8010/",
     "logo": "https://static.radio.net/images/broadcasts/28/0b/33872/c175.png"
-  },  
-  {
-    "name": "RMI - In The Mix",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8016/",
-    "logo": "https://static.radio.net/images/broadcasts/8f/d2/33873/c175.png"
-  },    
+  },
   {
     "name": "RMI - Instrumental Version",
     "category": "EURODANCE - MUSIC",
@@ -436,7 +373,24 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://188.165.195.176:8028/",
     "logo": "https://static.radio.net/images/broadcasts/dd/a7/33875/c175.png"
-  },  
+  }, 
+
+
+  
+  {
+    "name": "RMI - Italo Disco Classic",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8004/;",
+    "logo": "https://static.radio.net/images/broadcasts/08/7e/33871/c300.png"
+  },
+  
+  {
+    "name": "RMI - In The Mix",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8016/",
+    "logo": "https://static.radio.net/images/broadcasts/8f/d2/33873/c175.png"
+  },    
+ 
     {
     "name": "RMI - Euro Disco",
     "category": "EURODANCE - MUSIC",
@@ -449,16 +403,42 @@
     "url": "http://188.165.195.176:8040/",
     "logo": "https://static.radio.net/images/broadcasts/3d/e7/33876/c175.png"
   },   
-     {
-    "name": "RMI - Beach Club",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://188.165.195.176:8046/",
-    "logo": "https://static.radio.net/images/broadcasts/e5/61/33874/c175.png"
-  },  
+  
      {
     "name": "RMI - Disco Fox Maxi",
     "category": "EURODANCE - MUSIC",
     "url": "http://188.165.195.176:8087/",
     "logo": "https://static.radio.net/images/broadcasts/74/6b/33878/c175.png"
-  }   
+  },
+  {
+    "name": "Eurodance",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://eurodance.stream.laut.fm/eurodance",
+    "logo": "https://static.radio.net/images/broadcasts/90/f4/5944/1/c175.png"
+  },  
+    {
+    "name": "BDJ PURE 80s RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjpure80s",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-pure-81s.jpg"
+  },  
+    {
+    "name": "BDJ ITALO DISCO RADIO",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://listen128.radionomy.com/bdjitalodisco",
+    "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
+  }, 
+  {
+    "name": "Italo Dance FM",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://hubble.shoutca.st:8120/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s192667q.png"
+  },
+  {
+    "name": "Italo Dance",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://s2.slotex.pl:10064/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
+  },  
+  
 ]
