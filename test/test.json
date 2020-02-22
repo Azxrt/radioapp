@@ -1,415 +1,405 @@
-[  {
-    "name": "SPUTNIK Persian",
-    "category": "NEWS",
-    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voiceeng",
-    "logo": "https://www.sedaye-iran.com/images/emblems/sputnik_persian.png"
+[
+  {
+    "name": "Iranian Radio / Dance Party",
+    "logo": "http://api.radiosworld.info/files/radio/logo/0dc3bb2101e2204a93b6e504783c22a15e8e47a6.jpg",
+    "category": "",
+    "url": "http://streaming.radionomy.com/JamendoLounge?lang=fr%2Cfr-FR%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3"
   },
   {
-    "name": "RADIO IRAN - رادیو ایران",
-    "category": "NEWS",
-    "url": "http://cdn1.live.irib.ir:1935/channel-live/smil:r-iran/playlist.m3u8",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_iran.png"
+    "name": "Iranian Radio / Persian Pop",
+    "logo": "http://api.radiosworld.info/files/radio/logo/44a3d4687316335f03574bc358349ac4e9f3e0c0.jpg",
+    "category": "",
+    "url": "http://streaming.radionomy.com/JamendoLounge"
   },
   {
-    "name": "TIN LIVE RADIO",
-    "category": "NEWS",
-    "url": "http://172.127.58.219:2900/;",
-    "logo": "https://www.sedaye-iran.com/images/emblems/tin_live_radio.png"
-  },
-  
-  {
-    "name": "RFI FARSI",
-    "category": "NEWS",
-    "url": "http://live02.rfi.fr/rfienpersan-64k.mp3",
-    "logo": "https://www.sedaye-iran.com/images/emblems/rfi_farsi.png"
-  },
-  {
-    "name": "RADIO EGHTESAD IRIB - اقتصاد",
-    "category": "NEWS",
-    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-eghtesad/playlist.m3u8",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_tejarat.jpg"
-  },
-  {
-    "name": "KIRN 670AM RADIO IRAN",
-    "category": "NEWS",
-    "url": "http://ice41.securenetsystems.net/KIRN",
-    "logo": "https://www.sedaye-iran.com/images/emblems/670_am_kirn_radio_iran.png"
-  },  
-  
-  
-  {
-    "name": "RADIO ISRAEL",
-    "category": "NEWS",
-    "url": "http://radis.org/audio/20200222.mp3",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_israel.jpg"
-  },
-  {
-    "name": "BBC FARSI RADIO",
-    "category": "NEWS",
-    "url": "http://sc10.iad.llnw.net/stream/bbcwssc_mp1_ws-farsa",
-    "logo": "https://www.sedaye-iran.com/images/emblems/bbc_farsi.jpg"
-  },
-  {
-    "name": "RADIO SEDAYE MARDOM",
-    "category": "NEWS",
-    "url": "http://media2.radiosedayemardom.com:8000/;",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_sedaye_mardom.png"
-  },   
-  
-  
-   {
-    "name": "VOA FARSI",
-    "category": "NEWS",
-    "url": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.m3u",
-    "logo": "https://www.sedaye-iran.com/images/emblems/voa_farsi_radio.jpg"
-  },
-  {
-    "name": "RADIO HAMRAH",
-    "category": "NEWS",
-    "url": "http://stream.radiohamrah.com/RadioHamrahMP3",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_hamrah.jpg"
-  },
-  {
-    "name": "RADIO TEHRAN IRIB - رادیو تهران",
-    "category": "NEWS",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-tehran/media.m3u8",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_tehran.jpg"
-  },  
-  
-  
-  
-  
-  
-   {
-    "name": "RADIO PAYAM IRIB - رادیو پیام",
-    "category": "NEWS",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_payam_irib.jpg"
-  },
-  {
-    "name": "RADIO FARDA",
-    "category": "NEWS",
-    "url": "https://stream.radiojar.com/cp13r2cpn3quv",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_farda.jpg"
-  },
-  {
-    "name": "MIHAN TV",
-    "category": "NEWS",
-    "url": "http://radio.mihantv.com:9900/stream/1/",
-    "logo": "https://www.sedaye-iran.com/images/emblems/mihantv.jpg"
-  },  
-  
-  
-  
-  
-   {
-    "name": "IRAN INTERNATIONAL",
-    "category": "NEWS",
-    "url": "https://radio.iraninternational.app/iintl_c",
-    "logo": "https://www.sedaye-iran.com/images/emblems/iran_international_radio.jpg"
-  },
-  {
-    "name": "RADIO ITN",
-    "category": "NEWS",
-    "url": "http://23.29.71.154:8142/stream",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_itn.jpg"
-  },
-  
-  
-  
-  
-   {
-    "name": "RADIO NAMAASHOUM",
-    "category": "MUSIC",
-    "url": "http://livestream.ckcufm.com/ckcu.mp3",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_namaashoum.jpg"
-  },
-    {
-    "name": "IRIB Radio Iran",
-    "category": "talk - islamic",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-iran/media.m3u8",
-    "logo": "https://www.sedaye-iran.com/images/emblems/radio_tehran.jpg"
-  }, 
-    {
-    "name": "Ванда FM - Iran Music",
-    "category": "MUSIC",
-    "url": "https://stream.zenolive.com/4q7cn3nt1ceuv",
-    "logo": "https://cdn-profiles.tunein.com/s291512/images/logog.png"
-  },  
-    {
-    "name": "Radio Iran On Air",
-    "category": "MUSIC",
-    "url": "http://iranonairone.mine.nu:9300/;",
-    "logo": "https://static-media.streema.com/media/cache/a8/13/a813c1b8cf8597828428b5c99ac812d9.jpg"
-  },   
-  
-  
-  
-  
-  
-  
-  
-  
-    {
-    "name": "Persian Rap Radio",
-    "category": "talk - islamic",
-    "url": "https://stream.zeno.fm/edu18fr0xqzuv",
-    "logo": "https://static.radio.net/images/broadcasts/a6/ce/111406/1/c300.png"
-  }, 
-    {
-    "name": "Radio Eram",
-    "category": "MUSIC",
-    "url": "http://37.59.47.192:8200/;",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/4/31574.v1.png"
-  },  
-    {
-    "name": "Radio Navahang",
-    "category": "MUSIC",
-    "url": "http://173.236.47.154:9000/stream",
-    "logo": "https://www.navahang.com/assets/img/navahang-logo-n.png"
-  },  
-  
-  
-  
-  
-  
-    {
-    "name": "Nava7",
-    "category": "talk - islamic",
-    "url": "http://5.39.71.159:8578/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s248338g.png"
-  }, 
-    {
     "name": "Radio Darvish",
-    "category": "MUSIC",
-    "url": "http://109.169.23.22/stream.mp3?ipport=109.169.23.22_37782",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s51117g.png"
-  },  
-    {
-    "name": "Ahlulbayt TV",
-    "category": "MUSIC",
-    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s104671q.png"
-  },  
-  
-  
-  
-  
-  
-    {
-    "name": "ParsToday Radio Dari",
-    "category": "talk - islamic",
-    "url": "http://stream.parstoday.com:1935/ws/irib7/media.m3u8",
-    "logo": "https://static-media.streema.com/media/cache/5b/cd/5bcd22a5a6e65319adb09f4b7b1ccd54.jpg"
-  }, 
-    {
-    "name": "IRIB Radio Ava",
-    "category": "MUSIC",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/media.m3u8",
-    "logo": "https://static-media.streema.com/media/cache/d5/44/d544540087ccb0d5126c351deca07f03.jpg"
-  },  
-    {
-    "name": "IRIB Radio Javan",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/3/84843.v2.png"
-  },  
-  
-  
-  
-  
-  
-  
-    {
-    "name": "IRIB Radio Talavat",
-    "category": "talk - islamic",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/0/84900.v2.png"
-  }, 
-    {
-    "name": "IRIB Radio Farhang",
-    "category": "MUSIC",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/2/31562.v3.png"
-  },  
-    {
-    "name": "IRIB Radio Tehran",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/chunklist.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/4/84844.v4.png"
-  }, 
-
-
-
-
-
-
-
-    {
-    "name": "IRIB Radio Maaref",
-    "category": "talk - islamic",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/7/84857.v2.png"
-  }, 
-    {
-    "name": "IRIB Radio Eghtesad",
-    "category": "MUSIC",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/4/84854.v2.png"
-  },  
-    {
-    "name": "IRIB Radio Saba",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/6/84846.v2.png"
+    "logo": "http://api.radiosworld.info/files/radio/logo/0a1d4d5d3d1f10ee02b8065a539aa397c7146d49.jpg",
+    "category": "",
+    "url": "http://109.169.23.22:37782/"
   },
-
-
-
-
-
-    {
-    "name": "IRIB Radio Goftego",
-    "category": "talk - islamic",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/8/84858.v2.png"
-  }, 
-    {
-    "name": "IRIB Radio Quran",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/5/84845.v2.png"
-  },  
-    {
-    "name": "IRIB Radio Namayesh",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/6/84856.v2.png"
+  {
+    "name": "Radio Nawa / Arabic",
+    "logo": "http://api.radiosworld.info/files/radio/logo/638d2101a28f466f86464b94055380ee99c39249.jpg",
+    "category": "",
+    "url": "http://nawaradio.primcast.com:4098/;"
   },
-
-
-
-
-
-
-
-
-    {
-    "name": "IRIB Radio Salamat",
-    "category": "talk - islamic",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/7/84847.v3.png"
-  }, 
-    {
-    "name": "IRIB Radio Ziarat",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/9/84849.v2.png"
-  },  
-    {
-    "name": "IRIB Radio Varzesh",
-    "category": "MUSIC",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/5/84855.v2.png"
+  {
+    "name": "Radio Sedaye Iran",
+    "logo": "http://api.radiosworld.info/files/radio/logo/64d50609208e7b8712b07e8e2de03b38638e3e18.png",
+    "category": "",
+    "url": "http://lyssna.fnf.nu:8080/gnf102.mp3"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-    {
-    "name": "IRIB Radio Enghelab",
-    "category": "talk - islamic",
-    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/2/84852.v2.png"
-  }, 
-    {
-    "name": "IRIB Radio English",
-    "category": "MUSIC",
-    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/media.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/2/84902.v1.png"
-  },  
-    {
-    "name": "IRIB Radio West Azerbaijan",
-    "category": "MUSIC",
-    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/chunklist.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/9/84909.v1.png"
-  },  
-  
-  
-  
-  
- 
-
-
-
-
-
-  
-    {
-    "name": "Radio Mojahed",
-    "category": "talk - islamic",
-    "url": "https://s2.radio.co/s830691c74/listen",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/9/74929.v3.png"
-  }, 
-    {
+  {
+    "name": "Radio Shemroon",
+    "logo": "http://api.radiosworld.info/files/radio/logo/ce6942f3265b12b21229f7540d50580421fa0850.jpeg",
+    "category": "",
+    "url": "http://usa7.fastcast4u.com:5919/;"
+  },
+  {
+    "name": "Radio 670 KIRN",
+    "logo": "http://api.radiosworld.info/files/radio/logo/69a0482e29ee8c34fe70276a3018fa935c902d72.jpeg",
+    "category": "",
+    "url": "http://ice41.securenetsystems.net/KIRN"
+  },
+  {
+    "name": " Radio Farda",
+    "logo": "http://api.radiosworld.info/files/radio/logo/bc8b0b8bcd7eca0283144db349868c00b2c3f67a.png",
+    "category": "",
+    "url": "http://rfe-channel-21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
+  },
+  {
     "name": "Bia2",
-    "category": "MUSIC",
-    "url": "http://199.58.163.15:8002/;",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/9/73159.v4.png"
-  },  
-    {
-    "name": "Radio AvazFarsi",
-    "category": "MUSIC",
-    "url": "http://avazfarsi.com:9300/;",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/8/31498.v3.png"
-  }, 
-
-
-
-
-
-
-
-
-
-
-    {
+    "logo": "http://api.radiosworld.info/files/radio/logo/b9b7772faa29b93ae3d19965c5844d6852cf892f.png",
+    "category": "",
+    "url": "http://199.58.163.15:8002/;"
+  },
+  {
+    "name": "Radio Hamrah",
+    "logo": "http://api.radiosworld.info/files/radio/logo/838b43c76f702b937b77ee1acc850c1ab9aa536e.jpeg",
+    "category": "",
+    "url": "http://stream.radiohamrah.com/RadioHamrahMP3"
+  },
+  {
     "name": "AVA Radio",
-    "category": "talk - islamic",
-    "url": "http://cassini.shoutca.st:9043/live",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/5/73155.v4.png"
-  }, 
-    {
-    "name": "Russkoe Radio",
-    "category": "MUSIC",
-    "url": "https://node-33.zeno.fm/43q0ey00phruv",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/4/82354.v7.png"
-  },  
-    {
-    "name": "670AM KIRN",
-    "category": "MUSIC",
-    "url": "https://stream.zeno.fm/0bybax2r3heuv",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/3/7483.v9.pngg"
-  }]
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  
-  
-
-  
-  
+    "logo": "http://api.radiosworld.info/files/radio/logo/1241a33e2075b2779c2240f15deba7d7446beabc.png",
+    "category": "",
+    "url": "http://cassini.shoutca.st:9043/live"
+  },
+  {
+    "name": "Radio Eram",
+    "logo": "http://api.radiosworld.info/files/radio/logo/21880853244ffecbb27fbd1f5c5555ec561cdc68.png",
+    "category": "",
+    "url": "http://37.59.47.192:8200/;"
+  },
+  {
+    "name": "Nava7",
+    "logo": "http://api.radiosworld.info/files/radio/logo/1855179def6a9c102b011194fbf9593b715036a4.png",
+    "category": "",
+    "url": "http://5.39.71.159:8578/stream"
+  },
+  {
+    "name": "RadioAli",
+    "logo": "http://api.radiosworld.info/files/radio/logo/8b6ab916d7460e2724e5aefdc57b094a4a26d37e.png",
+    "category": "",
+    "url": "http://avazfarsi.com:9300/;"
+  },
+  {
+    "name": "Radio Mojahed ",
+    "logo": "http://api.radiosworld.info/files/radio/logo/f749a11e4a897b31e7b3bae7241e25f547d5bf58.png",
+    "category": "",
+    "url": "https://s2.radio.co/s830691c74/listen"
+  },
+  {
+    "name": "Hamsafar Radio",
+    "logo": "https://static.wixstatic.com/media/a72f3a_f89da3ce51564d5b9af8aa4c221b231b~mv2.png?dn=r24552.png",
+    "category": "",
+    "url": "http://ice2.securenetsystems.net:80/HUMSAFAR?type=.flv?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Radio Hamseda",
+    "logo": "https://static.wixstatic.com/media/a72f3a_19b7d416e8e64aa5ab6ae63e3bb870ef~mv2.png?dn=r24564.png",
+    "category": "",
+    "url": "http://listen.radionomy.com/rtstereo?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Radio Jadeed",
+    "logo": "https://static.wixstatic.com/media/a72f3a_2b7e64760ab04baa9a928953d3511600~mv2.png?dn=r24568.png",
+    "category": "",
+    "url": "http://50.7.70.66:8705/;stream.mp3"
+  },
+  {
+    "name": "VOA News",
+    "logo": "https://static.wixstatic.com/media/a72f3a_11cb6e02b6cd428991939f91f0d33ed0~mv2.png?dn=r24576.png",
+    "category": "",
+    "url": "http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28"
+  },
+  {
+    "name": " Radio Farda",
+    "logo": "http://api.radiosworld.info/files/radio/logo/bc8b0b8bcd7eca0283144db349868c00b2c3f67a.png",
+    "category": "",
+    "url": "https://stream.radiojar.com/cp13r2cpn3quv"
+  },
+  {
+    "name": "Radio Navahang",
+    "logo": "null",
+    "category": "",
+    "url": "http://173.236.47.154:9000/stream"
+  },
+  {
+    "name": "Radio Donya",
+    "logo": "",
+    "category": "",
+    "url": "http://naxos.cdnstream.com/1305_128"
+  },
+  {
+    "name": "BBC Persian Dari | London | International|Middle Eastern",
+    "logo": "",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-daria"
+  },
+  {
+    "name": "BBC Persian Farsi | London | International|Middle Eastern",
+    "logo": "",
+    "url": "http://sc18.ord.llnw.net/stream/bbcwssc_mp1_ws-farsa"
+  },
+  {
+    "name": "Hamrahna Light | Internet Only | Instrumental",
+    "logo": "",
+    "url": "http://31.12.68.212/HamrahnaLight"
+  },
+  {
+    "name": "Hamsafar radio | Internet Only | News",
+    "logo": "",
+    "url": "https://streamingv2.shoutcast.com/Hamsafarradio"
+  },
+  {
+    "name": "Madar Radio Persian Farsi Iranian Programming | Internet Only | Talk",
+    "logo": "",
+    "url": "http://146.185.144.219:9000"
+  },
+  {
+    "name": "Radio 70s Arabic (GLWiZ) | Internet Only | 70s",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/KMsarabic.mp3"
+  },
+  {
+    "name": "Radio 70s Persian (GLWiZ) Persian Farsi Iranian | Internet Only | 70s",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/KMspersian.mp3"
+  },
+  {
+    "name": "Radio Asheghaneh (GLWiZ) Persian Farsi Iranian | Internet Only | Variety",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/asheghaneh.mp3"
+  },
+  {
+    "name": "Radio Ayeneh 97",
+    "logo": "",
+    "url": "http://83.250.60.214:80/streampath1.mp3"
+  },
+  {
+    "name": "Radio Eram | Internet Only | Electronica|Dance|Pop",
+    "logo": "",
+    "url": "http://37.59.47.192:8200/listning.mp3"
+  },
+  {
+    "name": "Radio Farda | Tehran | Folklore|Pop|Talk",
+    "logo": "",
+    "url": "http://stream.radiojar.com/cp13r2cpn3quv"
+  },
+  {
+    "name": "Radio Hamrah (GLWiZ) Persian Farsi Iranian | Internet Only | Educational",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/hamrahradio.mp3"
+  },
+  {
+    "name": "Radio Javan (GLWiZ) Persian Farsi Iranian | Internet Only | Alternative",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/radiojavan.mp3"
+  },
+  {
+    "name": "Radio Light Music (GLWiZ) Persian Farsi Iranian | Internet Only | Lounge",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/lightmusic.mp3"
+  },
+  {
+    "name": "Radio Mahoor Kids (GLWiZ) Persian Farsi Iranian | Internet Only | Variety",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/kids.mp3"
+  },
+  {
+    "name": "Radio Mahoor Shaer | Internet Only | Oldies|Variety",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/shaer.mp3"
+  },
+  {
+    "name": "Radio Mahoor Traditional | Internet Only | Alternative Folk",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/mahoor.mp3"
+  },
+  {
+    "name": "Radio Mojahed | Internet Only | News|Politics|Information",
+    "logo": "",
+    "url": "http://s2.radio.co/s830691c74/listen"
+  },
+  {
+    "name": "Radio Mojdeh | Internet Only | Religious",
+    "logo": "",
+    "url": "http://ic2317.c1261.fast-serv.com:80/rm64"
+  },
+  {
+    "name": "Radio Mojdeh Iranian Farsi Persian Christian music and talk | Internet Only | International",
+    "logo": "",
+    "url": "http://72.13.82.82:9566"
+  },
+  {
+    "name": "Radio Nikan Iranian",
+    "logo": "",
+    "url": "http://198.27.66.225:9092/stream"
+  },
+  {
+    "name": "Radio PASJA Muzyka Relaksacyjna | Internet Only | Variety",
+    "logo": "",
+    "url": "http://91.232.4.33:8102/stream"
+  },
+  {
+    "name": "Radio Seda",
+    "logo": "",
+    "url": "http://50.7.70.66:8759/"
+  },
+  {
+    "name": "Radio Seda",
+    "logo": "",
+    "url": "http://50.7.70.66:8827/"
+  },
+  {
+    "name": "RADIO SHEMROON COMEDY FARSI IRAN PERSIAN | Internet Only | Comedy|News|Talk|Educational|Comedy",
+    "logo": "",
+    "url": "http://s35.myradiostream.com:33640/;"
+  },
+  {
+    "name": "Radio YekJahan (GLWiZ) Persian Farsi Iranian | Internet Only | Alternative",
+    "logo": "",
+    "url": "http://38.99.146.102:8000/Radioyekjahan.mp3"
+  },
+  {
+    "name": "Rangarang Flashback Persian Farsi Iranian Iran Political Radio | Internet Only | Political",
+    "logo": "",
+    "url": "http://198.199.127.150:8000/stream/2/"
+  },
+  {
+    "name": "Rangarang Joowalldooz Persian Iranian Farsi Radio | Internet Only | Political",
+    "logo": "",
+    "url": "http://198.199.127.150:8000/stream/3/"
+  },
+  {
+    "name": "Rangarang Live Persian Farsi Iranian Iran Radio | Internet Only | Political",
+    "logo": "",
+    "url": "http://198.199.127.150:8000/stream/1/"
+  },
+  {
+    "name": "Rangarang Music Persian Farsi Iranian | Internet Only | World Pop",
+    "logo": "",
+    "url": "http://198.199.127.150:8000/stream/4/"
+  },
+  {
+    "name": "SHEMROON 24/7 COMEDY RADIO | PERSIAN EDUCATIONAL MARDOM IRN HAMRAH FARSI IRAN | Internet Only | Comedy|News|Talk",
+    "logo": "",
+    "url": "http://69.197.169.178:33640/;"
+  },
+  {
+    "name": "SHEMROON RADIO PERSIAN FARSI IRAN | Internet Only | Comedy",
+    "logo": "",
+    "url": "http://192.99.17.12:5919/stream"
+  },
+  {
+    "name": "Bia2 Radio",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://199.58.163.15:8002/;stream.mp3"
+  },
+  {
+    "name": "Radio Eram",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://37.59.47.192:8200/"
+  },
+  {
+    "name": "Radio Nawa",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://nawaradio.primcast.com:4098/"
+  },
+  {
+    "name": "Hamsafar radio | Internet Only | News",
+    "logo": "",
+    "url": "http://streamingv2.shoutcast.com/Hamsafarradio"
+  },
+  {
+    "name": "Iranian Radio / Dance Party",
+    "logo": "",
+    "category": "",
+    "url": "http://streaming.radionomy.com/JamendoLounge?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3"
+  },
+  {
+    "name": "Hamsafar Radio",
+    "logo": "",
+    "category": "",
+    "url": "http://ice2.securenetsystems.net/HUMSAFAR?type=.flv?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Music Planet",
+    "logo": "",
+    "category": "",
+    "url": "http://streaming.radionomy.com/Elium-ClubDance"
+  },
+  {
+    "name": "Persian Energy Radio",
+    "logo": "",
+    "category": "",
+    "url": "http://streaming.radionomy.com/All-Piano-Radio"
+  },
+  {
+    "name": "Radio Eram",
+    "logo": "",
+    "category": "",
+    "url": "http://37.59.47.192:8200/;stream.mp3"
+  },
+  {
+    "name": "Radio Farda",
+    "logo": "",
+    "category": "",
+    "url": "http://rfe-channel-21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Radio Iran � KIRN",
+    "logo": "",
+    "category": "",
+    "url": "http://ice41.securenetsystems.net/KIRN?&type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Hamsafar radio | Internet Only | News",
+    "logo": "",
+    "url": "http://listen.shoutcast.com:80/Hamsafarradio"
+  },
+  {
+    "name": "Rangarang Live Persian Farsi Iranian Iran Radio | Internet Only | Political",
+    "logo": "",
+    "url": "http://198.199.127.150:8000"
+  },
+  {
+    "name": "IRIB World Service / Hausa Radio",
+    "logo": "",
+    "category": "",
+    "url": "http://stream.parstoday.com:1935/ws/irib6/playlist.m3u8"
+  },
+  {
+    "name": "Radio Hamseda",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://listen.radionomy.com/rtstereo"
+  },
+  {
+    "name": "Music Planet",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://streaming.radionomy.com/PersianMusicPlanet"
+  },
+  {
+    "name": "Music Planet",
+    "logo": "",
+    "category": "Tehran",
+    "url": "http://listen.radionomy.com/persionmusicplanet"
+  },
+  {
+    "name": "Radio Hamseda",
+    "category": "World Asia/Variety",
+    "logo": "",
+    "url": "http://streaming.radionomy.com/RadioHamseda"
+  },
+  {
+    "name": "Radio Sonati",
+    "category": "Classical",
+    "logo": "",
+    "url": "http://streaming.radionomy.com/RadioSonati"
+  }
+]
