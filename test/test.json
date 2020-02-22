@@ -406,5 +406,59 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://listen128.radionomy.com/bdjitalodisco",
     "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
-  }
+  },
+  {
+    "name": "RMI - Italo Disco Classic",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8004/;",
+    "logo": "https://static.radio.net/images/broadcasts/08/7e/33871/c300.png"
+  },
+  {
+    "name": "RMI - Italo Disco New Generation",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8010/",
+    "logo": "https://static.radio.net/images/broadcasts/28/0b/33872/c175.png"
+  },  
+  {
+    "name": "RMI - In The Mix",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8016/",
+    "logo": "https://static.radio.net/images/broadcasts/8f/d2/33873/c175.png"
+  },    
+  {
+    "name": "RMI - Instrumental Version",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8022/",
+    "logo": "https://static.radio.net/images/broadcasts/e5/61/33874/c175.png"
+  },   
+   {
+    "name": "RMI - Synth Space Music",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8028/",
+    "logo": "https://static.radio.net/images/broadcasts/dd/a7/33875/c175.png"
+  },  
+    {
+    "name": "RMI - Euro Disco",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8034/",
+    "logo": "https://static.radio.net/images/broadcasts/65/c8/10728/c175.png"
+  },   
+    {
+    "name": "RMI - 80s Gold",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8040/",
+    "logo": "https://static.radio.net/images/broadcasts/3d/e7/33876/c175.png"
+  },   
+     {
+    "name": "RMI - Beach Club",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8046/",
+    "logo": "https://static.radio.net/images/broadcasts/e5/61/33874/c175.png"
+  },  
+     {
+    "name": "RMI - Disco Fox Maxi",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://188.165.195.176:8087/",
+    "logo": "https://static.radio.net/images/broadcasts/74/6b/33878/c175.png"
+  }   
 ]
