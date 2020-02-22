@@ -443,28 +443,28 @@
     "url": "http://listen128.radionomy.com/bdjitalodisco",
     "logo": "https://bdjradio.com/media/images/logo-bdj-italo-disco.jpg"
   },
+    {
+    "name": "OpenFM - Italo Disco",
+    "category": "EURODANCE - ",
+    "url": "https://stream.open.fm/27",
+    "logo": "https://static.radio.net/images/broadcasts/f9/d8/16091/1/c175.png"
+  },
   {
     "name": "Italo Dance FM",
     "category": "EURODANCE - MUSIC",
     "url": "http://hubble.shoutca.st:8120/stream",
     "logo": "https://cdn-radiotime-logos.tunein.com/s192667q.png"
+  },  
+    {
+    "name": "Fantasy Italo Radio",
+    "category": "EURODANCE - ",
+    "url": "https://italo.italo.nu/",
+    "logo": "https://static.radio.net/images/broadcasts/73/dd/10270/1/c175.png"
   },
   {
     "name": "Italo Dance",
     "category": "EURODANCE - MUSIC",
     "url": "http://s2.slotex.pl:10064/;",
     "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
-  },
-    {
-    "name": "Fantasy Italo Radio",
-    "category": "EURODANCE - ",
-    "url": "https://italo.italo.nu/",
-    "logo": "https://static.radio.net/images/broadcasts/73/dd/10270/1/c175.png"
-  },   
-    {
-    "name": "OpenFM - Italo Disco",
-    "category": "EURODANCE - ",
-    "url": "https://stream.open.fm/27",
-    "logo": "https://static.radio.net/images/broadcasts/f9/d8/16091/1/c175.png"
   }
 ]
