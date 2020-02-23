@@ -74,7 +74,7 @@
   {
     "name": "Al Hadath News",
     "category": "News",
-    "url": "http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8",
+    "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz03.png"
   },
   {
@@ -108,12 +108,6 @@
     "logo": "http://radio.oui9mobi.com/apps/images/fr07.png"
   },
   {
-    "name": "RADIO Big FM",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=22",
-    "logo": "http://radio.oui9mobi.com/apps/images/de01.png"
-  },
-  {
     "name": "RADIO AJYAL",
     "category": "News",
     "url": "http://radio.oui9.com/aradio/ps/?id=4",
@@ -130,5 +124,11 @@
     "category": "News",
     "url": "http://radio.oui9.com/aradio/maroc/?id=6",
     "logo": "http://radio.oui9mobi.com/apps/images/08.png"
+  },
+  {
+    "name": "Al-Alam News",
+    "category": "News",
+    "url": "http://live2.alalamtv.net/alalam.m3u8",
+    "logo": "https://tomor.net/tvlogo/AlAlam-live.gif"
   }
 ]
