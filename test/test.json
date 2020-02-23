@@ -339,7 +339,7 @@
   },
   {
     "name": "Shufi Mafi (Dimashq, Syria)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=297705",
+    "url": "https://live-shufimafi.sharp-stream.com/shufimafi.mp3",
     "logo": "http://cdn-radiotime-logos.tunein.com/s297705q.png",
     "category": "ARABIC - M"
   },
@@ -423,13 +423,13 @@
   },
   {
     "name": "Lebda fm (Tarabulus, Libya)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=301126",
+    "url": "http://94.23.66.114:8082/stream",
     "logo": "http://cdn-profiles.tunein.com/s301126/images/logoq.png",
     "category": "ARABIC - M"
   },
   {
     "name": "Radio Elhouda (France)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=168259",
+    "url": "http://91.121.159.34:30100/stream",
     "logo": "http://cdn-radiotime-logos.tunein.com/s168259q.png",
     "category": "ARABIC - M"
   },
@@ -476,33 +476,9 @@
     "category": "ARABIC - M"
   },
   {
-    "name": "Diab FM (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=137464",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s137464q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Syria Alghad (Dimashq, Syria)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=88152",
-    "logo": "http://cdn-profiles.tunein.com/s88152/images/logoq.jpg",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Radio Kultur (Copenhagen, Denmark)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=259956",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s259956q.png",
-    "category": "ARABIC - M"
-  },
-  {
     "name": "Power Radio (Palestine)",
     "url": "http://opml.radiotime.com/Tune.aspx?StationId=221683",
     "logo": "http://cdn-profiles.tunein.com/s221683/images/logoq.png?t=157140",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Arabic Mood (France)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=190722",
-    "logo": "http://cdn-profiles.tunein.com/s190722/images/logoq.jpg?t=152595",
     "category": "ARABIC - M"
   },
   {
@@ -512,21 +488,9 @@
     "category": "ARABIC - M"
   },
   {
-    "name": "Arabic Music Radio - ListenArabic.com (US)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=183133",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s183133q.png",
-    "category": "ARABIC - M"
-  },
-  {
     "name": "Radio Alaqsa Voice (Gazzah, Palestine)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=115579",
+    "url": "http://live.atyaf.co:8004/",
     "logo": "http://cdn-radiotime-logos.tunein.com/s115579q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Rehab FM (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=105672",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s105672q.png",
     "category": "ARABIC - M"
   },
   {
@@ -542,18 +506,6 @@
     "category": "ARABIC - M"
   },
   {
-    "name": "Yahala Voice (US)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=185309",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s185309q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Waad FM (Libya)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=304962",
-    "logo": "http://cdn-profiles.tunein.com/s304962/images/logoq.png",
-    "category": "ARABIC - M"
-  },
-  {
     "name": "Goal FM (Egypt)",
     "url": "http://opml.radiotime.com/Tune.aspx?StationId=106813",
     "logo": "http://cdn-radiotime-logos.tunein.com/s106813q.png",
@@ -561,13 +513,13 @@
   },
   {
     "name": "Radio Zahle (Lebanon)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=161195",
+    "url": "http://192.240.102.198:14126/stream.mp3",
     "logo": "http://cdn-radiotime-logos.tunein.com/s161195q.png",
     "category": "ARABIC - M"
   },
   {
     "name": "MFM RADIO (Morocco)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=198316",
+    "url": "https://newpub-stream01.itols.com/casa.ogg",
     "logo": "http://cdn-profiles.tunein.com/s198316/images/logoq.png?t=158223",
     "category": "ARABIC - M"
   },
@@ -576,47 +528,5 @@
     "url": "http://opml.radiotime.com/Tune.aspx?StationId=248833",
     "logo": "http://cdn-profiles.tunein.com/s248833/images/logoq.png",
     "category": "ARABIC - M"
-  },
-  {
-    "name": "The Faith Radio (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=153635",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s153635q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Orman Radio Jabal Alarab (Syria)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=205216",
-    "logo": "http://cdn-profiles.tunein.com/s205216/images/logoq.jpg?t=153484",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Radio Al Mahabba (Spain)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=112502",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s112502q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Radio Ibrahim (Tunisia)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=151532",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s151532q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Radio Tar2a3a (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=203290",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s203290q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "BlancoFM (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=154796",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s154796q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Radio Alblad (Israel)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=279335",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s279335q.png",
-    "category": "ARABIC - M"
-  }  
+  }
 ]
