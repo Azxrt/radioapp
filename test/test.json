@@ -1,133 +1,498 @@
 [
+
+  {
+    "name": "Radio Caprice - Arabic Pop music",
+    "url": "http://79.120.39.202:8002/arabicpop",
+    "logo": "https://cdn.repla.io/logo/network/caprice-radio.png",
+    "category": "ARABIC - T"
+  },
+  {
+    "name": "Radio Flash Lebanon",
+    "url": "http://162.244.80.68:8000/;",
+    "logo": "https://cdn-profiles.tunein.com/s263801/images/logoq.png",
+    "category": "ARABIC - T"
+  }, 
+
+   {
+    "name": "Ashohra Radio",
+    "url": "http://209.133.216.3:7003/live",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
+    "category": "ARABIC - T"
+  },    
+   {
+    "name": "Ashohra Radio",
+    "url": "http://209.133.216.3:7003/autodj",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
+    "category": "ARABIC - T"
+  },
+    {
+    "name": "Ashohra Radio",
+    "url": "http://209.133.216.3:7003/stream ",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
+    "category": "ARABIC - T"
+  },  
+   {
+    "name": "Radio Dahab",
+    "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "logo": "https://static-media.streema.com/media/cache/4c/a1/4ca11801c52e49d4f4f730f94dd95a4f.jpg",
+    "category": "ARABIC - T"
+  }, 
+  
+  
+   {
+    "name": "Arab Dj",
+    "url": "https://stream.zeno.fm/na3vpvn10qruv.acc",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/4/76384.v9.png",
+    "category": "ARABIC - T"
+  },    
+    {
+    "name": "Arab Mix",
+    "url": "http://node-28.zeno.fm/efx5psd00qruv",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/3/84043.v6.png",
+    "category": "ARABIC - T"
+  },  
+    {
+    "name": "Radio Mosaïque FM",
+    "url": "https://radio.mosaiquefm.net/mosalive",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s81889q.png",
+    "category": "ARABIC - T"
+  },    
+     {
+    "name": "Radio Mt Lebanon",
+    "url": "http://206.190.133.196:7153/stream",
+    "logo": "https://static.radio.net/images/broadcasts/1a/50/103413/1/c175.png",
+    "category": "ARABIC - T"
+  },  
+  
+      {
+    "name": "Chada FM",
+    "url": "http://broadcast.infomaniak.net/chadafm-high.mp3",
+    "logo": "https://static.radio.net/images/broadcasts/99/06/5133/1/c175.png",
+    "category": "ARABIC - T"
+  }, 
+      {
+    "name": "Radio Mosaïque FM Tarab",
+    "url": "http://radio.mosaiquefm.net:8000/mosatarab",
+    "logo": "https://cdn-profiles.tunein.com/s304706/images/logoq.png?t=153632",
+    "category": "ARABIC - T"
+  }, 
+       {
+    "name": "Adeem Radio",
+    "url": "http://usa6.fastcast4u.com:5109/live",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s251693q.png",
+    "category": "ARABIC - T"
+  },   
+        {
+    "name": "Radio Mawwal",
+    "url": "http://streamer.mada.ps:8041/mawwal",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s110239q.png",
+    "category": "ARABIC - T"
+  }, 
+  
+        {
+    "name": "Raya FM",
+    "url": "http://live.raya.ps:8064/stream/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s109975q.png",
+    "category": "ARABIC - T"
+  },   
+         {
+    "name": "Radio Masr El-Gdida",
+    "url": "https://streaming.radio.co/scc13a6b96/listen",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s174560q.png",
+    "category": "ARABIC - T"
+  },   
+   
+         {
+    "name": "90s FM",
+    "url": "https://streaming.radio.co/scc13a6b96/listen",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/3/27803.v2.png",
+    "category": "ARABIC - T"
+  },    
+         {
+    "name": "Radio Arabesk",
+    "url": "http://185.4.87.79:8765/stream",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/5/28525.v1.png",
+    "category": "ARABIC - T"
+  },   
+  
+  
+          {
+    "name": "Radio Yarmouk",
+    "url": "http://yufm.yu.edu.jo/broadwave.mp3",
+    "logo": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Yarmouk-FM-105.7.jpg",
+    "category": "ARABIC - T"
+  },    
+  
+          {
+    "name": "Hala FM",
+    "url": "http://s8.viastreaming.net:7850/;",
+    "logo": "https://cdn-profiles.tunein.com/s183411/images/logoq.jpg",
+    "category": "ARABIC - T"
+  },     
+  
+          {
+    "name": "Al Wisal",
+    "url": "http://uk7.internet-radio.com:8067/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s87938q.png",
+    "category": "ARABIC - T"
+  },    
+  
+           {
+    "name": "FunX Arab",
+    "url": "https://icecast.omroep.nl/funx-arab-bb-mp3",
+    "logo": "https://static.radio.net/images/broadcasts/7d/78/11023/1/c175.png",
+    "category": "ARABIC - T"
+  }, 
+           {
+    "name": "RadioSama",
+    "url": "http://serv02.streamsfortheworld.com:8000/radiosama_hi",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s190014q.png",
+    "category": "ARABIC - T"
+  }, 
+           {
+    "name": "Allzic Radio Orientale",
+    "url": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
+    "logo": "https://static.radio.net/images/broadcasts/7e/3d/37115/1/c175.png",
+    "category": "ARABIC - T"
+  }, 
+           {
+    "name": "Rotana Tarab jordan",
+    "url": "http://188.247.86.67:8008/3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s257050q.png",
+    "category": "ARABIC - T"
+  }, 
+
+           {
+    "name": "Radio Обозреватель - Ветер Востока",
+    "url": "http://radio-stream-2.obozrevatel.com:8000/arabmusic128.mp3",
+    "logo": "https://radiolistenlive.com/logo/15551-radio.jpg",
+    "category": "ARABIC - T"
+  }, 
+
+           {
+    "name": "lbi Zaman",
+    "url": "http://212.83.138.48:8165/;stream.mp3",
+    "logo": "https://static.radio.net/images/broadcasts/0f/fe/36897/c175.png",
+    "category": "ARABIC - T"
+  }, 
+
+           {
+    "name": "Falastini Radio",
+    "url": "http://176.31.107.8:8289/;",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/2/67462.v7.png",
+    "category": "ARABIC - T"
+  }, 
+
+
+           {
+    "name": "Radio Liban",
+    "url": "http://162.244.80.118:3160/;stream.mp3",
+    "logo": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-liban.jpg",
+    "category": "ARABIC - T"
+  }, 
+
+
+           {
+    "name": "Radio DeeShaK!",
+    "url": "http://198.105.216.204:8230/stream",
+    "logo": "https://cdn-profiles.tunein.com/s304970/images/logoq.png",
+    "category": "ARABIC - T"
+  }, 
+
+
+           {
+    "name": "Panorama FM",
+    "url": "https://stream.tun-radio.com/radio/8000/panorama.mp3",
+    "logo": "https://www.tunisie-radio.com/sites/default/files/radio/radio-panorama_0.png",
+    "category": "ARABIC - T"
+  }, 
+
+
+
+           {
+    "name": "Medi 1 Radio Tarab",
+    "url": "http://live.medi1.com/Tarab",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/0/20850.png",
+    "category": "ARABIC - T"
+  }, 
+
+
+
+           {
+    "name": "Medi 1 Radio Andalouse",
+    "url": "http://live.medi1.com/Andalouse",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/0/20850.png",
+    "category": "ARABIC - T"
+  }, 
+
+
+           {
+    "name": "Star FM Lebanon",
+    "url": "http://109.169.15.20:19554/live",
+    "logo": "https://cdn-profiles.tunein.com/s243781/images/logoq.png",
+    "category": "ARABIC - T"
+  },
+
+           {
+    "name": "Sawtlmoustahlik",
+    "url": "http://37.187.146.76:8000/;",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/9/81479.v5.png",
+    "category": "ARABIC - T"
+  },
+
+
+           {
+    "name": "Mahatet Masr",
+    "url": "https://s3.radio.co/s9cb11828c/listen",
+    "logo": "https://www.radioonlinelive.com/wp-content/uploads/2017/05/mahatet-masr.jpg",
+    "category": "ARABIC - T"
+  },
+
+
+           {
+    "name": "Sadaljabl FM",
+    "url": "http://radio.hvips.com:8024/stream",
+    "logo": "https://radiolistenlive.com/logo/2758-sadaljabl-fm.jpg",
+    "category": "ARABIC - T"
+  },
+
+
+           {
+    "name": "M3ak3latool Radio راديو معاك على طول",
+    "url": "http://www.radioma3ak.com:8000/;stream.mp3",
+    "logo": "https://i3radio.com/userfiles/avatars/21122551y5kxrbi8-883699949.png",
+    "category": "ARABIC - T"
+  },
+
+
+           {
+    "name": "Sawt El Nagham",
+    "url": "https://streamingV2.shoutcast.com/Nagham",
+    "logo": "https://static.radio.net/images/broadcasts/6d/39/113083/3/c175.png",
+    "category": "ARABIC - T"
+  },
+
+
+           {
+    "name": "Hit Radio - 100% Mgharba",
+    "url": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+    "logo": "http://db.radioline.fr/pictures/radio_af0424fe0518d2db0579cb934c2d3ed8/logo200.jpg",
+    "category": "ARABIC - T"
+  },
+  
+  
+           {
+    "name": "Radio Magic",
+    "url": "http://s1.voscast.com:9376/stream/1/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s277481q.png",
+    "category": "ARABIC - T"
+  },  
+  
+  
+             {
+    "name": "Jabal Lebnan",
+    "url": "http://185.52.127.163/lb/2/aac_64.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/8/40428.v3.png",
+    "category": "ARABIC - T"
+  },  
+  
+  
+  
+  
+              {
+    "name": "Marina FM",
+    "url": "http://31.14.40.102:8090/stream.ogg",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/6/37526.png",
+    "category": "ARABIC - T"
+  },   
+  
+               {
+    "name": "Radio Star Maroc",
+    "url": "https://streamingv2.shoutcast.com/RadioStarMaroc",
+    "logo": "https://static.radio.net/images/broadcasts/4c/64/38441/1/c175.png",
+    "category": "ARABIC - T"
+  },  
+  
+  
+               {
+    "name": "Sumer FM",
+    "url": "http://audiostreaming.itworkscdn.com:9012/;",
+    "logo": "https://www.alsumaria.tv/images/fblogosumerfmx.png",
+    "category": "ARABIC - T"
+  },    
+  
+  
+                {
+    "name": "Aghani Aghani",
+    "url": "http://185.52.127.132/lb/1/aac_64.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s212875q.png",
+    "category": "ARABIC - T"
+  },    
+  
+  
+                  {
+    "name": "Shabiba FM",
+    "url": "http://stream.shabiba.fm:8000/;",
+    "logo": "https://cdn-profiles.tunein.com/s283344/images/logoq.png?t=151784",
+    "category": "ARABIC - T"
+  },  
+  
+  
+                    {
+    "name": "Shabiba FM",
+    "url": "http://stream.shabiba.fm:8000/;",
+    "logo": "https://cdn-profiles.tunein.com/s283344/images/logoq.png?t=151784",
+    "category": "ARABIC - T"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "name": "US Arab Radio",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=30",
     "logo": "http://radio.oui9mobi.com/apps/images/nws30.png"
   },
   {
     "name": "CNBC ARABIA",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz06.png"
   },
   {
     "name": "Sky News TV",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz07.png"
   },
   {
     "name": "RADIO Skynews",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
     "logo": "http://radio.oui9mobi.com/apps/images/55sky.png"
   },
   {
     "name": "France 24 Arabic",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz04.png"
   },
   {
     "name": "Radio BBC",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba",
     "logo": "http://radio.oui9mobi.com/apps/images/53.png"
   },
   {
     "name": "Radio Sputnik Arabic",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
     "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
   },
   {
     "name": "RADIO FRANCE MAGHREB 2",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/FR/?id=46",
     "logo": "http://radio.oui9mobi.com/apps/images/fr23.png"
   },
   {
     "name": "Radio SBS Arabic",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=6",
     "logo": "http://radio.oui9mobi.com/apps/images/55.png"
   },
   {
     "name": "Al Jazeera",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nws34.png"
   },
   {
     "name": "Al Arabia Alhadath",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz01.png"
   },
   {
     "name": "Al Arabia FM",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://livecdnh3.tvanywhere.ae/hls/alarabiya/02.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz02.png"
   },
   {
     "name": "Al Hadath News",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz03.png"
   },
   {
     "name": "Asharqiyah",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz05.png"
   },
   {
     "name": "Syria News",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?DVR",
     "logo": "http://radio.oui9mobi.com/apps/images/m3u8-08.png"
   },
   {
     "name": "Radio MDC",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/54.png"
   },
   {
     "name": "RADIO Orient",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/FR/?id=18",
     "logo": "http://radio.oui9mobi.com/apps/images/fr09.png"
   },
   {
     "name": "RADIO BEUR FM",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=26",
     "logo": "http://radio.oui9mobi.com/apps/images/fr07.png"
   },
   {
     "name": "RADIO AJYAL",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/ps/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/pal01.png"
   },
   {
     "name": "Radio Mars",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/maroc/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/10.png"
   },
   {
     "name": "Radio Med Radio",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://radio.oui9.com/aradio/maroc/?id=6",
     "logo": "http://radio.oui9mobi.com/apps/images/08.png"
   },
   {
     "name": "Al-Alam News",
-    "category": "News",
+    "category": "ARABIC - M",
     "url": "http://live2.alalamtv.net/alalam.m3u8",
     "logo": "https://tomor.net/tvlogo/AlAlam-live.gif"
   },
