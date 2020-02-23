@@ -127,7 +127,7 @@
   
            {
     "name": "FunX Arab",
-    "url": "https://icecast.omroep.nl/funx-arab-bb-mp3",
+    "url": "http://stream.zeno.fm/gpsppwp95qzuv",
     "logo": "https://static.radio.net/images/broadcasts/7d/78/11023/1/c175.png",
     "category": "ARABIC - T"
   }, 
@@ -139,7 +139,7 @@
   }, 
            {
     "name": "Allzic Radio Orientale",
-    "url": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
+    "url": "http://stream.zeno.fm/sznpvqp95qzuv",
     "logo": "https://static.radio.net/images/broadcasts/7e/3d/37115/1/c175.png",
     "category": "ARABIC - T"
   }, 
@@ -260,13 +260,6 @@
     "category": "ARABIC - T"
   },
 
-
-           {
-    "name": "Hit Radio - 100% Mgharba",
-    "url": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
-    "logo": "http://db.radioline.fr/pictures/radio_af0424fe0518d2db0579cb934c2d3ed8/logo200.jpg",
-    "category": "ARABIC - T"
-  },
   
   
            {
@@ -325,13 +318,6 @@
     "category": "ARABIC - T"
   },  
   
-  
-                    {
-    "name": "Shabiba FM",
-    "url": "http://stream.shabiba.fm:8000/;",
-    "logo": "https://cdn-profiles.tunein.com/s283344/images/logoq.png?t=151784",
-    "category": "ARABIC - T"
-  },  
   
 
 
