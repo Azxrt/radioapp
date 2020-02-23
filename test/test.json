@@ -362,12 +362,6 @@
     "category": "ARABIC - M"
   },
   {
-    "name": "Arab UK Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=224604",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s224604q.png",
-    "category": "ARABIC - M"
-  },
-  {
     "name": "IraqiMix Radio (Iraq)",
     "url": "http://opml.radiotime.com/Tune.aspx?StationId=114679",
     "logo": "http://cdn-radiotime-logos.tunein.com/s114679q.png",
@@ -503,12 +497,6 @@
     "name": "Hayat FM Sydney (Australia)",
     "url": "http://opml.radiotime.com/Tune.aspx?StationId=231186",
     "logo": "http://cdn-radiotime-logos.tunein.com/s231186q.png",
-    "category": "ARABIC - M"
-  },
-  {
-    "name": "Goal FM (Egypt)",
-    "url": "http://opml.radiotime.com/Tune.aspx?StationId=106813",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s106813q.png",
     "category": "ARABIC - M"
   },
   {
