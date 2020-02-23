@@ -15,13 +15,13 @@
 
    {
     "name": "Ashohra Radio",
-    "url": "http://209.133.216.3:7003/;",
+    "url": "http://209.133.216.3:7003/live",
     "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
     "category": "ARABIC - T"
   },     
    {
     "name": "Radio Dahab",
-    "url": "https://dahab.ice.infomaniak.ch/dahab-192",
+    "url": "http://stream.zeno.fm/pa3eatn95qzuv",
     "logo": "https://static-media.streema.com/media/cache/4c/a1/4ca11801c52e49d4f4f730f94dd95a4f.jpg",
     "category": "ARABIC - T"
   }, 
