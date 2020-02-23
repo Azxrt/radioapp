@@ -15,25 +15,13 @@
 
    {
     "name": "Ashohra Radio",
-    "url": "http://209.133.216.3:7003/live",
+    "url": "http://209.133.216.3:7003/;",
     "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
     "category": "ARABIC - T"
-  },    
-   {
-    "name": "Ashohra Radio",
-    "url": "http://209.133.216.3:7003/autodj",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
-    "category": "ARABIC - T"
-  },
-    {
-    "name": "Ashohra Radio",
-    "url": "http://209.133.216.3:7003/stream ",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s242639q.png",
-    "category": "ARABIC - T"
-  },  
+  },     
    {
     "name": "Radio Dahab",
-    "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "url": "https://dahab.ice.infomaniak.ch/dahab-192",
     "logo": "https://static-media.streema.com/media/cache/4c/a1/4ca11801c52e49d4f4f730f94dd95a4f.jpg",
     "category": "ARABIC - T"
   }, 
@@ -41,7 +29,7 @@
   
    {
     "name": "Arab Dj",
-    "url": "https://stream.zeno.fm/na3vpvn10qruv.acc",
+    "url": "https://stream.zenolive.com/na3vpvn10qruv",
     "logo": "https://cdn.onlineradiobox.com/img/logo/4/76384.v9.png",
     "category": "ARABIC - T"
   },    
@@ -343,7 +331,25 @@
     "url": "http://stream.shabiba.fm:8000/;",
     "logo": "https://cdn-profiles.tunein.com/s283344/images/logoq.png?t=151784",
     "category": "ARABIC - T"
-  },
+  },  
+  
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
 
 
 
