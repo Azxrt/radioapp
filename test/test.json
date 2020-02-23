@@ -1,5 +1,59 @@
 [
   {
+    "name": "US Arab Radio",
+    "category": "News",
+    "url": "http://radio.oui9.com/aradio/news_radio/?id=30",
+    "logo": "http://radio.oui9mobi.com/apps/images/nws30.png"
+  },
+  {
+    "name": "CNBC ARABIA",
+    "category": "News",
+    "url": "http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8",
+    "logo": "http://radio.oui9mobi.com/apps/images/nz06.png"
+  },
+  {
+    "name": "Sky News TV",
+    "category": "News",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "logo": "http://radio.oui9mobi.com/apps/images/nz07.png"
+  },
+  {
+    "name": "RADIO Skynews",
+    "category": "News",
+    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+    "logo": "http://radio.oui9mobi.com/apps/images/55sky.png"
+  },
+  {
+    "name": "France 24 Arabic",
+    "category": "News",
+    "url": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+    "logo": "http://radio.oui9mobi.com/apps/images/nz04.png"
+  },
+  {
+    "name": "Radio BBC",
+    "category": "News",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba",
+    "logo": "http://radio.oui9mobi.com/apps/images/53.png"
+  },
+  {
+    "name": "Radio Sputnik Arabic",
+    "category": "News",
+    "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
+    "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
+  },
+  {
+    "name": "RADIO FRANCE MAGHREB 2",
+    "category": "News",
+    "url": "http://radio.oui9.com/aradio/FR/?id=46",
+    "logo": "http://radio.oui9mobi.com/apps/images/fr23.png"
+  },
+  {
+    "name": "Radio SBS Arabic",
+    "category": "News",
+    "url": "http://radio.oui9.com/aradio/news_radio/?id=6",
+    "logo": "http://radio.oui9mobi.com/apps/images/55.png"
+  },
+  {
     "name": "Al Jazeera",
     "category": "News",
     "url": "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8",
@@ -24,34 +78,10 @@
     "logo": "http://radio.oui9mobi.com/apps/images/nz03.png"
   },
   {
-    "name": "France 24 Arabic",
-    "category": "News",
-    "url": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz04.png"
-  },
-  {
     "name": "Asharqiyah",
     "category": "News",
     "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/nz05.png"
-  },
-  {
-    "name": "CNBC ARABIA",
-    "category": "News",
-    "url": "http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz06.png"
-  },
-  {
-    "name": "RADIO Skynews",
-    "category": "News",
-    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
-    "logo": "http://radio.oui9mobi.com/apps/images/55sky.png"
-  },
-  {
-    "name": "Sky News TV",
-    "category": "News",
-    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz07.png"
   },
   {
     "name": "Syria News",
@@ -60,22 +90,10 @@
     "logo": "http://radio.oui9mobi.com/apps/images/m3u8-08.png"
   },
   {
-    "name": "Radio BBC",
-    "category": "News",
-    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba",
-    "logo": "http://radio.oui9mobi.com/apps/images/53.png"
-  },
-  {
     "name": "Radio MDC",
     "category": "News",
     "url": "http://radio.oui9.com/aradio/news_radio/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/54.png"
-  },
-  {
-    "name": "Radio SBS Arabic",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=6",
-    "logo": "http://radio.oui9mobi.com/apps/images/55.png"
   },
   {
     "name": "RADIO Orient",
@@ -96,38 +114,20 @@
     "logo": "http://radio.oui9mobi.com/apps/images/de01.png"
   },
   {
-    "name": "US Arab Radio",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=30",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws30.png"
-  },
-  {
-    "name": "RADIO FRANCE MAGHREB 2",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/FR/?id=46",
-    "logo": "http://radio.oui9mobi.com/apps/images/fr23.png"
-  },
-  {
-    "name": "Radio Sputnik Arabic",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
-  },
-  {
     "name": "RADIO AJYAL",
-    "category": "Sports",
+    "category": "News",
     "url": "http://radio.oui9.com/aradio/ps/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/pal01.png"
   },
   {
     "name": "Radio Mars",
-    "category": "Sports",
+    "category": "News",
     "url": "http://radio.oui9.com/aradio/maroc/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/10.png"
   },
   {
     "name": "Radio Med Radio",
-    "category": "Sports",
+    "category": "News",
     "url": "http://radio.oui9.com/aradio/maroc/?id=6",
     "logo": "http://radio.oui9mobi.com/apps/images/08.png"
   }
