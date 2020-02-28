@@ -1,0 +1,169 @@
+{
+  "categories": "Música",
+  "linkseo": "musica",
+  "genders": "Pop",
+  "linkseogender": "pop",
+  "featured": [
+    {
+      "_id": "5d323ce6d167be4119ce17f9",
+      "nombre": "Radio Planeta",
+      "linkseo": "radio-planeta",
+      "url_streaming": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA.mp3?csegid=20015&dist=20015",
+      "keywords": "canciones en ingles,musica en ingles,letras de canciones en ingles,musicas en ingles,musica pop en ingles",
+      "imagen": "https://sss.radioenvivo.com/radios/logoplanetapng-c2c5a.png",
+      "rrss": [
+        {
+          "id": "2",
+          "nombre": "radioPlaneta107.7",
+          "url": "https://www.facebook.com/RadioPlaneta107.7",
+          "cuenta": "193419060605",
+          "estado": 1
+        },
+        {
+          "id": "3",
+          "nombre": "Planeta107FM",
+          "url": "https://twitter.com/Planeta107FM",
+          "cuenta": "Planeta107FM",
+          "estado": 1
+        },
+        {
+          "id": "1",
+          "nombre": "",
+          "url": "",
+          "cuenta": "943748745",
+          "estado": 1
+        },
+        {
+          "id": "4",
+          "nombre": "radioplanetafm",
+          "url": "https://www.instagram.com/radioplanetafm/",
+          "cuenta": "radioplanetafm",
+          "estado": 1
+        }
+      ],
+      "dist_web": "20015",
+      "seo_title": "Radio Planeta | Música actual en inglés y lo mejor de BTS",
+      "seo_description": "Con Radio Planeta escuchas en vivo la mejor música actual en inglés, BTS, pop y hip hop. Shawn Mendes, Camila Cabello y más están aquí.",
+      "compartir_web": "¡Escucha Radio Planeta en Juga radio!. Disfruta de la mejor variedad de radios y géneros de todo el Perú en Juga Radio."
+    },
+    {
+      "_id": "5d1fbfa2b2c8c57ce84ddbdd",
+      "nombre": "Radio Viva FM",
+      "linkseo": "radio-viva-fm",
+      "url_streaming": "http://streamingargentino4.com.ar:5310/;stream.mp3",
+      "keywords": "reggaetón,música variada,musica de reggaeton,musica romantica variada",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-viva-fmpng-66e02.png",
+      "rrss": [
+        {
+          "id": "2",
+          "nombre": "VivaFMFans",
+          "url": "https://www.facebook.com/VivaFMFans/",
+          "cuenta": "77147944410",
+          "estado": 1
+        }
+      ],
+      "seo_title": "Viva FM, radio variada, reggaetón, latin pop",
+      "seo_description": "Viva FM es la radio en vivo con más música variada, reggaetón, pero sobre todo latin pop.",
+      "compartir_web": "¡Escucha Radio Viva FM en Juga radio!. Disfruta de la mejor variedad de radios y géneros de todo el Perú en Juga Radio."
+    }
+  ],
+  "radios": [
+    {
+      "_id": "5e02402bd167beaf2a05c87e",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-megatron.png",
+      "keywords": "Radio Megatron Mix FM,Megatron Mix FM,Radio Megatron Mix FM Perú",
+      "linkseo": "megatron-mix-fm",
+      "nombre": "Megatron Mix FM",
+      "url_streaming": "http://node-15.zeno.fm/rw67aty148quv?rj-ttl=5&rj-tok=AAABbxnRNAsAH4wum4rB75k3pQ"
+    },
+    {
+      "_id": "5e02402ad167beaf2a05c85e",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-misterio.png",
+      "keywords": "Radio Misterio Rock and Pop,Misterio Rock and Pop,Radio Misterio Rock and Pop Perú",
+      "linkseo": "misterio-rock-and-pop",
+      "nombre": "Misterio Rock and Pop",
+      "url_streaming": "https://node-27.zeno.fm/puv4tp6dhhruv?rj-ttl=5&rj-tok=AAABb6sGWS8AkaMsTH_rJKURUg"
+    },
+    {
+      "_id": "5d374140d167be8242881c24",
+      "nombre": "Radio Frecuencia Primera",
+      "linkseo": "radio-frecuencia-primera",
+      "url_streaming": "http://67.212.179.138:8084/;",
+      "keywords": "musica en vivo,noticias del peru,comunicacion social",
+      "imagen": "https://sss.radioenvivo.com/radios/frecuencia-primerapng-a296e.png",
+      "seo_title": "Radio Frecuencia Primera | Música y shows en vivo",
+      "seo_description": "Los comunicadores sociales de Radio Frecuencia Primera te ofrecen una programación variada y música en vivo.",
+      "compartir_web": "¡Escucha Radio Frecuencia Primera en Juga radio!. Disfruta de la mejor variedad de radios y géneros de todo el Perú en Juga Radio."
+    },
+    {
+      "_id": "5de92697d167bee5107076d6",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-fuegopng-7299c.png",
+      "keywords": "Radio Fuego,Fuego,Radio Fuego Perú",
+      "linkseo": "radio-fuego",
+      "nombre": "Radio Fuego",
+      "rrss": null,
+      "url_streaming": "http://167.114.118.120:7616/;"
+    },
+    {
+      "_id": "5d374283d167be8242881c25",
+      "nombre": "Radio La Mega",
+      "linkseo": "radio-la-mega",
+      "url_streaming": "http://start.hostreamperu.com:10216/;",
+      "keywords": "rock peruano,rock en español,radio rock,radio rock en español,radio rock en vivo,musica 80 y 90 en español",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-la-megapng-44278.png",
+      "seo_title": "La Mega, radio de Cañete de rock de los 80 y 90",
+      "seo_description": "La Mega es la radio de Cañete con noticias locales y regiolanes, y el mejor rock de los 80 y 90 en vivo.",
+      "compartir_web": "¡Escucha Radio La Mega en Juga radio!. Disfruta de la mejor variedad de radios y géneros de todo el Perú en Juga Radio."
+    },
+    {
+      "_id": "5d388d8fd167beb41fd57423",
+      "nombre": "Radio Top Latino",
+      "linkseo": "radio-top-latino",
+      "url_streaming": "http://online.radiodifusion.net:8028/stream/1/",
+      "keywords": "musica latina,misica variada,reggaeton,música urbana",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-top-latino1png-4d0c8.png",
+      "rrss": [
+        {
+          "id": "2",
+          "nombre": "toplatinotv",
+          "url": "https://www.facebook.com/toplatinotv",
+          "cuenta": "46495639694",
+          "estado": 1
+        },
+        {
+          "id": "4",
+          "nombre": "toplatinotv",
+          "url": "https://www.instagram.com/toplatinotv/",
+          "cuenta": "toplatinotv",
+          "estado": 1
+        },
+        {
+          "id": "3",
+          "nombre": "toplatinotv",
+          "url": "https://twitter.com/toplatinotv",
+          "cuenta": "toplatinotv",
+          "estado": 1
+        }
+      ],
+      "compartir_web": "¡Escucha Radio Top Latino en Juga radio!. Disfruta de la mejor variedad de radios y géneros de todo el Perú.",
+      "seo_title": "Radio Top Latino | Música latina y variada",
+      "seo_description": "En Radio Top Latino escuchas, en vivo, música variada, latina y reggaetón. "
+    },
+    {
+      "_id": "5e02402bd167beaf2a05c87b",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-sonido-joven.png",
+      "keywords": "Radio Sonido Joven Peru,Sonido Joven Peru,Radio Sonido Joven Peru Perú",
+      "linkseo": "sonido-joven-peru",
+      "nombre": "Sonido Joven Peru",
+      "url_streaming": "http://stream.zenolive.com/ne70gfxvhnruv"
+    },
+    {
+      "_id": "5e02402cd167beaf2a05c886",
+      "imagen": "https://sss.radioenvivo.com/radios/radio-synthpop.png",
+      "keywords": "Radio Synthpop,Synthpop,Radio Synthpop Perú",
+      "linkseo": "synthpop",
+      "nombre": "Synthpop",
+      "url_streaming": "http://stm29.srvstm.com:9268/;"
+    }
+  ]
+}
