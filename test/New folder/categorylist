@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "status": "success",
+    "count": 22
+  },
+  "data": [
+    {
+      "id": 22,
+      "name": "Creative",
+      "bundleId": "creative",
+      "skuId": "creative_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/creative/creative_back.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Poster Mockup",
+      "bundleId": "poster_mockup",
+      "skuId": "poster_mockup",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/poster-mockup/poster_mockup.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Love",
+      "bundleId": "love",
+      "skuId": "love_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/love/love_back.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Nature",
+      "bundleId": "nature",
+      "skuId": "nature_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/nature/nature_back.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Paper",
+      "bundleId": "paper",
+      "skuId": "paper_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/paper/Paper16.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Wooden Texture",
+      "bundleId": "",
+      "skuId": "",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/wooden-texture/wood_texture_0010.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Cloudy",
+      "bundleId": "cloudy",
+      "skuId": "cloudy_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/cloudy/Cloudy7.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Texture",
+      "bundleId": "texture",
+      "skuId": "texture_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/texture/texture23.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Floral Texture",
+      "bundleId": "floral_texture",
+      "skuId": "floral_texture_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/floral-texture/Floral_Texture3.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Artistic",
+      "bundleId": "artistic",
+      "skuId": "artistic_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/artistic/Artistic1.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Dreamy",
+      "bundleId": "dreamy",
+      "skuId": "dreamy_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/dreamy/dreamy_cover.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Light",
+      "bundleId": "light",
+      "skuId": "light_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/light/light_back.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Night",
+      "bundleId": "night",
+      "skuId": "night_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/night/Night28.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Star",
+      "bundleId": "star",
+      "skuId": "star_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/star/star_3.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Space",
+      "bundleId": "space",
+      "skuId": "space_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/space/space_back.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Christmas",
+      "bundleId": "christmas",
+      "skuId": "christmas_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/christmas/christmas_33.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Watercolor",
+      "bundleId": "water_color",
+      "skuId": "water_color_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/watercolor/Water_Color31.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Grunge",
+      "bundleId": "grunge",
+      "skuId": "grunge_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/grunge/grunge10.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Winter",
+      "bundleId": "winter",
+      "skuId": "winter_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/winter/winter2.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Spring",
+      "bundleId": "spring",
+      "skuId": "spring_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/spring/spring10.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Geometric",
+      "bundleId": "geometric",
+      "skuId": "geometric_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/geometric/Geometric47.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Autumn",
+      "bundleId": "autumn",
+      "skuId": "autumn_backgrounds",
+      "isPaid": 1,
+      "thumb": "https://www.quotescreator.com/appapi/public/category/autumn/autumn15.jpg"
+    }
+  ]
+}
