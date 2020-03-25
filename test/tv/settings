@@ -1,0 +1,1202 @@
+{
+  "id_target_version_subs_admob_remove_ads": "admob.remove_ads.v3",
+  "current_time": {
+    "time": 1585096243,
+    "timezone": 3
+  },
+  "logged": false,
+  "email": "",
+  "min_version": "131",
+  "regions": [
+    {
+      "code": 104,
+      "name": "Азербайджан",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 22,
+      "name": "Алтайский край",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 28,
+      "name": "Амурская область",
+      "channel": 0,
+      "tz": [
+        9
+      ]
+    },
+    {
+      "code": 29,
+      "name": "Архангельская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 30,
+      "name": "Астраханская область",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 105,
+      "name": "Беларусь",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 31,
+      "name": "Белгородская область",
+      "channel": 10115,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 32,
+      "name": "Брянская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 33,
+      "name": "Владимирская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 34,
+      "name": "Волгоградская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 35,
+      "name": "Вологодская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 36,
+      "name": "Воронежская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 79,
+      "name": "Еврейская автономная область",
+      "channel": 0,
+      "tz": [
+        10
+      ]
+    },
+    {
+      "code": 75,
+      "name": "Забайкальский край",
+      "channel": 0,
+      "tz": [
+        9
+      ]
+    },
+    {
+      "code": 37,
+      "name": "Ивановская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 38,
+      "name": "Иркутская область",
+      "channel": 0,
+      "tz": [
+        8
+      ]
+    },
+    {
+      "code": 7,
+      "name": "Кабардино-Балкарская республика",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 100,
+      "name": "Казахстан",
+      "channel": 0,
+      "tz": [
+        5,
+        6
+      ]
+    },
+    {
+      "code": 39,
+      "name": "Калининградская область",
+      "channel": 10111,
+      "tz": [
+        2
+      ]
+    },
+    {
+      "code": 40,
+      "name": "Калужская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 41,
+      "name": "Камчатский край",
+      "channel": 0,
+      "tz": [
+        12
+      ]
+    },
+    {
+      "code": 9,
+      "name": "Карачаево-Черкесская республика",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 42,
+      "name": "Кемеровская область",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 43,
+      "name": "Кировская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 44,
+      "name": "Костромская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 23,
+      "name": "Краснодарский край",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 24,
+      "name": "Красноярский край",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 45,
+      "name": "Курганская область",
+      "channel": 10112,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 46,
+      "name": "Курская область",
+      "channel": 10113,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 47,
+      "name": "Ленинградская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 48,
+      "name": "Липецкая область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 49,
+      "name": "Магаданская область",
+      "channel": 0,
+      "tz": [
+        11
+      ]
+    },
+    {
+      "code": 77,
+      "name": "Москва",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 50,
+      "name": "Московская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 51,
+      "name": "Мурманская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 83,
+      "name": "Ненецкий автономный округ",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 52,
+      "name": "Нижегородская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 53,
+      "name": "Новгородская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 54,
+      "name": "Новосибирская область",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 55,
+      "name": "Омская область",
+      "channel": 0,
+      "tz": [
+        6
+      ]
+    },
+    {
+      "code": 56,
+      "name": "Оренбургская область",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 57,
+      "name": "Орловская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 58,
+      "name": "Пензенская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 59,
+      "name": "Пермский край",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 25,
+      "name": "Приморский край",
+      "channel": 0,
+      "tz": [
+        10
+      ]
+    },
+    {
+      "code": 60,
+      "name": "Псковская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 1,
+      "name": "Республика Адыгея",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 4,
+      "name": "Республика Алтай",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 2,
+      "name": "Республика Башкортостан",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 3,
+      "name": "Республика Бурятия",
+      "channel": 0,
+      "tz": [
+        8
+      ]
+    },
+    {
+      "code": 5,
+      "name": "Республика Дагестан",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 6,
+      "name": "Республика Ингушетия",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 8,
+      "name": "Республика Калмыкия",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 10,
+      "name": "Республика Карелия",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 11,
+      "name": "Республика Коми",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 91,
+      "name": "Республика Крым",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 12,
+      "name": "Республика Марий Эл",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 13,
+      "name": "Республика Мордовия",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 14,
+      "name": "Республика Саха (Якутия)",
+      "channel": 0,
+      "tz": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "code": 15,
+      "name": "Республика Северная Осетия — Алания",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 16,
+      "name": "Республика Татарстан",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 17,
+      "name": "Республика Тыва",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 19,
+      "name": "Республика Хакасия",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 61,
+      "name": "Ростовская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 62,
+      "name": "Рязанская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 63,
+      "name": "Самарская область",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 78,
+      "name": "Санкт-Петербург",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 64,
+      "name": "Саратовская область",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 65,
+      "name": "Сахалинская область",
+      "channel": 0,
+      "tz": [
+        11
+      ]
+    },
+    {
+      "code": 66,
+      "name": "Свердловская область",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 92,
+      "name": "Севастополь",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 67,
+      "name": "Смоленская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 26,
+      "name": "Ставропольский край",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 103,
+      "name": "Таджикистан",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 68,
+      "name": "Тамбовская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 69,
+      "name": "Тверская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 70,
+      "name": "Томская область",
+      "channel": 0,
+      "tz": [
+        7
+      ]
+    },
+    {
+      "code": 71,
+      "name": "Тульская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 72,
+      "name": "Тюменская область",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 18,
+      "name": "Удмуртская республика",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 102,
+      "name": "Узбекистан",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 101,
+      "name": "Украина",
+      "channel": 0,
+      "tz": [
+        2
+      ]
+    },
+    {
+      "code": 73,
+      "name": "Ульяновская область",
+      "channel": 0,
+      "tz": [
+        4
+      ]
+    },
+    {
+      "code": 27,
+      "name": "Хабаровский край",
+      "channel": 0,
+      "tz": [
+        10
+      ]
+    },
+    {
+      "code": 86,
+      "name": "Ханты-Мансийский автономный округ - Югра",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 74,
+      "name": "Челябинская область",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 20,
+      "name": "Чеченская республика",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 21,
+      "name": "Чувашская республика",
+      "channel": 98,
+      "tz": [
+        3
+      ]
+    },
+    {
+      "code": 87,
+      "name": "Чукотский автономный округ",
+      "channel": 0,
+      "tz": [
+        12
+      ]
+    },
+    {
+      "code": 89,
+      "name": "Ямало-Ненецкий автономный округ",
+      "channel": 0,
+      "tz": [
+        5
+      ]
+    },
+    {
+      "code": 76,
+      "name": "Ярославская область",
+      "channel": 0,
+      "tz": [
+        3
+      ]
+    }
+  ],
+  "ads": [
+    {
+      "id": 4,
+      "url": "",
+      "is_onl": 1,
+      "is_arh": 1,
+      "type_sdk": "google",
+      "type_identity": "googleinterstitial",
+      "type_block": 10,
+      "type_device": 10,
+      "orientation": 10,
+      "code": "",
+      "enable_cache": true,
+      "window": 99
+    },
+    {
+      "id": 21,
+      "url": "",
+      "is_onl": 1,
+      "is_arh": 1,
+      "type_sdk": "mytarget",
+      "type_identity": "MyTarget",
+      "type_block": 10,
+      "type_device": 10,
+      "orientation": 10,
+      "code": "",
+      "enable_cache": true,
+      "window": 99
+    },
+    {
+      "id": 25,
+      "url": "",
+      "is_onl": 1,
+      "is_arh": 1,
+      "type_sdk": "mytarget",
+      "type_identity": "MyTarget",
+      "type_block": 10,
+      "type_device": 10,
+      "orientation": 10,
+      "code": "",
+      "enable_cache": true,
+      "window": 99
+    },
+    {
+      "id": 6,
+      "url": "https://data.videonow.ru/?profile_id=2392203&format=vast&container=preroll",
+      "is_onl": 1,
+      "is_arh": 1,
+      "type_sdk": "ima-device",
+      "type_identity": "videonow",
+      "type_block": 10,
+      "type_device": 10,
+      "orientation": 10,
+      "code": "",
+      "enable_cache": false,
+      "window": 99
+    }
+  ],
+  "ads_global": {
+    "preroll": {
+      "enabled": true,
+      "epg_interval": 1000,
+      "epg_timer": 30,
+      "skip_first": true,
+      "skip_count": "1",
+      "tv_mode": true,
+      "skip_timer": 10
+    },
+    "preload_ads": {
+      "timeout": 1200,
+      "count": 2,
+      "block_timeout": 1200
+    },
+    "yandex_min_api": 19,
+    "interstitial": {
+      "timer": "1200",
+      "interval": "1",
+      "show_skip": true
+    }
+  },
+  "load_logo_index": 1585051132,
+  "free_sub": "",
+  "share_app": "\n Рекомендую попробовать приложение бесплатного просмотра ТВ: Лайм HD\n • для iPhone и iPad:\n https://itunes.apple.com/ru/app/id998832333\n • Для Android смартфонов и планшетов:\n https://play.google.com/store/apps/details?id=com.infolink.limeiptv",
+  "adult_pack_banner": "Внимание! Подписка на данный пакет разрешена только лицам, достигшим 18 лет",
+  "socket": null,
+  "packs": [
+    {
+      "id": 4,
+      "android_identifier": "pack.id0.v1",
+      "ios_identifier": "pack.id0.v1",
+      "identifier": "pack.id0.v1",
+      "deprecated": false,
+      "name_ru": "Спорт",
+      "name_en": "Спорт",
+      "description_ru": "Спорт",
+      "description_en": "Спорт",
+      "price": 99,
+      "duration": "1 месяц",
+      "channels": [
+        10310,
+        10408,
+        10407,
+        10142,
+        10095,
+        174,
+        172,
+        175,
+        10167,
+        10057,
+        10151,
+        10474
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 10,
+      "android_identifier": "pack.id6.v3",
+      "ios_identifier": "pack.id6.v3",
+      "identifier": "pack.id6.v3",
+      "deprecated": false,
+      "name_ru": "Развлекательный",
+      "name_en": "Развлекательный",
+      "description_ru": "Развлекательный",
+      "description_en": "Развлекательный",
+      "price": 149,
+      "duration": "1 месяц",
+      "channels": [
+        10247,
+        10101,
+        10108,
+        133,
+        10068,
+        10070,
+        10104,
+        10137,
+        10110,
+        10239,
+        10301,
+        94,
+        10355,
+        10107,
+        10244,
+        96,
+        10294,
+        10295,
+        10049,
+        10051,
+        10053,
+        10050,
+        10052,
+        10048,
+        10094,
+        10078,
+        10056,
+        10082,
+        65,
+        10182,
+        10047,
+        10060,
+        10179,
+        10175,
+        10178,
+        10177,
+        10176,
+        10359,
+        10174
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 25,
+      "android_identifier": "pack.id20.v2",
+      "ios_identifier": "pack.id20.v2",
+      "identifier": "pack.id20.v2",
+      "deprecated": false,
+      "name_ru": "HD",
+      "name_en": "HD",
+      "description_ru": "HD",
+      "description_en": "HD",
+      "price": 149,
+      "duration": "1 месяц",
+      "channels": [
+        10248,
+        10157,
+        10156,
+        10097,
+        10045,
+        10046,
+        10159,
+        10160,
+        10031,
+        10042,
+        10158,
+        10095,
+        10161,
+        10286,
+        10044,
+        10032
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 51,
+      "android_identifier": "pack.id44.v2",
+      "ios_identifier": "pack.id44.v2",
+      "identifier": "pack.id44.v2",
+      "deprecated": false,
+      "name_ru": "Кино",
+      "name_en": "Кино",
+      "description_ru": "Кино",
+      "description_en": "Кино",
+      "price": 149,
+      "duration": "1 месяц",
+      "channels": [
+        10240,
+        10067,
+        10277,
+        10342,
+        10343,
+        10406,
+        10071,
+        10429,
+        70,
+        10055,
+        119,
+        74,
+        10293,
+        10136,
+        10138,
+        10287
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 52,
+      "android_identifier": "pack.id47.v1",
+      "ios_identifier": "pack.id47.v1",
+      "identifier": "pack.id47.v1",
+      "deprecated": false,
+      "name_ru": "Дождь",
+      "name_en": "Дождь",
+      "description_ru": "Дождь",
+      "description_en": "Дождь",
+      "price": 249,
+      "duration": "1 месяц",
+      "channels": [
+        10144
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 83,
+      "android_identifier": "pack.id124.v2",
+      "ios_identifier": "pack.id124.v2",
+      "identifier": "pack.id124.v2",
+      "deprecated": false,
+      "name_ru": "18+",
+      "name_en": "18+",
+      "description_ru": "18+",
+      "description_en": "18+",
+      "price": 249,
+      "duration": "1 месяц",
+      "channels": [
+        10297,
+        10181,
+        10237,
+        10238,
+        10379,
+        10183,
+        10296
+      ],
+      "adult": 1,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 84,
+      "android_identifier": "pack.id125.v2",
+      "ios_identifier": "pack.id125.v2",
+      "identifier": "pack.id125.v2",
+      "deprecated": false,
+      "name_ru": "Наш футбол",
+      "name_en": "Наш футбол",
+      "description_ru": "Наш футбол",
+      "description_en": "Наш футбол",
+      "price": 299,
+      "duration": "1 месяц",
+      "channels": [
+        10180,
+        10227
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 85,
+      "android_identifier": "pack.id138.v1",
+      "ios_identifier": "pack.id138.v1",
+      "identifier": "pack.id138.v1",
+      "deprecated": false,
+      "name_ru": "Матч! Футбол",
+      "name_en": "Матч! Футбол",
+      "description_ru": "Матч! Футбол",
+      "description_en": "Матч! Футбол",
+      "price": 379,
+      "duration": "1 месяц",
+      "channels": [
+        10231,
+        10234,
+        10232,
+        10235,
+        10236,
+        10233
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 104,
+      "android_identifier": "pack.id203.v1",
+      "ios_identifier": "pack.id203.v1",
+      "identifier": "pack.id203.v1",
+      "deprecated": false,
+      "name_ru": "Спорт +",
+      "name_en": "Спорт +",
+      "description_ru": "Спорт +",
+      "description_en": "Спорт +",
+      "price": 99,
+      "duration": "1 месяц",
+      "channels": [
+        10169,
+        10170,
+        10171,
+        10225,
+        10226
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    },
+    {
+      "id": 105,
+      "android_identifier": "pack.id204.v1",
+      "ios_identifier": "pack.id204.v1",
+      "identifier": "pack.id204.v1",
+      "deprecated": false,
+      "name_ru": "КХЛ",
+      "name_en": "КХЛ",
+      "description_ru": "КХЛ",
+      "description_en": "КХЛ",
+      "price": 199,
+      "duration": "1 месяц",
+      "channels": [
+        10263,
+        170
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 1,
+      "promo_desc": "неделя бесплатно"
+    },
+    {
+      "id": 110,
+      "android_identifier": "pack.id205.v1",
+      "ios_identifier": "pack.id205.v1",
+      "identifier": "pack.id205.v1",
+      "deprecated": false,
+      "name_ru": "Настрой кино",
+      "name_en": "Настрой кино",
+      "description_ru": "Настрой кино",
+      "description_en": "Настрой кино",
+      "price": 329,
+      "duration": "1 месяц",
+      "channels": [
+        10372,
+        10373,
+        10374,
+        10375,
+        10376
+      ],
+      "adult": 0,
+      "hidden": 0,
+      "paid": false,
+      "type": 3,
+      "pack_type": 10,
+      "is_promo": 0,
+      "promo_desc": ""
+    }
+  ],
+  "quality": {
+    "1": "LOW",
+    "2": "MID",
+    "3": "HIGH",
+    "4": "HD"
+  },
+  "security": {
+    "token": "1",
+    "time": 1585098043
+  },
+  "rate_timeout": 604800,
+  "hashsum": "cs_5e79f5fc802e0",
+  "upgrade": false,
+  "pin_code_available": false,
+  "foreign_player_key": false,
+  "cdn_status": {
+    "channel_switch": true,
+    "channel_list": true
+  }
+}
