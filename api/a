@@ -28,7 +28,7 @@
         },
         "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm.png",
         "playlist": "https://o.tavrmedia.ua/hit24songs",
-        "current_song": "https://o.tavrmedia.ua/hit",
+        "current_song": "http://149.56.175.167:5429/played",
         "streams": {
           "regular": {
             "android": "http://online.hitfm.ua/HitFM",
@@ -55,7 +55,7 @@
         },
         "logo": "https://radioplayer.ua/stuff/logo/logo_hitfm_ukr.png",
         "playlist": "https://o.tavrmedia.ua/hit24ukr",
-        "current_song": "https://o.tavrmedia.ua/hitu",
+        "current_song": "http://149.56.175.167:5429/currentsong?sid=1",
         "streams": {
           "regular": {
             "android": "http://online.hitfm.ua/HitFM_Ukr",
