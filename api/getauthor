@@ -1,0 +1,1323 @@
+{
+  "meta": {
+    "status": "success",
+    "count": 263
+  },
+  "data": [
+    {
+      "id": 188,
+      "name": "Abdul Kalam",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/a-p-j-abdul-kalam-2jpg.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Abraham H. Maslow",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/abraham-maslowjpg.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abraham Lincoln",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/abraham-lincoln-o-77-matte-collodion-printjpg.jpg"
+    },
+    {
+      "id": 262,
+      "name": "Aesop",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/aesop-pushkin01jpg.jpg"
+    },
+    {
+      "id": 260,
+      "name": "Agatha Christie",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/agatha-christiepng.png"
+    },
+    {
+      "id": 241,
+      "name": "Alan A. Milne",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/a-a-milnejpg.jpg"
+    },
+    {
+      "id": 189,
+      "name": "Alan Watts",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-z0auawqqjpg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Albert Camus",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/albert-camus2c-gagnant-de-prix-nobel2c-portrait-en-buste2c-posc3a9-au-bureau2c-faisant-face-c3a0-gauche2c-cigarette-de-tabagismejpg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Albert Einstein",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-einstein-1921-by-f-schmutzer-restorationjpg.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Albert Schweitzer",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bundesarchiv-bild-183-d0116-0041-0192c-albert-schweitzerjpg.jpg"
+    },
+    {
+      "id": 225,
+      "name": "Aldous Huxley",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/aldous-huxley-psychical-researcherpng.png"
+    },
+    {
+      "id": 5,
+      "name": "Alexander the Great",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/alexander-louvre3jpg.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Alfred Hitchcock",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/hitchcock2c-alfred-02jpg.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Alice Longworth",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-alice-roosevelt-by-frances-benjamin-johnstonjpg.jpg"
+    },
+    {
+      "id": 231,
+      "name": "Alphonse de Lamartine",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/alphonse-de-lamartinepng.PNG"
+    },
+    {
+      "id": 8,
+      "name": "Alvin Lee",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-alvin-leejpg.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Anais Nin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/anaisninjpg.jpg"
+    },
+    {
+      "id": 187,
+      "name": "Andrew Carnegie",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-andrew-carnegie2c-three-quarter-length-portrait2c-seated2c-facing-slightly-left2c-1913jpg.jpg"
+    },
+    {
+      "id": 190,
+      "name": "Angela Davis",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-angela-davis-en-bogotc3a12c-septiembre-de-2010jpg.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Anne Frank",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/annefrankschoolphotojpg.jpg"
+    },
+    {
+      "id": 258,
+      "name": "Anthony C. Grayling ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-ac-graylingjpg.jpg"
+    },
+    {
+      "id": 129,
+      "name": "Anthony Robbins",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/tony-robbinsjpg.jpg"
+    },
+    {
+      "id": 261,
+      "name": "Anton Chekhov",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/anton-chekhov-with-bow-tie-sepia-imagejpg.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Aristotle",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-aristotle-altemps-inv8575jpg.jpg"
+    },
+    {
+      "id": 239,
+      "name": "Arthur C. Clarke",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/arthur-c-clarke-28198229jpg.jpg"
+    },
+    {
+      "id": 179,
+      "name": "Arthur Williams",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/arthur-williams-as-lurcherjpg.jpg"
+    },
+    {
+      "id": 191,
+      "name": "Audrey Hepburn",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/audrey-hepburn-1956jpg.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ayn Rand",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/ayn-randjpg.jpg"
+    },
+    {
+      "id": 192,
+      "name": "Baltasar Gracian",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/gracic3a1n-grausjpg.jpg"
+    },
+    {
+      "id": 215,
+      "name": "Barack Obama",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-president-barack-obamajpg.jpg"
+    },
+    {
+      "id": 193,
+      "name": "Baruch Spinoza",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-spinozajpg.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Disraeli",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/benjamin-disraeli-by-cornelius-jabez-hughes2c-1878jpg.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Benjamin Franklin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-benfranklinduplessisjpg.jpg"
+    },
+    {
+      "id": 222,
+      "name": "Bertrand Russell",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-bertrand-russell-transparent-bgpng.png"
+    },
+    {
+      "id": 253,
+      "name": "Bhimrao R. Ambedkar",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-dr-bhim-rao-ambedkarjpg.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bill Gates",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bill-gates-june-2015jpg.jpg"
+    },
+    {
+      "id": 164,
+      "name": "Blaise Pascal",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-blaise-pascal-versaillesjpg.JPG"
+    },
+    {
+      "id": 16,
+      "name": "Bob Dylan",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-bob-dylan-azkena-rock-festival-2010-2jpg.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Bob Marley",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bob-marleyjpg.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Bono",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-bono-2014jpg.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Brian Clough",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/brian-cloughjpg.jpg"
+    },
+    {
+      "id": 208,
+      "name": "Brigitte Bardot",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/brigitte-bardot-1962jpg.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Bruce Lee",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bruce-lee-1973jpg.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Buddha",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/buddha-in-sarnath-museum-28dhammajak-mutra29jpg.jpg"
+    },
+    {
+      "id": 22,
+      "name": "C. S. Lewis",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/cslewis3jpg.JPG"
+    },
+    {
+      "id": 23,
+      "name": "Calvin Coolidge",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/calvin-coolidge2c-bw-head-and-shoulders-photo-portrait-seated2c-1919jpg.jpg"
+    },
+    {
+      "id": 240,
+      "name": "Carl Jung",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-cgjungjpg.jpg"
+    },
+    {
+      "id": 185,
+      "name": "Carl Sagan",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/carl-sagan-planetary-societyjpg.JPG"
+    },
+    {
+      "id": 238,
+      "name": "Chanakya",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/chanakya-artistic-depictionjpg.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Charles Darwin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-charles-darwin-seated-cropjpg.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Charles Dickens",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/dickens-gurney-headjpg.jpg"
+    },
+    {
+      "id": 156,
+      "name": "Charlie Chaplin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/charlie-chaplin-portraitjpg.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Chet Atkins",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/chet-atkinsjpg.jpg"
+    },
+    {
+      "id": 158,
+      "name": "Chinua Achebe",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-chinua-achebe-buffalo-25sep2008-cropjpg.jpg"
+    },
+    {
+      "id": 228,
+      "name": "Chris Rock ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-chris-rock-we-2012-shankbonejpg.JPG"
+    },
+    {
+      "id": 235,
+      "name": "Christopher Dawson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/christopher-dawsonjpg.jpg"
+    },
+    {
+      "id": 184,
+      "name": "Christopher Hitchens",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/christopher-hitchens-2008-04-24-001jpg.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Cicero",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-bust-of-cicero-281st-cent-bc29-palazzo-nuovo-musei-capitolini-rome-2016jpg.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Coco Chanel",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-coco-chanel2c-1920jpg.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Confucius",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/9b0-x0oe-400x400jpg.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Dalai Lama",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1st-dalai-lamajpg.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Dale Carnegie",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/dale-carnegiejpg.jpg"
+    },
+    {
+      "id": 255,
+      "name": "Daniel Webster",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-daniel-websterjpg.jpg"
+    },
+    {
+      "id": 194,
+      "name": "Deepak Chopra",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/deepak-choprajpg.jpg"
+    },
+    {
+      "id": 263,
+      "name": "Democritus",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/democritus2jpg.jpg"
+    },
+    {
+      "id": 195,
+      "name": "Desmond Tutu",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/desmond-tutu-2013-10-23-001jpg.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Dorothy Parker",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/dorothy-parkerjpg.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Douglas Adams",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/douglas-adams-portrait-croppedjpg.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Edgar Allan Poe",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/edgar-allan-poe-daguerreotype-croppng.png"
+    },
+    {
+      "id": 257,
+      "name": "Edmud Burke",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/edmundburke1771jpg.jpg"
+    },
+    {
+      "id": 151,
+      "name": "Edward Murphy",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/georg-christoph-lichtenberg2jpg.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Eleanor Roosevelt",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/eleanor-roosevelt-portrait-1933jpg.jpg"
+    },
+    {
+      "id": 167,
+      "name": "Elijah Cummings",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-elijah-cummings23jpg.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Elizabeth I of England",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-darnley-stage-3jpg.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Elvis Presley",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-elvis-presley-promoting-jailhouse-rockjpg.jpg"
+    },
+    {
+      "id": 224,
+      "name": "Erich Maria Remarque",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/erich-maria-remarquejpg.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Erma Bombeck",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/erma-bombeckjpg.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Ernest Hemingway",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-ernesthemingwayjpg.jpg"
+    },
+    {
+      "id": 242,
+      "name": "Francis of Assisi",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bartolomeo-della-gatta-stigmata-of-st-francis-wga01336jpg.jpg"
+    },
+    {
+      "id": 157,
+      "name": "Frank Herbert",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/frank-herbert-1984jpg.jpg"
+    },
+    {
+      "id": 181,
+      "name": "Frank Lloyd Wright",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-frank-lloyd-wright-portraitjpg.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Franklin D.Roosevelt",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/lossy-page1-1200px-fdr-1944-color-portraittifjpg.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Friedrich Nietzsche",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-nietzsche187ajpg.jpg"
+    },
+    {
+      "id": 234,
+      "name": "Fulton Sheen",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bpsheenpng.png"
+    },
+    {
+      "id": 42,
+      "name": "G.K Chesterton",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/gilbert-chestertonjpg.jpg"
+    },
+    {
+      "id": 149,
+      "name": "Georg C. Lichtenberg",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/georg-christoph-lichtenberg2jpg.jpg"
+    },
+    {
+      "id": 171,
+      "name": "George Balanchine",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/portrait-of-ringling-circus-choreographer-george-balanchinejpg.jpg"
+    },
+    {
+      "id": 43,
+      "name": "George Bernard Shaw",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-bernard-shaw-iln-1911-originaljpg.jpg"
+    },
+    {
+      "id": 44,
+      "name": "George Carlin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-jesus-is-coming-look-busy-28george-carlin29jpg.jpg"
+    },
+    {
+      "id": 182,
+      "name": "George Orwell",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/george-orwell-press-photojpg.jpg"
+    },
+    {
+      "id": 247,
+      "name": "George Santayana",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/george-santayanajpg.jpg"
+    },
+    {
+      "id": 45,
+      "name": "George Washington",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-gilbert-stuart-williamstown-portrait-of-george-washingtonjpg.jpg"
+    },
+    {
+      "id": 46,
+      "name": "George Weah",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/portraitgeorgeweahaiporttuniscarthageseptembre2016jpg.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Goethe",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-goethe-28stieler-182829jpg.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Groucho Marx",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/groucho-marx-portraitjpg.jpg"
+    },
+    {
+      "id": 49,
+      "name": "H.G. Wells",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/hg-wells-by-beresfordjpg.jpg"
+    },
+    {
+      "id": 161,
+      "name": "Harry Fosdick",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/harry-emerson-fosdickjpg.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Helen Keller",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-hellen-keller-circa-1920jpg.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Henry David Thoreau",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-benjamin-d-maxham-henry-david-thoreau-restoredjpg.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Henry Ford",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-henry-ford-1919jpg.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Homer Simpson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/homer-simpson-2006png.png"
+    },
+    {
+      "id": 229,
+      "name": "Isaac Newton ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/godfreykneller-isaacnewton-1689jpg.jpg"
+    },
+    {
+      "id": 172,
+      "name": "James Allen",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/james-allenjpg.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Janis Joplin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/janis-joplin-seated-1970jpg.JPG"
+    },
+    {
+      "id": 211,
+      "name": "Jean-Jacques Rousseau",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-jean-jacques-rousseau-28painted-portrait29jpg.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Jesus Christ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-cefalc3b9-pantocrator-retouchedjpg.jpg"
+    },
+    {
+      "id": 246,
+      "name": "Jiddu Krishnamurti",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/jiddu-krishnamurti-01jpg.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Jim Morrison",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/jim-morrison-1969jpg.JPG"
+    },
+    {
+      "id": 57,
+      "name": "Jim Rohn",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/jim-rohn-passes-awayjpg.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Jimi Hendrix",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/jimi-hendrix-1967png.png"
+    },
+    {
+      "id": 59,
+      "name": "John Adams",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-official-presidential-portrait-of-john-adams-28by-john-trumbull2c-circa-179229jpg.jpg"
+    },
+    {
+      "id": 159,
+      "name": "John Ashbery",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/ashbery-2010-09-12jpg.jpg"
+    },
+    {
+      "id": 60,
+      "name": "John Cleese",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/john-cleese-2008-bigger-cropjpg.jpg"
+    },
+    {
+      "id": 61,
+      "name": "John F. Kennedy",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/john-f-kennedy2c-white-house-photo-portrait2c-looking-upjpg.jpg"
+    },
+    {
+      "id": 62,
+      "name": "John Lennon",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/johnlennonpeacejpg.jpg"
+    },
+    {
+      "id": 186,
+      "name": "John Locke",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/johnlockepng.png"
+    },
+    {
+      "id": 63,
+      "name": "John Mayer",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/john-mayer-live-in-2007-01png.png"
+    },
+    {
+      "id": 248,
+      "name": "John Stuart Mill",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-john-stuart-mill-by-london-stereoscopic-company2c-c1870jpg.jpg"
+    },
+    {
+      "id": 196,
+      "name": "John von Neumann",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/johnvonneumann-losalamosgif.gif"
+    },
+    {
+      "id": 174,
+      "name": "John Wayne",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/john-wayne-still-portraitjpg.jpg"
+    },
+    {
+      "id": 64,
+      "name": "John Wooden",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/john-woodenjpg.JPG"
+    },
+    {
+      "id": 65,
+      "name": "Johnny Depp",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/johnnydepphwofjune2013jpg.jpg"
+    },
+    {
+      "id": 226,
+      "name": "Jonathan Davis",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-2014228185123-2014-08-16-rock27n27heim-sven-1d-x-410-dv3p9271-mod-28129jpg.jpg"
+    },
+    {
+      "id": 160,
+      "name": "Joseph Addison",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-joseph-addison-by-sir-godfrey-kneller2c-btjpg.jpg"
+    },
+    {
+      "id": 212,
+      "name": "Jules Renard",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/jules-renard-dornacpng.png"
+    },
+    {
+      "id": 217,
+      "name": "Julie Andrews",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/julie-andrews-park-hyatt2c-sydney2c-australia-2013jpg.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Karl Marx",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-karl-marx-001jpg.jpg"
+    },
+    {
+      "id": 169,
+      "name": "Karl Von Clausewitz",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/carl-von-clausewitzpng.PNG"
+    },
+    {
+      "id": 67,
+      "name": "Ken Robinson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-sir-ken-robinson-40-the-creative-company-conferencejpg.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Khalil Gibran",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/khalil-gibranjpg.jpg"
+    },
+    {
+      "id": 197,
+      "name": "Kofi Annan",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-kofi-annan-2012-28cropped29jpg.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Kris Kristofferson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/kristofferson-78jpg.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Kurt Cobain",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/nirvana-around-1992jpg.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Lao Tzu",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/daodetianzunjpg.jpg"
+    },
+    {
+      "id": 218,
+      "name": "Lech Walesa",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-lech-walesa-2009jpg.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Leonardo da Vinci",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/francesco-melzi-portrait-of-leonardo-wga14795jpg.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Lord Byron",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-george-gordon-byron2c-6th-baron-byron-by-richard-westall-28229jpg.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Lou Holtz",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/lou-holtz-croppedjpg.jpg"
+    },
+    {
+      "id": 230,
+      "name": "Ludwig van Beethoven ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-beethovenjpg.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Mae West",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/mae-west-latjpg.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Malcolm X",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-malcolm-x-nywts-2ajpg.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Marcus Aurelius",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-l27image-et-le-pouvoir-buste-cuirassc3a9-de-marc-aurc3a8le-agc3a9-3jpg.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Margaret Thatcher",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/margaret-thatcherpng.png"
+    },
+    {
+      "id": 79,
+      "name": "Margot Asquith",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-margot-asquithjpg.jpg"
+    },
+    {
+      "id": 150,
+      "name": "Maria Montessori",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-maria-montessori1913jpg.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Marianne Williamson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/marianne-williamsonjpg.jpg"
+    },
+    {
+      "id": 198,
+      "name": "Marie Curie",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/marie-curie-c1920jpg.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Marilyn Monroe",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/monroecirca1953jpg.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Mark Knopfler",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-markknopfler20061jpg.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Mark Twain",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/mark-twain2c-brady-handy-photo-portrait2c-feb-72c-18712c-croppedjpg.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Martin Luther King",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/martin-luther-king2c-jrjpg.jpg"
+    },
+    {
+      "id": 170,
+      "name": "Mary Kay Ash",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/mary-kay-ashjpg.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Mary Pickford",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-mary-pickford-cph3c17995ujpg.jpg"
+    },
+    {
+      "id": 210,
+      "name": "Masashi Kishimoto",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/masashi-kishimotojpg.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Maya Angelou",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-angelou-at-clinton-inaugurationjpg.jpg"
+    },
+    {
+      "id": 214,
+      "name": "Meryl Streep",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/meryl-streep-berlin-berlinale-66-282460905727929-28cropped-229jpg.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Michael Jackson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/dd091dd19793b4d487defe59daff80edjpg.jpg"
+    },
+    {
+      "id": 236,
+      "name": "Michel de Montaigne",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/michel-de-montaigne-1jpg.jpg"
+    },
+    {
+      "id": 227,
+      "name": "Michel Quoist",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/primopiano-michel-quoistgif.gif"
+    },
+    {
+      "id": 88,
+      "name": "Michelangelo",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-miguel-c381ngel2c-por-daniele-da-volterra-28detalle2c-brightened29jpg.jpg"
+    },
+    {
+      "id": 166,
+      "name": "Miguel de Cervantes",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-cervantes-jc3a1ureguijpg.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Mitch Hedberg",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/mitch-hedbergjpg.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Mohandas Gandhi",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-portrait-gandhijpg.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Mother Teresa",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/motherteresa-094jpg.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Muhammad Ali",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-muhammad-ali-nywtsjpg.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Mustafa Kemal Ataturk",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/ataturk-mirrorpng.png"
+    },
+    {
+      "id": 94,
+      "name": "Nancy Mitford",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/mitford56jpg.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Napoleon Bonaparte",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-grandes-armes-impc3a9riales-281804-1815292svgpng.png"
+    },
+    {
+      "id": 96,
+      "name": "Napoleon Hill",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/napoleon-hill-headshotjpg.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Nathaniel Hawthorne",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-nathaniel-hawthorne-by-brady2c-1860-64jpg.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Neil Armstrong",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-neil-armstrong-posejpg.jpg"
+    },
+    {
+      "id": 199,
+      "name": "Neil Young",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/neil-young-1983jpg.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Nelson Mandela",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/nelson-mandela-2008-28edit29jpg.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Niccolo Machiavelli",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-portrait-of-niccolc3b2-machiavelli-by-santi-di-titojpg.jpg"
+    },
+    {
+      "id": 209,
+      "name": "Nicholas Sparks",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/nicholas-sparks-autograph-1-4-06jpg.jpg"
+    },
+    {
+      "id": 178,
+      "name": "Nick Cave",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/nick-cave-by-bleddyn-butcher-oct-2012jpg.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Nikola Tesla",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-nteslajpg.JPG"
+    },
+    {
+      "id": 155,
+      "name": "Oliver Hardy",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/oliver-hardy-portraitjpg.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Oprah Winfrey",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-oprah-in-2014jpg.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Orson Welles",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-orson-welles-1937jpg.jpg"
+    },
+    {
+      "id": 153,
+      "name": "Orville Wright",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-orville-wright-1905-cropjpg.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Oscar Wilde",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-oscar-wilde-saronyjpg.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Osho",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/oshojpg.jpg"
+    },
+    {
+      "id": 177,
+      "name": "Ozzy Osbourne",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/ozzychanginghands02-20-2010newjpg.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Pablo Picasso",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/portrait-de-picasso2c-1908jpg.jpg"
+    },
+    {
+      "id": 200,
+      "name": "Pandurang S. Athavale",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/pandurang-shastri-athavale2c-281920-200329jpg.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Patrick Swayze",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-patrick-swayze-2006jpg.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Paul McCartney",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-paul-mccartney-black-and-white-2010jpg.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Paulo Coelho",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-paulo-coelho-nrkbetajpg.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Peter Gabriel",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/peter-gabriel-allan-warrenjpg.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Plato",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-plato-silanion-musei-capitolini-mc1377jpg.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Pope John Paul II",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/johannespaul2-portraitjpg.jpg"
+    },
+    {
+      "id": 259,
+      "name": "Prophet Muhammad",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/_prophet-muhammadjpg.jpg"
+    },
+    {
+      "id": 254,
+      "name": "Pythagoras",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/kapitolinischer-pythagoras-adjustedjpg.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Queen Elizabeth II",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-queen-elizabeth-ii-march-2015jpg.jpg"
+    },
+    {
+      "id": 175,
+      "name": "R. Buckminster Fuller",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/buckminsterfuller1jpg.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Ralph Waldo Emerson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/ralph-waldo-emerson-ca1857-retouchedjpg.jpg"
+    },
+    {
+      "id": 162,
+      "name": "Rene Descartes",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/frans-hals-portret-van-renc3a9-descartesjpg.jpg"
+    },
+    {
+      "id": 183,
+      "name": "Richard Dawkins",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-richard-dawkins-cooper-union-shankbonejpg.jpg"
+    },
+    {
+      "id": 243,
+      "name": "Richard Feynman",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/richard-feynman-nobeljpg.jpg"
+    },
+    {
+      "id": 251,
+      "name": "Rick Riordan",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/rick-riordan-2007jpg.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Robert Fripp",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/robert-frippjpg.jpg"
+    },
+    {
+      "id": 180,
+      "name": "Robert Frost",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-robert-frost-nywtsjpg.jpg"
+    },
+    {
+      "id": 237,
+      "name": "Robert Fulghum",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-robert-fulghumjpg.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Robin Williams",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/robin-williams-28645153641129-28cropped29jpg.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Ronald Reagan",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-official-portrait-of-president-reagan-1981jpg.jpg"
+    },
+    {
+      "id": 221,
+      "name": "Rosa Parks",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/rosaparksjpg.jpg"
+    },
+    {
+      "id": 249,
+      "name": "Sachin Tendulkar",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/sachin-tendulkar-at-mrf-promotion-eventjpg.jpg"
+    },
+    {
+      "id": 256,
+      "name": "Salman Rushdie",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-hayfestival-2016-salman-rushdie-1-cujpg.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Salvador Dali",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-salvador-dalc3ad-1939jpg.jpg"
+    },
+    {
+      "id": 213,
+      "name": "Samuel Butler",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-samuel-butler-by-charles-goginjpg.jpg"
+    },
+    {
+      "id": 163,
+      "name": "Samuel Smiles",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-samuel-smiles-by-sir-george-reidjpg.jpg"
+    },
+    {
+      "id": 233,
+      "name": "Scott Peck",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/godfreykneller-isaacnewton-1689jpg.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Sigmund Freud",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/sigmund-freud-lifejpg.jpg"
+    },
+    {
+      "id": 201,
+      "name": "Simone Weil",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/simone-weil-1921jpg.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Socrates",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/socrates-louvrejpg.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Sophocles",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/sophocles-pushkinjpg.jpg"
+    },
+    {
+      "id": 176,
+      "name": "Soren Kirkegaard",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/kierkegaardjpg.jpg"
+    },
+    {
+      "id": 165,
+      "name": "Spiro Agnew",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-spiro-agnewjpg.jpg"
+    },
+    {
+      "id": 154,
+      "name": "Stan Laurel",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-stan-laurel-c1920jpg.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Stanislaw Jerzy Lec",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-stanislaw-j-lecjpg.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Stephen Fry",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/stephen-fry-june-2016jpg.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Stephen King",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/stephen-king2c-comiconjpg.jpg"
+    },
+    {
+      "id": 168,
+      "name": "Steve Jobs",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-steve-jobs-headshot-2010-cropjpg.jpg"
+    },
+    {
+      "id": 244,
+      "name": "Steven Tyler",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-tylernassaucolliseumjpg.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Steven Wright",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/steven-wright-1994jpg.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Sun Tzu",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/enchoen27n3200jpg.jpg"
+    },
+    {
+      "id": 204,
+      "name": "Swami Sivananda",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/krishnananda-and-sivananda-1945jpg.jpg"
+    },
+    {
+      "id": 250,
+      "name": "Swami Vivekananda",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/swami-vivekananda-1893-09-signedjpg.jpg"
+    },
+    {
+      "id": 223,
+      "name": "Terry Pratchett",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-101212terrypratchettbyluiginovi1jpg.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Theodor Adorno",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/adornojpg.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Theodore Roosevelt",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/lossy-page1-1200px-president-roosevelt-pach-brostifjpg.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Thomas A. Edison",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-thomas-edison2jpg.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Thomas Jefferson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-official-presidential-portrait-of-thomas-jefferson-28by-rembrandt-peale2c-180029jpg.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Thomas Paine",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-thomas-paine-rev1jpg.jpg"
+    },
+    {
+      "id": 130,
+      "name": "Tupac Shakur",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/tupac-amaru-shakur2jpg.jpg"
+    },
+    {
+      "id": 216,
+      "name": "Usain Bolt",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/bolt-3550997bjpg.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Victor Hugo",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-victor-hugo-by-c389tienne-carjat-1876-fulljpg.jpg"
+    },
+    {
+      "id": 173,
+      "name": "Viktor Frankl",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/viktor-frankl2jpg.jpg"
+    },
+    {
+      "id": 205,
+      "name": "Vince Lombardi",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/vince-lombardi-bart-starrjpg.jpg"
+    },
+    {
+      "id": 132,
+      "name": "Vincent Van Gogh",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-vincent-van-gogh-self-portrait-google-art-project-2845404529jpg.jpg"
+    },
+    {
+      "id": 252,
+      "name": "Visvesvaraya",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/vishveshvarayya-in-his-3027sjpg.jpg"
+    },
+    {
+      "id": 133,
+      "name": "Vladimir Lenin",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/leninensuizamarzo1916-barbaroussovietr00mcbrpng.png"
+    },
+    {
+      "id": 134,
+      "name": "Voltaire",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-nicolas-de-largillic3a8re2c-franc3a7ois-marie-arouet-dit-voltaire-28vers-1724-172529-001jpg.jpg"
+    },
+    {
+      "id": 148,
+      "name": "Voltairine de Cleyre",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-voltairine-de-cleyre-28age-3529jpg.jpg"
+    },
+    {
+      "id": 135,
+      "name": "W. C. Fields",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/w-c-fields-1938jpg.jpg"
+    },
+    {
+      "id": 136,
+      "name": "Walt Disney",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/walt-disney-1946jpg.JPG"
+    },
+    {
+      "id": 137,
+      "name": "Walt Whitman",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-walt-whitman-george-collins-coxjpg.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Wangari Maathai",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/wangari-maathaijpg.jpg"
+    },
+    {
+      "id": 138,
+      "name": "Warren Buffett",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-warren-buffett-ku-visitjpg.jpg"
+    },
+    {
+      "id": 245,
+      "name": "Wayne Dyer",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-waynedyerbyphilkonstantinjpg.jpg"
+    },
+    {
+      "id": 232,
+      "name": "Wendell Berry ",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/a-new-harvest2c-with-wendell-berry2c-henry-county2c-ky2c-2011-photograph-by-guy-mendes-28cropped29jpg.jpg"
+    },
+    {
+      "id": 152,
+      "name": "Wilbur Wright",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/wilbur-wright-cropjpg.jpg"
+    },
+    {
+      "id": 139,
+      "name": "Will Rogers",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/will-rogers-1922jpg.jpg"
+    },
+    {
+      "id": 140,
+      "name": "William Blake",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/william-blake-by-thomas-phillipsjpg.jpg"
+    },
+    {
+      "id": 141,
+      "name": "William Shakespeare",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-shakespearejpg.jpg"
+    },
+    {
+      "id": 142,
+      "name": "Winston Churchill",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/sir-winston-churchill-19086236948jpg.jpg"
+    },
+    {
+      "id": 207,
+      "name": "Wislawa Szymborska",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/szymborska-2011-28129jpg.jpg"
+    },
+    {
+      "id": 143,
+      "name": "Woodrow Wilson",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-president-woodrow-wilson-by-harris-26-ewing2c-1914-cropjpg.jpg"
+    },
+    {
+      "id": 144,
+      "name": "Woody Allen",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/woody-allen-cannes-2016jpg.jpg"
+    },
+    {
+      "id": 145,
+      "name": "Yogi Berra",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/110925jpg.jpg"
+    },
+    {
+      "id": 146,
+      "name": "Zig Ziglar",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/1200px-zig-ziglar-at-get-motivated-seminar2c-cow-palace-2009-3-24-3jpg.JPG"
+    },
+    {
+      "id": 147,
+      "name": "Zinedine Zidane",
+      "image": "http://quotescreator.com/api/quoteapi/public/media/authors/thumb/xii-prix-dic3a1logo-281848572324829-28cropped29jpg.jpg"
+    }
+  ]
+}
