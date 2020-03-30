@@ -4,19 +4,19 @@
 	<streams>
 		<stream>
 			<quality>360p</quality>
-			<uri>rudawlive/rudawlive.smil/rudawtv_240p_chunks</uri>
+			<uri>rudawlive/rudawlive.smil/rudawtv_240p_chunks.m3u8</uri>
 		</stream>
 		<stream>
 			<quality>144p</quality>
-			<uri>rudawlive/rudawlive.smil/rudawtv_360p_chunks</uri>
+			<uri>rudawlive/rudawlive.smil/rudawtv_360p_chunks.m3u8</uri>
 		</stream>
 		<stream>
 			<quality>480p</quality>
-			<uri>rudawlive/rudawlive.smil/rudawtv_chunks</uri>
+			<uri>rudawlive/rudawlive.smil/rudawtv_chunks.m3u8</uri>
 		</stream>
 		<stream>
 			<quality>720p</quality>
-			<uri>rudawlive/rudawtv_audio/chunks</uri>
+			<uri>rudawlive/rudawtv_audio/chunks.m3u8</uri>
 		</stream>
 	</streams>
 </Channel>
