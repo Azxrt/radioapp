@@ -1,0 +1,100 @@
+{
+  "radio_category": [
+    {
+      "genre_id": "1",
+      "genre_name": "dolnośląskie",
+      "genre_image": "ds.png"
+    },
+    {
+      "genre_id": "2",
+      "genre_name": "kujawsko-pomorskie",
+      "genre_image": "kp.png"
+    },
+    {
+      "genre_id": "3",
+      "genre_name": "lubelskie",
+      "genre_image": "lube.png"
+    },
+    {
+      "genre_id": "4",
+      "genre_name": "lubuskie",
+      "genre_image": "lubu.png"
+    },
+    {
+      "genre_id": "7",
+      "genre_name": "mazowieckie",
+      "genre_image": "maz.png"
+    },
+    {
+      "genre_id": "6",
+      "genre_name": "małopolskie",
+      "genre_image": "malo.png"
+    },
+    {
+      "genre_id": "17",
+      "genre_name": "Ogólnopolskie",
+      "genre_image": "pl.jpg"
+    },
+    {
+      "genre_id": "18",
+      "genre_name": "Online",
+      "genre_image": "nli.jpeg"
+    },
+    {
+      "genre_id": "8",
+      "genre_name": "opolskie",
+      "genre_image": "opo.png"
+    },
+    {
+      "genre_id": "9",
+      "genre_name": "podkarpackie",
+      "genre_image": "podk.png"
+    },
+    {
+      "genre_id": "10",
+      "genre_name": "podlaskie",
+      "genre_image": "podl.png"
+    },
+    {
+      "genre_id": "11",
+      "genre_name": "pomorskie",
+      "genre_image": "pomo.png"
+    },
+    {
+      "genre_id": "19",
+      "genre_name": "Regionalne",
+      "genre_image": "reg.jpg"
+    },
+    {
+      "genre_id": "12",
+      "genre_name": "śląskie",
+      "genre_image": "sl.png"
+    },
+    {
+      "genre_id": "13",
+      "genre_name": "świętokrzyskie",
+      "genre_image": "sw.png"
+    },
+    {
+      "genre_id": "14",
+      "genre_name": "warmińsko-mazurskie",
+      "genre_image": "wm.png"
+    },
+    {
+      "genre_id": "15",
+      "genre_name": "wielkopolskie",
+      "genre_image": "wiel.png"
+    },
+    {
+      "genre_id": "16",
+      "genre_name": "zachodniopomorskie",
+      "genre_image": "zach.png"
+    },
+    {
+      "genre_id": "5",
+      "genre_name": "łódzkie",
+      "genre_image": "lodz.png"
+    }
+  ],
+  "success": 1
+}
