@@ -28,7 +28,7 @@
     },
     {
       "category_id": "15",
-      "frequency": "fm",
+      "frequency": "online",
       "genre_id": "17",
       "id": "3",
       "isActive": "1",
@@ -106,7 +106,7 @@
     },
     {
       "category_id": "19",
-      "frequency": "fm",
+      "frequency": "online",
       "genre_id": "7",
       "id": "9",
       "isActive": "1",
@@ -353,7 +353,7 @@
     },
     {
       "category_id": "9",
-      "frequency": "fm",
+      "frequency": "online",
       "genre_id": "19",
       "id": "27",
       "isActive": "1",
@@ -405,7 +405,7 @@
     },
     {
       "category_id": "20",
-      "frequency": "fm",
+      "frequency": "online",
       "genre_id": "19",
       "id": "29",
       "isActive": "1",
