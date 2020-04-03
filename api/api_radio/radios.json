@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "count": 5,
+  "count_total": 5,
+  "pages": 1,
+  "posts": [
+    {
+      "radio_id": 38,
+      "radio_name": "ЖАРА FM",
+      "radio_image": "http://mehmetefendi.ru/radio/upload/0149-2019-04-23.png",
+      "radio_url": "http://live3.zharafm.ru:8000/live",
+      "category_name": "Chillout"
+    },
+    {
+      "radio_id": 37,
+      "radio_name": "ТНТ MUSIC",
+      "radio_image": "http://mehmetefendi.ru/radio/upload/1854-2019-04-23.png",
+      "radio_url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+      "category_name": "Рок"
+    },
+    {
+      "radio_id": 36,
+      "radio_name": "ХАЙП FM",
+      "radio_image": "http://mehmetefendi.ru/radio/upload/8395-2019-04-23.png",
+      "radio_url": "http://hfm.volna.top/HypeFM",
+      "category_name": "Клубная"
+    },
+    {
+      "radio_id": 35,
+      "radio_name": "Energy",
+      "radio_image": "http://mehmetefendi.ru/radio/upload/6464-2019-04-23.png",
+      "radio_url": "http://ic2.101.ru:8000/v1_1",
+      "category_name": "Поп музыка"
+    },
+    {
+      "radio_id": 34,
+      "radio_name": "Русская Волна",
+      "radio_image": "http://mehmetefendi.ru/radio/upload/0295-2019-04-23.png",
+      "radio_url": "http://rp.volna.top/RuWave48",
+      "category_name": "Поп музыка"
+    }
+  ]
+}

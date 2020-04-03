@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "count": 5,
+  "categories": [
+    {
+      "cid": 9,
+      "category_name": "Поп музыка",
+      "category_image": "http://mehmetefendi.ru/radio/upload/category/8798-2019-04-23.jpg",
+      "radio_count": 2
+    },
+    {
+      "cid": 8,
+      "category_name": "Chillout",
+      "category_image": "http://mehmetefendi.ru/radio/upload/category/9766-2019-04-23.jpg",
+      "radio_count": 1
+    },
+    {
+      "cid": 7,
+      "category_name": "Рок",
+      "category_image": "http://mehmetefendi.ru/radio/upload/category/6543-2019-04-23.jpg",
+      "radio_count": 1
+    },
+    {
+      "cid": 5,
+      "category_name": "Клубная",
+      "category_image": "http://mehmetefendi.ru/radio/upload/category/2544-2019-04-23.jpg",
+      "radio_count": 1
+    },
+    {
+      "cid": 4,
+      "category_name": "Ретро",
+      "category_image": "http://mehmetefendi.ru/radio/upload/category/6900-2019-04-23.jpg",
+      "radio_count": 0
+    }
+  ]
+}
