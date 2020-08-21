@@ -1,1 +1,348 @@
-[{"name":"Radio Ritmo Romántica","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/ritmopng-2f0a8png-0688d.png"},{"name":"Radio La Inolvidable","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI.mp3?csegid=20015&dist=20015","logo":"https://sss.thor.crp.pe/juga/radios/logo95png-564d9.png"},{"name":"Radio Radiomar","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logomarpng-2af0e.png"},{"name":"Radio Oasis","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logooasispng-bc296.png"},{"name":"Radio Planeta","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logoplanetapng-c2c5a.png"},{"name":"Radio Moda","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logomodapng-49c6e.png"},{"name":"Radio Nueva Q","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logonuevapng-013f0.png"},{"name":"Radio Mágica","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MAG.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logo96png-39e35.png"},{"name":"Radio Super Folk","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_FLK.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/superfolkpng-3c4ff.png"},{"name":"Radio Festiva","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_FES_S01.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/juga/radios/festiva1png-c0b80.png"},{"name":"Radio Festiva","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_FES_S01.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/juga/radios/festiva1png-c0b80.png"},{"name":"Radio Onda Cero","category":"PERU","url":"http://192.99.148.184:6720/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_onda_ceropng-7e374.png"},{"name":"Radio Disney","category":"PERU","url":"http://173.192.105.252:8000/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_disneyjpg-b2934.jpg"},{"name":"Radio La Nube","category":"PERU","url":"http://192.99.148.184:6740/;","logo":"https://sss.radioenvivo.com/juga/radios/lanubejpg-63dfd.jpg"},{"name":"1550","category":"PERU","url":"http://198.15.86.218:9436/;","logo":"https://sss.radioenvivo.com/radios/radio-a1.png"},{"name":"A1","category":"PERU","url":"http://radio.ancashserver.com:9570/;","logo":"https://sss.radioenvivo.com/radios/radio-antares.png"},{"name":"Antares","category":"PERU","url":"https://5949aa132c8fb.streamlock.net:554/ipradioantares/liveantaresradio/media_w357909965_7146.aac","logo":"https://sss.radioenvivo.com/radios/radio-antena.png"},{"name":"Antena 2000","category":"PERU","url":"http://185.76.77.113:9310/stream","logo":"https://sss.radioenvivo.com/radios/radio-arequipa.png"},{"name":"Arequipa Internacional","category":"PERU","url":"http://167.114.118.120:7084/;","logo":"https://sss.radioenvivo.com/radios/radio-boulevard-zarate.png"},{"name":"Boulevard Zarate","category":"PERU","url":"http://node-01.zeno.fm/scnfxcqndkeuv?rj-ttl=5&rj-tok=AAABbxn2A9MABoE6q_2EJWgZhA"},{"name":"Radio Oasis","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logooasispng-bc296.png"},{"name":"Radio Doble Nueve Live","category":"PERU","url":"http://198.100.158.66:9028/;stream.mp3","logo":"https://sss.radioenvivo.com/juga/radios/doble_nueve_live4jpg-7d449.jpg"},{"name":"Radio Z Rock & Pop","category":"PERU","url":"http://167.114.118.120:7440/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_z_rock_and_popjpg-29211.jpg"},{"name":"Radio 1160","category":"PERU","url":"http://192.99.148.184:3624/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-1160png-81a30.png"},{"name":"Radio Sonorama","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_SON_S01.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logosonoramapng-508a6.png"},{"name":"AOR Radio Rock Live","category":"PERU","url":"http://188.40.135.197:8442/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-arumarka.png"},{"name":"Arumarka Rock 80s","category":"PERU","url":"http://173.82.227.173:8013/live","logo":"https://sss.radioenvivo.com/radios/radio-atmosfera.png"},{"name":"Atmosfera","category":"PERU","url":"http://167.114.118.120:7032/;","logo":"https://sss.radioenvivo.com/radios/radio-blake.png"},{"name":"Blake Peru","category":"PERU","url":"https://streamingv2.shoutcast.com/RadioBlakePeru-","logo":"https://sss.radioenvivo.com/radios/radio-cinetica.png"},{"name":"Cinetica","category":"PERU","url":"http://stm39.conectastm.com:9374/;"},{"name":"Radio Moda","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logomodapng-49c6e.png"},{"name":"Radio Moda más","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD2_S01.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/moda-mas-logopng-d5c0e.png"},{"name":"Radio Comas","category":"PERU","url":"http://65.60.2.26:8044/;","logo":"https://sss.radioenvivo.com/radios/radio-comas1png-381d7.png"},{"name":"Radio Ke Buena Fm","category":"PERU","url":"http://stream.zeno.fm/8kz178gae3quv","logo":"https://sss.radioenvivo.com/juga/radios/66769341_2629249283765520_2350544221376610304_npng-e7729.png"},{"name":"Radio Okey","category":"PERU","url":"http://stream.zeno.fm/0zg01sps92quv","logo":"https://sss.radioenvivo.com/juga/radios/logo_okeyjpg-53ff5.jpg"},{"name":"Radio Super Stereo","category":"PERU","url":"http://51.77.124.144:8294/;","logo":"https://sss.radioenvivo.com/radios/radio-super-estereo1png-818d4.png"},{"name":"Radio Planeta","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logoplanetapng-c2c5a.png"},{"name":"Radio Viva FM","category":"PERU","url":"http://streamingargentino4.com.ar:5310/;stream.mp3","logo":"https://sss.radioenvivo.com/radios/radio-viva-fmpng-66e02.png"},{"name":"Megatron Mix FM","category":"PERU","url":"http://node-15.zeno.fm/rw67aty148quv?rj-ttl=5&rj-tok=AAABbxnRNAsAH4wum4rB75k3pQ","logo":"https://sss.radioenvivo.com/radios/radio-misterio.png"},{"name":"Misterio Rock and Pop","category":"PERU","url":"https://node-27.zeno.fm/puv4tp6dhhruv?rj-ttl=5&rj-tok=AAABb6sGWS8AkaMsTH_rJKURUg"},{"name":"Radio Frecuencia Primera","category":"PERU","url":"http://67.212.179.138:8084/;","logo":"https://sss.radioenvivo.com/radios/frecuencia-primerapng-a296e.png"},{"name":"Radio Fuego","category":"PERU","url":"http://167.114.118.120:7616/;"},{"name":"Radio La Mega","category":"PERU","url":"http://start.hostreamperu.com:10216/;","logo":"https://sss.radioenvivo.com/radios/radio-la-megapng-44278.png"},{"name":"Radio Top Latino","category":"PERU","url":"http://online.radiodifusion.net:8028/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-top-latino1png-4d0c8.png"},{"name":"Sonido Joven Peru","category":"PERU","url":"http://stream.zenolive.com/ne70gfxvhnruv","logo":"https://sss.radioenvivo.com/radios/radio-synthpop.png"},{"name":"Synthpop","category":"PERU","url":"http://stm29.srvstm.com:9268/;"},{"name":"Radio La Inolvidable","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI.mp3?csegid=20015&dist=20015","logo":"https://sss.thor.crp.pe/juga/radios/logo95png-564d9.png"},{"name":"Radio Mágica","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MAG.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logo96png-39e35.png"},{"name":"America","category":"PERU","url":"http://node-19.zeno.fm/ra1mw83y6mruv?rj-ttl=5&rj-tok=AAABbxn0_S8Arl1iFu_95ZLoFQ","logo":"https://sss.jugaradio.com/juga/radios/radio-boleros1png-7ce0b.png"},{"name":"Boleros Inolvidables","category":"PERU","url":"http://stream.zeno.fm/5t45zksv7mruv","logo":"https://sss.radioenvivo.com/radios/radio-conectados.png"},{"name":"Conecta2","category":"PERU","url":"http://radio.tmcreativos.com:7616/stream","logo":"https://sss.radioenvivo.com/radios/radio-fm-96.png"},{"name":"FM 96","category":"PERU","url":"http://wowzaserver.net:9610/stream;?1576687820085","logo":"https://sss.radioenvivo.com/radios/radio-fm-80.png"},{"name":"FM Hits 80s","category":"PERU","url":"http://streaming.radionomy.com/FMHits80s?AppName=vTuner","logo":"https://sss.radioenvivo.com/radios/radio-galaxia.png"},{"name":"Galaxia","category":"PERU","url":"http://st3.inkaniserver.net:8096/;","logo":"https://sss.jugaradio.com/juga/radios/radio-libertad1png-3b349.png"},{"name":"Libertad","category":"PERU","url":"http://stream.nortecloud.com:9972/live"},{"name":"Radio Fantástica","category":"PERU","url":"http://67.212.179.138:8146/;stream?1563982372466","logo":"https://sss.radioenvivo.com/radios/radio-fantastica1png-0559c.png"},{"name":"Radio Radiomar","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logomarpng-2af0e.png"},{"name":"Radio Panamericana","category":"PERU","url":"http://192.99.148.184:6710/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_panamericanajpg-0df9f.jpg"},{"name":"Radio La Kalle","category":"PERU","url":"http://167.114.118.120:7448/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_la_kallepng-a8c4a.png"},{"name":"Radio Chalaca","category":"PERU","url":"http://195.154.56.114:7060/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-chalaca1png-c9bc4.png"},{"name":"Caliente Lima","category":"PERU","url":"https://stream.zenolive.com/0g0b492hfceuv.aac"},{"name":"Radio Buenaza","category":"PERU","url":"http://108.59.8.195:8030/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-buenaza1png-ad782.png"},{"name":"Radio Ecuajey","category":"PERU","url":"http://plhradio.com:8024/;","logo":"https://sss.radioenvivo.com/radios/radio-mambopng-8202b.png"},{"name":"Radio Mambo Inn","category":"PERU","url":"http://centova.perustream.com:9992/;"},{"name":"Radio Sabrosísima","category":"PERU","url":"http://67.212.179.138:7220/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-sabrosisima1png-2c13e.png"},{"name":"Radio Salsa Gorda","category":"PERU","url":"http://stream.zeno.fm/s4s85axxaseuv","logo":"https://sss.radioenvivo.com/juga/radios/salsa_gorda1jpg-8b8d1.jpg"},{"name":"Radio Nueva Q","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logonuevapng-013f0.png"},{"name":"Radio Karibeña","category":"PERU","url":"http://167.114.118.120:7442/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_karibenapng-02e95.png"},{"name":"Radio Cumbia Mix","category":"PERU","url":"http://perseo.sistemas4g.com:5670/stream","logo":"https://sss.radioenvivo.com/juga/radios/radio_cumbia_mixjpg-0f29c.jpg"},{"name":"Radio Nova Trujillo","category":"PERU","url":"http://67.212.179.138:7064/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_nova1jpg-828eb.jpg"},{"name":"Girasol","category":"PERU","url":"http://167.114.130.228:8542/;","logo":"https://sss.radioenvivo.com/radios/radio-la-fuerte.png"},{"name":"La Fuerte","category":"PERU","url":"http://167.114.118.119:7322/;","logo":"https://sss.radioenvivo.com/radios/radio-hechicera.png"},{"name":"La Hechicera","category":"PERU","url":"http://67.212.179.138:9028/;","logo":"https://sss.radioenvivo.com/radios/radio-la-tonera.png"},{"name":"La Tonera","category":"PERU","url":"http://node-15.zeno.fm/su7qcnfgxuquv.aac?rj-ttl=5&rj-tok=AAABbxnyrN8AcrjRegvfOdv-8g","logo":"https://sss.radioenvivo.com/radios/radio-nova.png"},{"name":"Nova Chiclayo","category":"PERU","url":"http://67.212.179.138:9022/;","logo":"https://sss.radioenvivo.com/radios/radio-nova.png"},{"name":"Nova Piura","category":"PERU","url":"http://67.212.179.138:8054/;"},{"name":"Radio Ritmo Romántica","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/ritmopng-2f0a8png-0688d.png"},{"name":"Radio Amor","category":"PERU","url":"http://167.114.118.120:7450/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_amorpng-c5c86.png"},{"name":"Radio Sentimiento","category":"PERU","url":"http://167.114.118.120:7298/;","logo":"https://sss.radioenvivo.com/radios/radio-a.png"},{"name":"A","category":"PERU","url":"http://23.239.68.84:9302/;"},{"name":"Radio Amor por Cable","category":"PERU","url":"http://195.154.56.114:7020/;","logo":"https://sss.radioenvivo.com/radios/radio-amor-por-cablepng-ad2ea.png"},{"name":"Radio Fidelísima","category":"PERU","url":"http://st3.inkaniserver.net:8008/;","logo":"https://sss.radioenvivo.com/radios/radio-fidelisimapng-eaee1.png"},{"name":"Radio La Vero","category":"PERU","url":"http://node-12.zeno.fm/uuxgsk87eyduv","logo":"https://sss.radioenvivo.com/radios/radio-la-veropng-560d0.png"},{"name":"Radio Latidos","category":"PERU","url":"http://ip.peruhits.com:9944/;stream.mp3","logo":"https://sss.radioenvivo.com/radios/radio-latidospng-26294.png"},{"name":"Radio Super Amor","category":"PERU","url":"http://167.114.118.119:7950/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_superamorpng-9845c.png"},{"name":"Radio Super Folk","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_FLK.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/superfolkpng-3c4ff.png"},{"name":"Radio Inca","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_INC_SC?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logo97png-e9532.png"},{"name":"Andina","category":"PERU","url":"http://167.114.118.120:7058/;","logo":"https://sss.radioenvivo.com/radios/radio-armonia.png"},{"name":"Armonía","category":"PERU","url":"http://node-28.zeno.fm/ff945abnzeruv.aac?rj-ttl=5&rj-tok=AAABbxnyTj4A8QsUjwz0W7Pm9Q","logo":"https://sss.jugaradio.com/juga/radios/radio-calorpng-5025cpng-ae8d1.png"},{"name":"Calor Huancayo","category":"PERU","url":"http://corporacionlatina.com:8000/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-galactica.png"},{"name":"Central Galáctica","category":"PERU","url":"http://acc.sowertec.com:4062/stream","logo":"https://sss.radioenvivo.com/radios/radio-el-pueblo.png"},{"name":"El Pueblo","category":"PERU","url":"http://195.154.56.114:7010/;","logo":"https://sss.radioenvivo.com/radios/radio-elite.png"},{"name":"Elite","category":"PERU","url":"http://195.154.56.114:9242/;","logo":"https://sss.radioenvivo.com/radios/radio-frecuencia-milagritos.png"},{"name":"Frecuencia Milagritros","category":"PERU","url":"http://167.114.118.119:7628/;","logo":"https://sss.radioenvivo.com/radios/radio-inkarri.png"},{"name":"Inkarri","category":"PERU","url":"http://158.69.253.153:6355/;stream/1"},{"name":"Radio Bethel","category":"PERU","url":"http://96.31.83.86:8158/stream","logo":"https://sss.radioenvivo.com/radios/betheljpg-8f1aejpg-e88ba.jpg"},{"name":"Chami","category":"PERU","url":"http://centova.perustream.com:8050/;","logo":"https://sss.radioenvivo.com/radios/radio-gozo.png"},{"name":"Estacion Gozo","category":"PERU","url":"http://node-12.zeno.fm/swy381bkaeruv?rj-ttl=5&rj-tok=AAABbxnoYucAYkLbf7MnMTx-zw","logo":"https://sss.radioenvivo.com/radios/radio-fiel.png"},{"name":"Fiel y Verdadero","category":"PERU","url":"http://162.13.25.174/0ff3cw6gxbwtv","logo":"https://sss.radioenvivo.com/radios/radio-la-luz.png"},{"name":"La Luz","category":"PERU","url":"http://radio.transmite.pe:9310/stream","logo":"https://sss.radioenvivo.com/radios/radio-ns3png-08457.png"},{"name":"NSE Radio Barcelona","category":"PERU","url":"http://35.222.194.159/radio/8000/web.mp3","logo":"https://sss.radioenvivo.com/radios/radio-presencia.png"},{"name":"Pangoa","category":"PERU","url":"http://node-14.zeno.fm/kwxhz2yu2qruv?rj-ttl=5&rj-tok=AAABbxn-8SgA7rpaq1bvoUIj-Q","logo":"https://sss.radioenvivo.com/radios/radio-cristo-vidapng-6ff15.png"},{"name":"Radio Cristo Vida","category":"PERU","url":"http://165.227.185.225:8009/stream","logo":"https://sss.radioenvivo.com/radios/radio-gozopng-ff96d.png"},{"name":"Radio Gozo","category":"PERU","url":"http://radio.gisslive.com:9006/stream","logo":"https://sss.radioenvivo.com/radios/radio-libertad-mundopng-35549.png"},{"name":"Radio Libertad Mundo","category":"PERU","url":"http://162.244.80.118:3727/;"},{"name":"Radio Asia World","category":"PERU","url":"http://178.32.62.172:8600/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-asia-worldpng-3d2e6.png"},{"name":"Radio Electrokpop","category":"PERU","url":"http://stream.zenolive.com/gg4s88ru72quv","logo":"https://sss.radioenvivo.com/radios/electrokpop-radiopng-594ac.png"},{"name":"Radio Generación Kpop","category":"PERU","url":"http://192.99.14.225:9962/;","logo":"https://sss.radioenvivo.com/radios/genracion-kpop-radiopng-c1a7a.png"},{"name":"Radio Kpop Mix AQP","category":"PERU","url":"http://node-25.zeno.fm/9smw3586trquv?rj-ttl=5&rj-tok=AAABbpCo2YYAIOZ6JEfJ9Wb0UQ"},{"name":"Radio Kpop Replay","category":"PERU","url":"https://kpopreplay.radioca.st/;","logo":"https://sss.radioenvivo.com/radios/radio-kpop-replaypng-8c221.png"},{"name":"Radio Kpop Way","category":"PERU","url":"https://streamer.radio.co/s06b196587/listen","logo":"https://sss.radioenvivo.com/radios/radio-kpop-way1png-b5ef2.png"},{"name":"Radio Anime Obsesion","category":"PERU","url":"http://animeobsesion.pe:8000/;","logo":"https://sss.radioenvivo.com/radios/56325.jpg"},{"name":"Radio Otakus Dream","category":"PERU","url":"http://serv.1fm.me:8004/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-rakuen.png"},{"name":"Rakuen","category":"PERU","url":"http://cassini.shoutca.st:8313/stream/1","logo":"https://sss.radioenvivo.com/radios/radio-dirty.png"},{"name":"Dirty Beats","category":"PERU","url":"http://stream.dbr.fm/s0c8073730/listen","logo":"https://sss.radioenvivo.com/radios/radio-la-grande.png"},{"name":"La Grande","category":"PERU","url":"http://stream.onliveperu.com:9320/;"},{"name":"Radio Dance Perú","category":"PERU","url":"http://94.23.221.158:9197/stream","logo":"https://sss.radioenvivo.com/radios/dance-peru-radiopng-e0031.png"},{"name":"Radio Full Techno","category":"PERU","url":"http://67.212.179.138:7030/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-full-technopng-834f1.png"},{"name":"Radio Melody","category":"PERU","url":"http://sistemas.melodyhd.com:8513/;","logo":"https://sss.radioenvivo.com/radios/radio-melodypng-5347c.png"},{"name":"Radiodancing","category":"PERU","url":"http://67.212.179.138:7030/;","logo":"https://sss.radioenvivo.com/radios/radio-revolucion.png"},{"name":"Revolucion Mix","category":"PERU","url":"http://167.114.209.176:7022/;","logo":"https://sss.radioenvivo.com/radios/radio-technomania.png"},{"name":"Technomania Peru Online","category":"PERU","url":"http://streaming.radionomy.com/2MClub","logo":"https://sss.radioenvivo.com/radios/radio-jazz-contempopng-93162.png"},{"name":"Radio Jazz Contempo","category":"PERU","url":"http://198.100.158.66:9098/;","logo":"https://sss.radioenvivo.com/radios/13915.png"},{"name":"Radio Filarmonia","category":"PERU","url":"http://m.mediastream.pe/av_filarmonia/livestream/playlist.m3u8","logo":"https://sss.radioenvivo.com/radios/radio-bossa-novapng-646ff.png"},{"name":"Radio Bosanova Peru","category":"PERU","url":"http://195.154.56.114:9056/;"},{"name":"Radio Exitosa","category":"PERU","url":"http://167.114.118.119:7450/;","logo":"https://sss.radioenvivo.com/juga/radios/radio_exitosapng-3462c.png"},{"name":"Radio Onda Azul","category":"PERU","url":"http://167.114.118.120:7160/stream/1/","logo":"https://sss.radioenvivo.com/radios/radio-ancash.png"},{"name":"Ancash","category":"PERU","url":"http://servidorperuano.com:8001/;stream.mp3","logo":"https://sss.radioenvivo.com/radios/radio-fpp.png"},{"name":"FPP","category":"PERU","url":"http://198.100.158.66:9064/;","logo":"https://sss.radioenvivo.com/radios/radio-la-voz.png"},{"name":"La voz","category":"PERU","url":"http://radio.sistemasandinos.org:7096/;","logo":"https://sss.radioenvivo.com/radios/radio-libertad-trujillo.png"},{"name":"Libertad Trujillo","category":"PERU","url":"http://162.244.80.118:3727/;","logo":"https://sss.radioenvivo.com/radios/radio-melodia.png"},{"name":"Melodia Arequipa","category":"PERU","url":"http://142.44.218.13:9302/;","logo":"https://sss.radioenvivo.com/radios/radio-nacional.png"},{"name":"Nacional","category":"PERU","url":"https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8","logo":"https://sss.radioenvivo.com/radios/radio-nycolt.png"},{"name":"Nycol","category":"PERU","url":"http://node-11.zeno.fm/rh8heu8yqhruv?rj-ttl=5&rj-tok=AAABbxn8uroAF49gxWDzYsXScg","logo":"https://sss.radioenvivo.com/radios/radio-od.png"},{"name":"OD Noticias","category":"PERU","url":"http://78.129.224.21:3774/;","logo":"https://sss.radioenvivo.com/radios/radio-ovacionpng-70752.png"},{"name":"Radio Ovacion","category":"PERU","url":"https://5949aa132c8fb.streamlock.net:554/ipradioovacion1/liveovacion1radio/chunklist_w1685885910.m3u8"},{"name":"Radio Bienestar","category":"PERU","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/BIENESTAR.mp3?csegid=20015&dist=20015","logo":"https://sss.radioenvivo.com/radios/logo98png-6ccb9.png"},{"name":"Jose Luis Perez A","category":"PERU","url":"http://stream.zenolive.com/w4e7sgs70feuv","logo":"https://sss.radioenvivo.com/radios/radio-nutrisalud.png"},{"name":"Nutrisalud de Pasco","category":"PERU","url":"https://node-13.zeno.fm/076eshpy53duv?rj-ttl=5&rj-tok=AAABbzPkM-sACLajXM5EBabtvg"},{"name":"Radio Cielo","category":"PERU","url":"http://167.114.118.120:7342/;","logo":"https://sss.radioenvivo.com/radios/radio-cielo1png-17d86.png"}]
+[
+  {
+    "name": "Chennai",
+    "channels": [
+      {
+        "id": "ar-rahman-lite-radio",
+        "name": "A R Rahman Lite Radio",
+        "website": "http://southradios.com",
+        "src": "https://svs.itworkscdn.net/rudawlive/rudawtv_audio/chunks.m3u8"
+      },
+      {
+        "id": "a-r-rahman-radio",
+        "name": "A R Rahman Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8328/;"
+      },
+      {
+        "id": "ap-myindmedia",
+        "name": "AP MyIndMedia",
+        "website": "http://www.myindmedia.com/",
+        "src": "http://52.3.202.102:8030/;"
+      },
+      {
+        "id": "bible-radio-new-testament",
+        "name": "Bible Radio - New Testament",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8429/;"
+      },
+      {
+        "id": "bible-reading-the-gospel",
+        "name": "Bible Reading - The Gospel",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8436/;"
+      },
+      {
+        "id": "btc-tamil-fm",
+        "name": "BTC Tamil FM",
+        "website": "http://www.btctamil.com",
+        "src": "http://199.175.48.216:8080/;"
+      },
+      {
+        "id": "chennaichristianradio",
+        "name": "Chennai Christian Radio",
+        "website": "http://chennaichristianradio.com/",
+        "src": "http://5.10.69.105/stream2?.mp3"
+      },
+      {
+        "id": "christian-fm",
+        "name": "Christian FM",
+        "website": "http://christianfm.in/",
+        "src": "http://37.187.90.121:4002/stream"
+      },
+      {
+        "id": "elurchi-radio",
+        "name": "Elurchi Radio",
+        "website": "http://elurchi.com/",
+        "src": "http://192.240.97.69:9201/stream"
+      },
+      {
+        "id": "freddy-joseph-en-meetpar",
+        "name": "Freddy Joseph - En Meetpar",
+        "website": "https://www.youtube.com/user/freddyjosephministry",
+        "src": "http://212.83.138.48:8440/;"
+      },
+      {
+        "id": "harris-jayaraj-radio",
+        "name": "Harris Jayaraj Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8352/;"
+      },
+      {
+        "id": "hindu-devotional-radio",
+        "name": "Hindu Devotional Radio",
+        "website": "http://hindudevotionalradio.com/",
+        "src": "http://66.55.145.43:7350/stream"
+      },
+      {
+        "id": "ilayamaan-radio",
+        "name": "Ilayamaan Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8086/;"
+      },
+      {
+        "id": "ilayaraja-lite-radio",
+        "name": "Ilayaraja Lite Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8340/;"
+      },
+      {
+        "id": "ilayaraja-radio",
+        "name": "Ilayaraja Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8324/;"
+      },
+      {
+        "id": "inbam-fm-radio",
+        "name": "Inbam FM",
+        "website": "http://www.inbamfm.com/",
+        "src": "http://stream.radio.co/sf55ced545/listen"
+      },
+      {
+        "id": "ivanna-shalom",
+        "name": "Ivanna Shalom",
+        "website": "https://www.ivannashalom.com",
+        "src": "http://stream.radio.co/s2e022642f/listen"
+      },
+      {
+        "id": "kj-yesudas-radio",
+        "name": "KJ Yesudas Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8251/;"
+      },
+      {
+        "id": "naam-tamilar-fm",
+        "name": "Naam Tamilar FM",
+        "website": "http://www.naamtamilar.org",
+        "src": "http://sc.cobrasoftwares.in:8012/;"
+      },
+      {
+        "id": "palaiya-paadal-radio",
+        "name": "Palaiya Paadal Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8090/;"
+      },
+      {
+        "id": "pudhu-paadal-radio",
+        "name": "Pudhu Paadal Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8336/;"
+      },
+      {
+        "id": "radio-city-kaadhal",
+        "name": "Radio City Kaadhal",
+        "website": "http://radiocity.in/",
+        "src": "http://prclive1.listenon.in:9936/;"
+      },
+      {
+        "id": "radio-city-kamal-haasan-hits",
+        "name": "Radio City Kamal Haasan Hits",
+        "website": "http://radiocity.in/",
+        "src": "http://prclive1.listenon.in:8836/;"
+      },
+      {
+        "id": "radio-city-s-p-balasubrahmanyam-hits",
+        "name": "Radio City S. P Balasubrahmanyam Hits",
+        "website": "http://radiocity.in/",
+        "src": "http://prclive1.listenon.in:8816/;"
+      },
+      {
+        "id": "radio-city-tamil",
+        "name": "Radio City Tamil",
+        "website": "http://radiocity.in/",
+        "src": "http://prclive1.listenon.in:9948/;"
+      },
+      {
+        "id": "radio-city-tamil-gold",
+        "name": "Radio City Tamil Gold",
+        "website": "http://radiocity.in/",
+        "src": "http://prclive1.listenon.in:9930/;"
+      },
+      {
+        "id": "spb-radio",
+        "name": "SPB Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8344/;"
+      },
+      {
+        "id": "spice-fm",
+        "name": "Spice FM",
+        "website": "https://www.spicefm.in",
+        "src": "http://chennai.spicefm.in:8000/spice_b"
+      },
+      {
+        "id": "tamil-beat-radio",
+        "name": "Tamil Beat Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8094/;"
+      },
+      {
+        "id": "tamil-christian-radio",
+        "name": "Tamil Christian Radio",
+        "website": "http://tamilchristianradio.org",
+        "src": "http://37.187.90.121:3694/;"
+      },
+      {
+        "id": "tamil-lite-radio",
+        "name": "Tamil Lite Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8348/;"
+      },
+      {
+        "id": "tamil-panpalai",
+        "name": "Tamil Panpalai",
+        "website": "http://tamilpanpalai.com",
+        "src": "http://equinox.shoutca.st:9950/stream128"
+      },
+      {
+        "id": "thenkatchi-ko-swaminathan",
+        "name": "Thenkatchi-ko Swaminathan",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8305/;"
+      },
+      {
+        "id": "vaanmalarfm",
+        "name": "Vaanmalar FM",
+        "website": "http://www.vaanmalarfm.in/",
+        "src": "http://66.55.145.43:7364/stream"
+      },
+      {
+        "id": "yuvan-sankar-raja-radio",
+        "name": "Yuvan Sankar Raja Radio",
+        "website": "http://southradios.com",
+        "src": "http://212.83.138.48:8360/;"
+      }
+    ]
+  },
+  {
+    "name": "Colombo",
+    "channels": [
+      {
+        "id": "athavan-radio",
+        "name": "ATHAVAN Radio",
+        "website": "http://athavanradio.com",
+        "src": "http://198.178.123.2:9038/;"
+      },
+      {
+        "id": "bestcoast-fm",
+        "name": "bestcoast.fm",
+        "website": "https://bestcoast.fm",
+        "src": "http://206.190.136.141:6179/Live"
+      },
+      {
+        "id": "fox914",
+        "name": "Fox 91.4 FM",
+        "website": "http://www.fox914.com/",
+        "src": "http://72.46.136.154:7061/;"
+      },
+      {
+        "id": "goldfm",
+        "name": "Gold FM Sri Lanka",
+        "website": "http://www.goldfm.lk/",
+        "src": "http://209.133.216.3:7048/stream"
+      },
+      {
+        "id": "hirufm",
+        "name": "Hiru FM",
+        "website": "http://www.hirufm.lk",
+        "src": "http://hirufm.asiabroadcasting.stream:7018/;"
+      },
+      {
+        "id": "kissfm",
+        "name": "Kiss FM 96.9 Sri Lanka",
+        "website": "http://kissfm.lk/",
+        "src": "http://s3.voscast.com:8404/;"
+      },
+      {
+        "id": "lite87",
+        "name": "Lite 87 FM",
+        "website": "http://lite87.com/",
+        "src": "http://cdn1.streamcase.net:8020/live.mp3"
+      },
+      {
+        "id": "radio99",
+        "name": "Radio 99",
+        "website": "http://www.radio99.lk/",
+        "src": "http://www.radio99.lk:8000/;"
+      },
+      {
+        "id": "realradio",
+        "name": "Real Radio",
+        "website": "http://realradio.lk/",
+        "src": "http://s3.voscast.com:8406/;"
+      },
+      {
+        "id": "redfm",
+        "name": "Red FM 99.5",
+        "website": "http://www.redfm.lk/",
+        "src": "http://shaincast.caster.fm:47830/listen.mp3"
+      },
+      {
+        "id": "shaafm",
+        "name": "Shaa FM 91.1",
+        "website": "http://www.shaafm.lk/",
+        "src": "http://shaafm.asiabroadcasting.stream:7073/;"
+      },
+      {
+        "id": "shakthifm",
+        "name": "Shakthi FM",
+        "website": "http://www.shakthifm.com/",
+        "src": "http://live.trusl.com:1160/;?type=http&nocache=0"
+      },
+      {
+        "id": "sirasa",
+        "name": "Sirasa FM",
+        "website": "http://www.sirasa.com",
+        "src": "http://76.164.217.100:7024/stream"
+      },
+      {
+        "id": "siyatha",
+        "name": "Siyatha FM 98.2",
+        "website": "http://www.siyatha.com/",
+        "src": "http://s3.voscast.com:8408/;"
+      },
+      {
+        "id": "slbc-radio-sri-lanka-97-4-fm",
+        "name": "SLBC Radio Sri Lanka 97.4 FM",
+        "website": "http://www.slbc.lk/",
+        "src": "http://220.247.227.51:8000/stream"
+      },
+      {
+        "id": "sooriyanfm",
+        "name": "Sooriyan FM",
+        "website": "http://www.sooriyanfm.lk/",
+        "src": "http://sooriyanfm.asiabroadcasting.stream:7071/;"
+      },
+      {
+        "id": "sunfm",
+        "name": "Sun FM 98.9",
+        "website": "http://www.sunfm.lk/",
+        "src": "http://sunfm.asiabroadcasting.stream:7058/;"
+      },
+      {
+        "id": "tnl-radio",
+        "name": "TNL Radio",
+        "website": "http://www.tnlradio.com/",
+        "src": "http://cdn2.streamcase.net:8010/live.mp3"
+      },
+      {
+        "id": "varnamfm",
+        "name": "Varnam FM 90.4",
+        "website": "http://www.varnamfm.com/",
+        "src": "http://s3.voscast.com:8402/;"
+      },
+      {
+        "id": "yfm",
+        "name": "Y FM 92.7",
+        "website": "http://www.yfm.lk/",
+        "src": "http://76.164.217.100:7036/stream"
+      },
+      {
+        "id": "yesfmonline",
+        "name": "Yes FM",
+        "website": "http://www.yesfmonline.com/",
+        "src": "http://76.164.217.100:7030/;"
+      }
+    ]
+  }
+]
