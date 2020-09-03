@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "name": "Yasser AlDosari",
     "category": "Muslim Radios",
     "url": "http://184.173.185.71:9984/;",
@@ -934,7 +935,7 @@
     "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/029.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
-   {
+  {
     "name": "América Dance 90's",
     "category": "EURODANCE - MUSIC",
     "url": "http://stm8.srvstm.com:8212/1",
@@ -2244,7 +2245,7 @@
   },
   {
     "name": "Fox Sports Radio 1340 (Florence, AL)",
-    "url": "https://prod-34-83-63-130.wostreaming.net/bigriver-wsbmammp3-ibc1,
+    "url": "https://prod-34-83-63-130.wostreaming.net/bigriver-wsbmammp3-ibc1",
     "category": "SPORTS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22711q.png"
   },
@@ -2566,7 +2567,7 @@
     "logo": "http://cdn-radiotime-logos.tunein.com/s256684q.png",
     "category": "SPORTS"
   },
-   {
+  {
     "name": "CALM RADIO - Disney",
     "category": "RELAXATION - MUSIC",
     "url": "http://streams.calmradio.com:19528/stream/1/",
@@ -3477,4 +3478,5 @@
     "category": "RELAXATION - MUSIC",
     "url": "http://strm112.1.fm:80/spa_mobile_mp3",
     "logo": "https://cdn-radiotime-logos.tunein.com/s126408q.png"
-  }]
+  }
+]
