@@ -1,13 +1,13 @@
 [
   {
     "category": "KURDI",
-    "logo": "https://www.rudaw.net/images/logo.svg",
+    "logo": "https://wwitv.com/tvlogos/b6591.jpg",
     "name": "Rudaw News Radio",
     "url": "http://audiostreaming.itworkscdn.com:9006/;*.nsv"
   },
   {
     "category": "KURDI",
-    "logo": "https://www.rudaw.net/images/logo.svg",
+    "logo": "https://wwitv.com/tvlogos/b6591.jpg",
     "name": "Rudaw Tv",
     "url": "https://svs.itworkscdn.net/rudawlive/rudawtv_audio/chunks.m3u8"
   },
