@@ -87,7 +87,7 @@
     "name": "Khaled AlQahtani Radio",
     "category": "Muslim Radios",
     "url": "http://184.173.185.71:9970/",
-    "logo": "https://podcasts.qurancentral.com/_artwork/khaled-al-qahtani.jpg"
+    "logo": "http://quraan.us/en/wp-content/uploads/khaled-alqahtany.jpg"
   },
   {
     "name": "Abdulrahman AlMajed",
@@ -1080,24 +1080,6 @@
     "logo": "https://cdn-radiotime-logos.tunein.com/s183202q.png"
   },
   {
-    "name": "prj - Eurodance",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://eurodance.su:8000/;stream.nsv?17",
-    "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png"
-  },
-  {
-    "name": "prj- DreamDance",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://eurodance.su:8002/;stream.nsv?43",
-    "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png"
-  },
-  {
-    "name": "EuroDanceMedia prj",
-    "category": "EURODANCE - MUSIC",
-    "url": "http://eurodance.su:8004/;stream.nsv?5",
-    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
-  },
-  {
     "name": "Radio Studio Souto",
     "category": "EURODANCE - MUSIC",
     "url": "http://192.99.150.31:8056/stream",
@@ -1390,6 +1372,42 @@
     "category": "EURODANCE - MUSIC",
     "url": "http://s2.slotex.pl:10064/;",
     "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c5/a7/11148/c175.png"
+  },
+  {
+    "name": "prj - Eurodance",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://eurodance.su:8000/;stream.nsv?17",
+    "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png"
+  },
+  {
+    "name": "prj- DreamDance",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://eurodance.su:8002/;stream.nsv?43",
+    "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png"
+  },
+  {
+    "name": "EuroDanceMedia prj",
+    "category": "EURODANCE - MUSIC",
+    "url": "http://eurodance.su:8004/;stream.nsv?5",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "Real Dance Radio",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://uk6.internet-radio.com/proxy/realdanceradio?mp=/live",
+    "logo": "https://cdn-profiles.tunein.com/s142014/images/logoq.png"
+  },
+  {
+    "name": "USA Dance Mix",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://ais-edge07-live365-dal02.cdnstream.com/a70692",
+    "logo": "https://cdn-profiles.tunein.com/s218645/images/logoq.jpg"
+  },
+  {
+    "name": "PulseEDM Dance Music Radio",
+    "category": "EURODANCE - MUSIC",
+    "url": "https://ais-sa2.cdnstream1.com/1373_128",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s135237q.png"
   },
   {
     "name": "Bloomberg Radio (US)",
