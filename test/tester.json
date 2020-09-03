@@ -1547,12 +1547,6 @@
     "logo": "http://cdn-radiotime-logos.tunein.com/s25670q.png"
   },
   {
-    "name": "NewsRadio WTAX (Springfield, US)",
-    "url": "http://16973.live.streamtheworld.com/WTAXAM_SC",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-profiles.tunein.com/s23056/images/logoq.png"
-  },
-  {
     "name": "AM950 The Progressive Voice of Minnesota (Eden Prairie, US)",
     "url": "http://stream.am950ktnf.com:8000/",
     "category": "PUBLIC RADIO STATIONS",
@@ -1590,13 +1584,13 @@
   },
   {
     "name": "Silver 98.3 FM (Ghana)",
-    "url": "http://212.83.150.15:8054/stream",
+    "url": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-profiles.tunein.com/s254613/images/logoq.jpg"
   },
   {
     "name": "WYPR-HD2 (Baltimore, US)",
-    "url": "http://18153.live.streamtheworld.com/WYPR_HD2_SC",
+    "url": "https://22113.live.streamtheworld.com/WYPR_HD2",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24791q.png"
   },
@@ -1794,7 +1788,7 @@
   },
   {
     "name": "KPBS-FM (San Diego, CA)",
-    "url": "http://kpbs.streamguys.tv/",
+    "url": "https://kpbs.streamguys1.com/kpbs-aac",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-profiles.tunein.com/s34633/images/logoq.jpg"
   },
@@ -1812,13 +1806,13 @@
   },
   {
     "name": "WINA (Charlottesville, VA)",
-    "url": "http://17413.live.streamtheworld.com/WINAAM_SC",
+    "url": "https://prod-54-196-8-172.wostreaming.net/saga-winaamaac-hlsc1.m3u8",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s29603q.png"
   },
   {
     "name": "WSBR Radio (Boca Raton, FL)",
-    "url": "http://17643.live.streamtheworld.com:80/WSBRAM_SC",
+    "url": "https://22073.live.streamtheworld.com/WWNNAMAAC.aac",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22712q.png"
   },
@@ -1830,7 +1824,7 @@
   },
   {
     "name": "Business Eleven Ten K.T.E.K. (Houston-Galveston, TX)",
-    "url": "http://17973.live.streamtheworld.com:80/KTEKAM_SC",
+    "url": "http://18723.live.streamtheworld.com/KNTHAMAAC.aac",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26600q.png"
   },
@@ -1881,12 +1875,6 @@
     "url": "http://96.66.22.149:98/broadwave.mp3",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-profiles.tunein.com/s30193/images/logoq.png"
-  },
-  {
-    "name": "OC Talk Radio (San Luis Obispo, CA)",
-    "url": "http://amber.streamguys.com:4850/live",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-profiles.tunein.com/s114454/images/logoq.jpg"
   },
   {
     "name": "VoiceAmerica Health and Wellness (US)",
@@ -1950,7 +1938,7 @@
   },
   {
     "name": "Sacred Heart Radio (Seattle-Tacoma, WA)",
-    "url": "http://sacredheartradio.miriamtech.com:8000/live",
+    "url": "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s31758q.png"
   },
@@ -1962,7 +1950,7 @@
   },
   {
     "name": "EWTN RADIO CLASSICS",
-    "url": "http://www.ewtn.com/radio/streaming/radio-classics-mp3",
+    "url": "https://ewtn-ice.streamguys1.com/classics-aac",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s214372q.png"
   },
@@ -2022,25 +2010,25 @@
   },
   {
     "name": "WPYR (Baton Rouge, LA)",
-    "url": "http://38.107.243.219:8610/",
+    "url": "https://ccr.streamguys1.com/batonrouge",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24222q.png"
   },
   {
     "name": "Mediatrix Radio (Greer, SC)",
-    "url": "http://162.244.80.33:6660",
+    "url": "https://streamingv2.shoutcast.com/crisc",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27880q.png"
   },
   {
     "name": "WQNO (New Orleans, LA)",
-    "url": "http://38.107.243.219:8664/",
+    "url": "https://ccr.streamguys1.com/neworleans",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s23146q.png"
   },
   {
     "name": "The Sword (Salina-Manhattan, KS)",
-    "url": "http://slave.irdb.network/kswzlp.mp3",
+    "url": "https://s.radiowave.io/kswzlp.aac",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s251340q.png"
   },
@@ -2088,7 +2076,7 @@
   },
   {
     "name": "British Comedy Channel - ROK Classic Radio (UK)",
-    "url": "http://s1.viastreaming.net:9155",
+    "url": "https://streaming03.zfast.co.uk/proxy/rokclassical",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s131693q.png"
   },
@@ -2124,21 +2112,15 @@
   },
   {
     "name": "American Comedy Channel - ROK Classic Radio Network (UK)",
-    "url": "http://s1.viastreaming.net:9160",
+    "url": "https://streaming01.zfast.co.uk/proxy/roksta16",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s131694q.png"
   },
   {
     "name": "Abacus.fm - The Goon Show (UK)",
-    "url": "http://178.33.232.106:8026/stream",
+    "url": "http://185.80.221.113:8052/stream",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s136829q.png"
-  },
-  {
-    "name": "Blue Planet Prank Radio (US)",
-    "url": "http://38.135.36.122:9610/stream",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s116380q.png"
   },
   {
     "name": "I AM RAPAPORT: STEREO PODCAST aka PLEASURE PAIN (US)",
@@ -2147,14 +2129,8 @@
     "logo": "http://cdn-radiotime-logos.tunein.com/s243754q.png"
   },
   {
-    "name": "ComedyPipe Radio Network (US)",
-    "url": "http://100.4.210.155:80/",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s117939q.png"
-  },
-  {
     "name": "The WHIP Radio (US)",
-    "url": "http://192.240.102.198:14030/stream",
+    "url": "https://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s232577q.png"
   },
@@ -2208,7 +2184,7 @@
   },
   {
     "name": "West Coast Radio (Banjul, Gambia)",
-    "url": "http://stream.westcoast.gm:8000/;",
+    "url": "http://stream.zeno.fm/1mpmr548z4zuv",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s16134q.png"
   },
@@ -2231,18 +2207,6 @@
     "logo": "http://cdn-radiotime-logos.tunein.com/s111146q.png"
   },
   {
-    "name": "Bridge Radio (Nigeria)",
-    "url": "http://s6.myradiostream.com:44844/",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s293836q.png"
-  },
-  {
-    "name": "Kahama FM (Kahama, Tanzania)",
-    "url": "http://87.117.228.65:28439/",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s250315q.png"
-  },
-  {
     "name": "FBRN Red Bowl (US)",
     "url": "http://192.169.216.237:8820/stream",
     "category": "PUBLIC RADIO STATIONS",
@@ -2253,12 +2217,6 @@
     "url": "http://live.canstream.co.uk:8000/phoenix.mp3",
     "category": "PUBLIC RADIO STATIONS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s89517q.png"
-  },
-  {
-    "name": "WYBCX (US)",
-    "url": "http://107.170.32.250:8000/x.mp3",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s130806q.png"
   },
   {
     "name": "BBC Radio 5 live (London, UK)",
@@ -2286,7 +2244,7 @@
   },
   {
     "name": "Fox Sports Radio 1340 (Florence, AL)",
-    "url": "https://18313.live.streamtheworld.com/KRLVAM_SC",
+    "url": "https://prod-34-83-63-130.wostreaming.net/bigriver-wsbmammp3-ibc1,
     "category": "SPORTS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22711q.png"
   },
@@ -2322,7 +2280,7 @@
   },
   {
     "name": "The Fan (Columbus, OH)",
-    "url": "http://18133.live.streamtheworld.com:3690/WBNSFM_SC",
+    "url": "https://oom-radiohio.streamguys1.com/cols/wbnsfm.mp3",
     "category": "SPORTS",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27545q.png"
   },
@@ -2394,15 +2352,9 @@
   },
   {
     "name": "NBC Sports Radio",
-    "url": "https://live.wostreaming.net/direct/westwoodone-nbcsportsmp3-ibc1",
+    "url": "http://tunein.streamguys1.com/NBC_Sports_Radio",
     "category": "SPORTS",
     "logo": "http://cdn-profiles.tunein.com/s179779/images/logoq.png"
-  },
-  {
-    "name": "The Ticket (Fort Wayne, IN)",
-    "url": "http://17443.live.streamtheworld.com/WGLAM.mp3",
-    "category": "SPORTS",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s29048q.png"
   },
   {
     "name": "ESPN Radio Las Vegas (Las Vegas, NV)",
