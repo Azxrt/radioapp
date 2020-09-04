@@ -1,9 +1,9 @@
 [
   {
-    "category": "Malatya",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_72368_IMG-20200529-WA0003.jpg",
-    "name": "Radyo 44",
-    "url": "https://radyo44.80.yayin.com.tr"
+    "category": "Arabesk ",
+    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_89832_indir (4).jpg",
+    "name": "Radyo M Van",
+    "url": "http://167.86.100.31:9300/"
   },
   {
     "category": "Karışık",
@@ -268,6 +268,12 @@
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/ankara-cagdas-sanat.jpg",
     "name": "Ankara Çağdaş Sanat",
     "url": "http://yayin.netradyom.com:11150/"
+  },
+  {
+    "category": "Malatya",
+    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_72368_IMG-20200529-WA0003.jpg",
+    "name": "Radyo 44",
+    "url": "https://radyo44.80.yayin.com.tr"
   },
   {
     "category": "Karışık",
@@ -1495,7 +1501,7 @@
   },
   {
     "category": "Elektronik",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_17453_favicon.png",
+    "logo": "",
     "name": "DREAMBASE Radio",
     "url": "http://185.50.68.27:8080/"
   },
@@ -2370,7 +2376,7 @@
     "url": "http://sunucu.radyodinle.com:9900"
   },
   {
-    "category": "",
+    "category": "Turkey",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/hatay-radyo-akdeniz.jpg",
     "name": "Hatay Radyo Akdeniz",
     "url": "http://yayin.netyayin.net:7077/;stream.nsv"
@@ -3229,7 +3235,7 @@
   },
   {
     "category": "Yabancı Pop",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_69089_favicon.png",
+    "logo": "",
     "name": "Mak Göç Bir Radyo",
     "url": "http://185.50.68.27:555/"
   },
@@ -4092,7 +4098,7 @@
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac"
   },
   {
-    "category": "",
+    "category": "Turkey",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/popland.jpg",
     "name": "Popland",
     "url": "http://46.20.3.246/stream/46/"
@@ -4788,7 +4794,7 @@
     "url": "http://balfm.kesintisizyayin.com:9966/"
   },
   {
-    "category": "",
+    "category": "Turkey",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radyo-balkan.jpg",
     "name": "Radyo Balkan",
     "url": "http://sesle.radyobalkan.com:8050/stream"
@@ -4848,7 +4854,7 @@
     "url": "http://yayin1.yayindakiler.com:3190"
   },
   {
-    "category": "",
+    "category": "Turkey",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radyo-boyko.jpg",
     "name": "Radyo Boyko",
     "url": "http://server.radyoboyko.com:8050/;"
@@ -5610,12 +5616,6 @@
     "url": "http://94.102.2.199:9710"
   },
   {
-    "category": "Arabeks ",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_89832_indir (4).jpg",
-    "name": "Radyo M Van",
-    "url": "http://167.86.100.31:9300/"
-  },
-  {
     "category": "Yabancı",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radyo-maestro.jpg",
     "name": "Radyo Maestro",
@@ -6109,7 +6109,7 @@
   },
   {
     "category": "Türk Halk Müziği",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_99308_favicon.png",
+    "logo": "",
     "name": "Radyo Sevda",
     "url": "http://95.173.162.184:9320/"
   },
@@ -7309,7 +7309,7 @@
   },
   {
     "category": "Pop",
-    "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radio_54117_favicon.png",
+    "logo": "",
     "name": "Tarsus Yaren Fm",
     "url": "http://33.tarsusfm.net:9830/"
   },
