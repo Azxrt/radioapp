@@ -1,24 +1,1508 @@
-[  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/bigfmae.jpg",
-    "name": "pls radio",
-    "url": "http://uk2.internet-radio.com:8024/listen.pls",
-    "category": "Delhi Live"
+[
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-abadan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-abadan.jpg",
+    "name": "آبادان"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/radiomirchi.jpg",
-    "name": "Mirchi Ahmedabad 93.5",
-    "url": "http://mirchiahmedabad-lh.akamaihd.net/i/Mirchi_Ahmedabad@693083/index_1_a-p.m3u8?sd=10&rebase=on",
-    "category": "Delhi Live"
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-tabriz/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-tabriz.jpg",
+    "name": "آذربایجان شرقی"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/radiomirchi.jpg",
-    "name": "Mirchi Chandigard",
-    "url": "http://mirchichandigar-lh.akamaihd.net/i/Mirchi_Chandigarh@693086/master.m3u8",
-    "category": "Delhi Live"
-  },  
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-azgharbi.jpg",
+    "name": "آذربایجان غربی"
+  },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/bigfm927.jpg",
-    "name": "m3u raio",
-    "url": "http://uk2.internet-radio.com:8024/listen.m3u",
-    "category": "Delhi Live"
-  }]
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ardebil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-ardebil.jpg",
+    "name": "اردبیل"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-esfahan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-esfahan.jpg",
+    "name": "اصفهان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-alborz/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-alborz.jpg",
+    "name": "البرز"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ilam/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-ilam.jpg",
+    "name": "ایلام"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bushehr/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-booshehr.jpg",
+    "name": "بوشهر"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-shahrekord/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-charmahal.jpg",
+    "name": "چهارمحال و بختیاری"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanjonoobi/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-khorasanjonoobi.jpg",
+    "name": "خراسان جنوبی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanrazavi/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-khorasanrazavi.jpg",
+    "name": "خراسان رضوی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorsanshomali/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-khorasanshomali.jpg",
+    "name": "خراسان شمالی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bandarabas/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-khalij.jpg",
+    "name": "خلیج فارس"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khoozestan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-khoozestan.jpg",
+    "name": "خوزستان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zanjan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-zanjan.jpg",
+    "name": "زنجان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-ziarat.jpg",
+    "name": "زیارت"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-semnan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-semnan.jpg",
+    "name": "سمنان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zahedan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-zahedan.jpg",
+    "name": "سیستان و بلوچستان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-fars.jpg",
+    "name": "فارس"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qazvin/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-qazvin.jpg",
+    "name": "قزوین"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qom/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-qom.jpg",
+    "name": "قم"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kordestan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-kordestan.jpg",
+    "name": "کردستان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kerman/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-kerman.jpg",
+    "name": "کرمان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kermanshah/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-kermanshah.jpg",
+    "name": "کرمانشاه"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yasuj/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-yasuj.jpg",
+    "name": "کهکیلویه و بویراحمد"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kish/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-kish.jpg",
+    "name": "کیش"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-gorgan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-golestan.jpg",
+    "name": "گلستان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-rasht/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-gilan.jpg",
+    "name": "گیلان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-lorestan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-lorestan.jpg",
+    "name": "لرستان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-sari/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-mazandaran.jpg",
+    "name": "مازندران"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-markazi/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-markazi.jpg",
+    "name": "مرکزی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-mahabad/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-mahabad.jpg",
+    "name": "مهاباد"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-hamedan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-hamedan.jpg",
+    "name": "همدان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yazd/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-yazd.jpg",
+    "name": "یزد"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-monasebati.jpg",
+    "name": "مقاومت"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-avaa.jpg",
+    "name": "آوا"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-eghtesad.jpg",
+    "name": "اقتصاد"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-iran/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-iran.jpg",
+    "name": "ايران"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-payam/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-payam.jpg",
+    "name": "پیام"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-tartil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-tartil.jpg",
+    "name": "ترتیل"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-talavat.jpg",
+    "name": "تلاوت"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-tehran/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-tehran.jpg",
+    "name": "تهران"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-javan/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-javan.jpg",
+    "name": "جوان"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-salamat.jpg",
+    "name": "سلامت"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-saba/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-saba.jpg",
+    "name": "صبا"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-farhang.jpg",
+    "name": "فرهنگ"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-quran/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-quran.jpg",
+    "name": "قرآن"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-goftego.jpg",
+    "name": "گفتگو"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-maaref.jpg",
+    "name": "معارف"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-namayesh.jpg",
+    "name": "نمایش"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-varzesh.jpg",
+    "name": "ورزش"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-arabic/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-arabic.jpg",
+    "name": "عربی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-english.jpg",
+    "name": "انگلیسی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-boroon-studio110/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-boroon-studio110.jpg",
+    "name": "برون مرزی"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-boroon-dari/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-boroon-dari.jpg",
+    "name": "دری"
+  },
+  {
+    "category": "Farsi",
+    "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/lo483/logo/master/iran/radio-ziarat.jpg",
+    "name": "زیارت"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_peyk.jpg",
+    "name": "Radio Peyk",
+    "url": "http://livestream.lora.ch/lora.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/stockholmian.png",
+    "name": "Stockholmian",
+    "url": "http://217.210.9.84:8000/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/sibmusic.jpg",
+    "name": "Sibmusic",
+    "url": "http://sibmusic.com:8000/;stream.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/sibmusic.jpg",
+    "name": "Sibmusic Party Radio",
+    "url": "http://sibmusic.com:8020/;stream.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/hamsafar_radio.jpg",
+    "name": "Hamsafar Radio",
+    "url": "http://streamingv2.shoutcast.com/Hamsafarradio"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_pooya.jpg",
+    "name": "Radio Pooya",
+    "url": "https://stream.radio.co/sb03e54cbd/listen"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_golchin_la.jpg",
+    "name": "Radiogolchinla",
+    "url": "https://radiogolchin.out.airtime.pro/radiogolchin_a"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/iran_international_radio.jpg",
+    "name": "Iran International",
+    "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_iran_goeteborg.jpg",
+    "name": "Radio Iran Göteborg",
+    "url": "http://lyssna.fnf.nu:8080/gnf102.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_sarcheshmeh.jpg",
+    "name": "Radio Sarcheshmeh",
+    "url": "http://sarcheshmeh.icdndhcp.com:18452/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_melody.jpg",
+    "name": "Radio Melody",
+    "url": "http://radio2.darub.se/melody.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ayeneh.jpg",
+    "name": "Radio Ayeneh",
+    "url": "http://radioayeneh.serveftp.com/streampath1.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_sedaye_enjil.jpg",
+    "name": "Radio Sedaye Enjil",
+    "url": "https://streams.radio.co/se842665e9/listen"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/sputnik_persian.png",
+    "name": "Sputnik Persian",
+    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voiceeng"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_darvish.jpg",
+    "name": "Radio Darvish",
+    "url": "http://freeuk6.listen2myradio.com/stream.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_shadi.png",
+    "name": "Radio Shadi",
+    "url": "https://ice9.securenetsystems.net/SHADI"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_shoma_93_4.jpg",
+    "name": "Radio Shoma 93.4",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SHOMA.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/bbc_farsi.jpg",
+    "name": "Bbc Farsi Radio",
+    "url": "https://emp.bbci.co.uk/emp/media/blankv2.mp4"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_persian_radio_fro.jpg",
+    "name": "Radio Fro - Persian",
+    "url": "http://stream.fro.at/fro64.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_setareh.jpg",
+    "name": "Radio Setareh",
+    "url": "http://78.129.222.62:16743/stream"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/love-radio.jpg",
+    "name": "Love Radio",
+    "url": "http://radioshahab.stream.laut.fm/radioshahab"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ran.jpg",
+    "name": "Radio Ran",
+    "url": "http://185.80.220.12:8047/live"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/tin_live_radio.png",
+    "name": "Tin Live Radio",
+    "url": "https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/tin_live_radio.png",
+    "name": "Afnl Music Channel Live",
+    "url": "https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_hamrah_mannheim.jpg",
+    "name": "Hamrah Mannheim",
+    "url": "http://streaming.fueralle.org:8000/bermudafunk_high"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ava_london.jpg",
+    "name": "Radio Ava London",
+    "url": "http://procyon.shoutca.st:8174/live"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_israel.jpg",
+    "name": "Radio Israel",
+    "url": "http://radis.org/audio/today.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_madar.jpg",
+    "name": "Radio Madar",
+    "url": "https://madarradio.com/madar064"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_hamrah.jpg",
+    "name": "Radio Hamrah",
+    "url": "http://stream.zeno.fm/8p9trg4dkg0uv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_mahoor_literature.jpg",
+    "name": "Radio Mahoor Shaer",
+    "url": "http://192.34.153.102:8000/shaer.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
+    "name": "Radio.Gl",
+    "url": "http://192.34.153.102:8000/RadioGL.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_shemroon.jpg",
+    "name": "Radio Shemroon",
+    "url": "http://usa7.fastcast4u.com:5919/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_itn.jpg",
+    "name": "Radio Itn",
+    "url": "http://23.29.71.154:8142/;stream"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_arina_amg.jpg",
+    "name": "Radio Arina",
+    "url": "http://192.34.153.102:8000/AMGRadio.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/ayeneh_foundation_radio.jpg",
+    "name": "Ayeneh Foundation",
+    "url": "http://107.181.227.250:8244/;stream"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_nedaye_moghavemat.jpg",
+    "name": "Nedaye Moghavemat",
+    "url": "http://livestream.lora.ch/lora.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_mahoor_traditional.jpg",
+    "name": "Radio Mahoor Sonati",
+    "url": "http://192.34.153.102:8000/mahoor.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ma_va_shoma.jpg",
+    "name": "Radio Ma Va Shoma",
+    "url": "http://hemnos.cdnstream.com/1877_128"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/ariana_fm.jpg",
+    "name": "Ariana Fm",
+    "url": "https://streams.radio.co/sa3345aaa8/listen"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/persianseda_radio.jpg",
+    "name": "Persianseda Radio",
+    "url": "http://icecast.commedia.org.uk:8000/allfm.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_tondar.jpg",
+    "name": "Radio Tondar",
+    "url": "http://radio.tondar.org:8000/64"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rfi_farsi.png",
+    "name": "Rfi Farsi",
+    "url": "https://rfienpersan64k.ice.infomaniak.ch/rfienpersan-64k.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_faaz.jpg",
+    "name": "Radio Faaz",
+    "url": "http://www.radiofaaz.com:8000/radiofaazlq"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
+    "name": "Persian 70s Radio",
+    "url": "http://192.34.153.102:8000/KMspersian.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_mahoor_kids.jpg",
+    "name": "Radio Mahoor Kids",
+    "url": "http://192.34.153.102:8000/kids.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
+    "name": "Persian Rap",
+    "url": "http://stream.zeno.fm/zux23fr0xqzuv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_donya.png",
+    "name": "Radio Donya",
+    "url": "http://stream.zeno.fm/cxva3vz8mg0uv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_faryad.jpg",
+    "name": "Radio Faryad",
+    "url": "http://88.198.131.30:8443/live.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_mojdeh.jpg",
+    "name": "Radio Mojdeh",
+    "url": "http://ic2317.c1261.fast-serv.com/rm64"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_parastesh.jpg",
+    "name": "Radio Parastesh",
+    "url": "http://mohabat.streamguys1.com/Mohabat-128K"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_navahang.png",
+    "name": "Radio Navahang",
+    "url": "https://navairan.com/;stream.nsv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_navahang.png",
+    "name": "Navahang Tv",
+    "url": "http://163.172.134.85/hls/stream.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/mihantv.jpg",
+    "name": "Mihantv",
+    "url": "http://radio.mihantv.com/stream"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_irava.jpg",
+    "name": "Radio Irava",
+    "url": "http://icecast.isilive.ca:8000/chuo"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_namaashoum.jpg",
+    "name": "Radio Namaashoum",
+    "url": "http://livestream.ckcufm.com/ckcu.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/tapesh_radio.jpg",
+    "name": "Tapesh Radio",
+    "url": "http://radio.persianvip.com:8888/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/tapesh_radio.jpg",
+    "name": "Tapesh Tv",
+    "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/670_am_kirn_radio_iran.jpg",
+    "name": "Kirn 670am Radio Iran",
+    "url": "http://ice41.securenetsystems.net/KIRN"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_porchooneh.png",
+    "name": "Porchooneh Radio",
+    "url": "http://porchooneh.com:8000/porchooneh.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/voa_farsi_radio.jpg",
+    "name": "Voa Farsi",
+    "url": "https://n07.radiojar.com/y58cqgggq3quv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/london_persian_radio.png",
+    "name": "London Persian Radio",
+    "url": "http://s4.voscast.com:7574/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/persian_vip.jpg",
+    "name": "Persian Vip",
+    "url": "http://radio.persianvip.com:8888/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_yekjahan.jpg",
+    "name": "Radio Yekjahan",
+    "url": "http://192.34.153.102:8000/Radioyekjahan.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
+    "name": "Radio Asheghaneh",
+    "url": "http://192.34.153.102:8000/asheghaneh.mp3"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
+    "name": "Rangarang",
+    "url": "https://radios.rangarang.us/stream/1/"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
+    "name": "Rangarang Flashback",
+    "url": "https://radios.rangarang.us/stream/2/"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
+    "name": "Rangarang Joowalldooz",
+    "url": "https://radios.rangarang.us/stream/3/"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
+    "name": "Rangarang Music",
+    "url": "https://radios.rangarang.us/stream/4/"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://oiradio.co/assets/images/stations/2/2d6f6d753eff2ff5e528ba80cb5d493f.png",
+    "name": "Radio Eram",
+    "url": "http://37.59.47.192:8200/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s88163q.png",
+    "name": "Radio 6o8",
+    "url": "https://n03.radiojar.com/dfnrphnr5f0uv"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://static-media.streema.com/media/cache/0a/ba/0aba6e382af465d2d16c24a2d1a2796d.jpg",
+    "name": "Ahlulbayt Tv",
+    "url": "http://109.123.126.14:1935/live/livestream1.sdp/media.m3u8"
+  },
+  {
+    "category": "Farsi",
+    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
+    "name": "Persian Rap Radio",
+    "url": "https://streammax6.radioca.st/streammax6.pls"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://images.radio.co/station_logos/s830691c74.20180919070332.png",
+    "name": "Radio Mojahed",
+    "url": "https://s2.radio.co/s830691c74/listen"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s105104q.png",
+    "name": "Radio Hambastegi",
+    "url": "http://hambastegione.mine.nu:9600/;"
+  },
+  {
+    "category": "Farsi",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s138099q.png",
+    "name": "Radio Alborz",
+    "url": "http://live.indvandrerradio.dk:8000/;stream.mp3"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.manoto/icon/icon.png",
+    "name": "Manoto Tv",
+    "url": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/andisheh-tv.jpg",
+    "name": "Andisheh Tv",
+    "url": "http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.highvision.tv/wp-content/uploads/2018/11/0001.jpg",
+    "name": "High Vision Tv",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sm/bbc-persian.link",
+    "name": "Bbc Persian",
+    "url": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/bbc_persian_tv.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "http://www.sedaye-iran.com/images/emblems/afnl_radio.png",
+    "name": "Afn Tv",
+    "url": "https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://yourtime.tv/img/utv-logo.png",
+    "name": "Your Time Tv",
+    "url": "https://hls.yourtime.live/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.parsatv.com/index_files/channels/ayeneh.png",
+    "name": "Ayeneh Tv",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.parsatv.com/index_files/channels/gemtv.png",
+    "name": "Gem Tv",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.parsatv.com/index_files/channels/gemtv.png",
+    "name": "Gem Classic",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.parsatv.com/index_files/channels/gemtv.png",
+    "name": "Gem River",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.parsatv.com/index_files/channels/gemtv.png",
+    "name": "Gem Food",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-cinema.jpg",
+    "name": "Persiana Cinema",
+    "url": "http://51.210.199.15/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-documentary.jpg",
+    "name": "Persiana Documentary",
+    "url": "http://51.210.199.23/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-family.jpg",
+    "name": "Persiana Family",
+    "url": "http://51.210.199.19/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "kjhgfghjkl",
+    "name": "Persiana Billboard",
+    "url": "http://51.210.199.10/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png",
+    "name": "Amg Tv",
+    "url": "https://nl.livekadeh.com/hls2/AMG.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhgfmjhgfdfghjk",
+    "name": "Ava Family",
+    "url": "http://51.210.199.5/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/parnian-tv.jpg",
+    "name": "Parnian Tv",
+    "url": "https://live2.parnian.tv/hls/live/play.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Canada Star Tv",
+    "url": "http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Cine Film",
+    "url": "https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/payvand-tv.jpg",
+    "name": "Payvand Tv",
+    "url": "http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Irane Farda",
+    "url": "https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Channel One",
+    "url": "https://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Mifa Music",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Tapesh",
+    "url": "http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Caltex Music Tv",
+    "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Radio Farda Tv",
+    "url": "https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/index_576_av-b.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Payam Javan Tv",
+    "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Itn",
+    "url": "https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Iran Tv Israel",
+    "url": "https://ivideo.co.il:3866/live/raniamranilive.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Gem Usa",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Gem Kids",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Gem Rubix",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Gem Life",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-junior.jpg",
+    "name": "Persiana Junior",
+    "url": "http://51.210.199.18/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-iranian.jpg",
+    "name": "Persiana Iranian",
+    "url": "http://51.210.199.22/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persiana Entertainment",
+    "url": "http://51.210.199.14/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/persiana-comedy.jpg",
+    "name": "Persiana Comedy",
+    "url": "http://51.210.199.27/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Ava Series",
+    "url": "http://51.210.199.4/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persian Bazar",
+    "url": "https://stream.persiantv1.com/ptv1/playlist1/index.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/oxir-tv.jpg",
+    "name": "Oxir Tv",
+    "url": "http://51.210.199.36/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sat7-pars.jpg",
+    "name": "Sat7 Pars",
+    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_240p/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/shabakeh-7.jpg",
+    "name": "Shabakeh 7",
+    "url": "http://rtmp.abnsat.com/hls/txministry.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/kalemeh-tv.jpg",
+    "name": "Kalemeh Tv",
+    "url": "http://184.75.208.99:1935/live/kalemeh/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/voa-persian.jpg",
+    "name": "Voa Persian",
+    "url": "https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Radio Javan Tv",
+    "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/mtc-tv.jpg",
+    "name": "Mtc",
+    "url": "http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://cdn-profiles.tunein.com/s148674/images/logoq.png",
+    "name": "Navahang Tv",
+    "url": "http://163.172.134.85/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/mihan-tv.jpg",
+    "name": "Mihan Tv",
+    "url": "http://iptv.mihantv.com/live/playlist1/index.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Simaye Azadi",
+    "url": "https://sima-i.akamaihd.net/hls/live/624111/sima/01.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/tin-tv.jpg",
+    "name": "Tin Tv",
+    "url": "https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persiana Varzesh",
+    "url": "http://51.210.199.16/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persiana Music",
+    "url": "http://51.210.199.24/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persiana Nostalgia",
+    "url": "http://51.210.199.20/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Persiana Technology",
+    "url": "http://51.210.199.25/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/parsiland-tv.jpg",
+    "name": "Parsiland Tv",
+    "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Negah Tv",
+    "url": "https://iptv.negahtv.com/negahtv/playlist1/index.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Icnet",
+    "url": "http://174.88.147.233:1935/ICNET/ngrp:my.stream_all/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Omid Javedan",
+    "url": "https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Payame Aramesh",
+    "url": "http://51.15.133.13/hls/stream.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Ganje Hozoor",
+    "url": "https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sm/shabake-1.png",
+    "name": "Shabake 1",
+    "url": "https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sm/shabake-2.png",
+    "name": "Shabake 2",
+    "url": "https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Shabakeh 3",
+    "url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sm/shabake-4.png",
+    "name": "Shabake 4",
+    "url": "https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "https://www.livefarsi.com/uploads/tv_image/sm/shabake-5.png",
+    "name": "Shabake 5",
+    "url": "https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/mono.m3u8"
+  },
+  {
+    "category": "Tv Audio",
+    "logo": "jhvvbnmmnbv",
+    "name": "Shabake Varzesh",
+    "url": "http://103.145.12.195:8080/hls/streama145239/index.m3u8"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDA8MTV5QsMCxIOU3RhdGlvblByb2ZpbGUYgICAgOz5lAkMogEEemVubw/image/",
+    "name": "Cyberfm Persian",
+    "url": "http://stream.zeno.fm/m3xge13apuquv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ6J-xwggMCxIOU3RhdGlvblByb2ZpbGUYgICQqJHtwAsMogEEemVubw/image/",
+    "name": "Iranian Music",
+    "url": "http://stream.zeno.fm/34cffukzmwzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ6J-xwggMCxIOU3RhdGlvblByb2ZpbGUYgICQjYn9xgoMogEEemVubw/image/",
+    "name": "Iranian Traditional Music",
+    "url": "http://stream.zeno.fm/pdhvssg704zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ0LGymQsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0KqB8goMogEEemVubw/image/",
+    "name": "Iran1400",
+    "url": "http://stream.zeno.fm/xzbegu95na0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ16_I-QsMCxIOU3RhdGlvblByb2ZpbGUYgICQt_a39gkMogEEemVubw/image/",
+    "name": "Iran Freedom",
+    "url": "http://stream.zeno.fm/uqxup5bc27zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDArIi5xgsMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDXjAoMogEEemVubw/image/",
+    "name": "National Iranian Congress",
+    "url": "http://stream.zeno.fm/640qxr580feuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg7_Hg_QgMCxIOU3RhdGlvblByb2ZpbGUYgIDg78PB3QsMogEEemVubw/image/",
+    "name": "Radio Sedaye Iran",
+    "url": "http://stream.zeno.fm/f6fs1d950tzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ6J-xwggMCxIOU3RhdGlvblByb2ZpbGUYgICQrYuinAoMogEEemVubw/image/",
+    "name": "History Of Iranian Cinema",
+    "url": "http://stream.zeno.fm/87fusd6e84zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAuKu32wsMCxIOU3RhdGlvblByb2ZpbGUYgIDg-qXepgkMogEEemVubw/image/",
+    "name": "Russkoe Radio In Iran",
+    "url": "http://stream.zeno.fm/meqhay00phruv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAuKu32wsMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDXjAkMogEEemVubw/image/",
+    "name": "Radio Wanda Fm Iran Music",
+    "url": "http://stream.zeno.fm/nxsch3nt1ceuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ0ofauwkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ4pT0qwsMogEEemVubw/image/",
+    "name": "Persianroleplay",
+    "url": "http://stream.zeno.fm/ysxbhuyqpd0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg556W8AoMCxIOU3RhdGlvblByb2ZpbGUYgIDgp8ax8QoMogEEemVubw/image/",
+    "name": "Radio Romaan",
+    "url": "http://stream.zeno.fm/yqdk4q7zetzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgp73vkAsMCxIOU3RhdGlvblByb2ZpbGUYgIDgp8_B3QoMogEEemVubw/image/",
+    "name": "ایستگاه رادیو اینترنتی ابهر و رها",
+    "url": "http://stream.zeno.fm/w2mtecbzftzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQjobljgkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ7sn2zAkMogEEemVubw/image/",
+    "name": "Naghmeye Roh",
+    "url": "http://stream.zeno.fm/3544wyu5ng0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQgKyzuwoMCxIOU3RhdGlvblByb2ZpbGUYgICQgPvP1wgMogEEemVubw/image/",
+    "name": "Amir Radio",
+    "url": "http://stream.zeno.fm/wn35gykq4tzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICAgODBnAoMogEEemVubw/image/",
+    "name": "Radio Simorgh Original Persian Music",
+    "url": "http://stream.zeno.fm/a4r7t5a6vrquv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ9v7u2wkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ9r2KrAoMogEEemVubw/image/",
+    "name": "Naji Radio",
+    "url": "http://stream.zeno.fm/2h05d1yhgg0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDyiAoMogEEemVubw/image/",
+    "name": "Radiosimorgh Music And Entertainment",
+    "url": "http://stream.zeno.fm/4zckbpdrqrquv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ2fHfxwoMCxIOU3RhdGlvblByb2ZpbGUYgIDQpcfonwoMogEEemVubw/image/",
+    "name": "Radio Farda",
+    "url": "http://stream.zeno.fm/4pf0yk44rm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICg1Z2N9wkMCxIOU3RhdGlvblByb2ZpbGUYgICglfPz8wgMogEEemVubw/image/",
+    "name": "Taboo",
+    "url": "http://stream.zeno.fm/pwk3euevm8quv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ8en53gkMCxIOU3RhdGlvblByb2ZpbGUYgIDQidz_zggMogEEemVubw/image/",
+    "name": "Nofeh Radio",
+    "url": "http://stream.zeno.fm/48dya9zx7k0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICQstfB4gkMogEEemVubw/image/",
+    "name": "Radio Simorgh Educational",
+    "url": "http://stream.zeno.fm/4vx1t2vvfzzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ-su05AkMCxIOU3RhdGlvblByb2ZpbGUYgICQ-rWwrQsMogEEemVubw/image/",
+    "name": "Gamberon",
+    "url": "http://stream.zeno.fm/6k02ma38nzzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICQ6v-Q6woMogEEemVubw/image/",
+    "name": "Radio Simorgh Audio Library",
+    "url": "http://stream.zeno.fm/1tec604vfzzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQxNSQiAsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ5PKj5QgMogEEemVubw/image/",
+    "name": "Tea Time Farsi",
+    "url": "http://stream.zeno.fm/rceezk03za0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ4KHlzAgMCxIOU3RhdGlvblByb2ZpbGUYgICQwLCl4QoMogEEemVubw/image/",
+    "name": "Dmcinthemix",
+    "url": "http://stream.zeno.fm/670hzvpr5tzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQkIqrrQsMCxIOU3RhdGlvblByb2ZpbGUYgICQ4PmipAoMogEEemVubw/image/",
+    "name": "Marshal",
+    "url": "http://stream.zeno.fm/s9db25g09vzuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQtd-M7AkMCxIOU3RhdGlvblByb2ZpbGUYgICQ9YzuhQoMogEEemVubw/image/",
+    "name": "Sepanta Radio",
+    "url": "http://stream.zeno.fm/0d9tzcvz24zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQxI70swgMCxIOU3RhdGlvblByb2ZpbGUYgIDQlNfs7gkMogEEemVubw/image/",
+    "name": "Middle Eastern Classical",
+    "url": "http://stream.zeno.fm/r8b9smty1a0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQqebliwoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiYn6sgkMogEEemVubw/image/",
+    "name": "Radio Film",
+    "url": "http://stream.zeno.fm/1ab8y3cfcm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQxKGIzgoMCxIOU3RhdGlvblByb2ZpbGUYgIDQhPCatgkMogEEemVubw/image/",
+    "name": "Give Gallery",
+    "url": "http://stream.zeno.fm/72fbchxz0a0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ0cGa2AkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0dKZrgkMogEEemVubw/image/",
+    "name": "Kushesh",
+    "url": "http://stream.zeno.fm/610q3tmm1k0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQqYS63gkMCxIOU3RhdGlvblByb2ZpbGUYgIDQyd70lAgMogEEemVubw/image/",
+    "name": "Ir Pars",
+    "url": "http://stream.zeno.fm/9c7f0xs8dm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ3MSivggMCxIOU3RhdGlvblByb2ZpbGUYgIDQ7NHOtwsMogEEemVubw/image/",
+    "name": "Persian Role Play",
+    "url": "http://stream.zeno.fm/4dpmkvvkbd0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQoKjg9QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQoOuguQoMogEEemVubw/image/",
+    "name": "Elpo Mix",
+    "url": "http://stream.zeno.fm/chufewhbe8zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ-aq58goMCxIOU3RhdGlvblByb2ZpbGUYgIDQucyUmAsMogEEemVubw/image/",
+    "name": "Amirsonia",
+    "url": "http://stream.zeno.fm/0xdv225yhm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQzrr6ygsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ7siG5gkMogEEemVubw/image/",
+    "name": "Leeymusicradio",
+    "url": "http://stream.zeno.fm/01e21368mg0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ9tTK_goMCxIOU3RhdGlvblByb2ZpbGUYgIDQruiqyAoMogEEemVubw/image/",
+    "name": "Mofidili",
+    "url": "http://stream.zeno.fm/whekw9uqeg0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ6b612wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQib2qlQoMogEEemVubw/image/",
+    "name": "Persian Neighborhood",
+    "url": "http://stream.zeno.fm/3r44g8vt8k0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQmMjA9AgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ2KDB8AgMogEEemVubw/image/",
+    "name": "Eternal Dawn",
+    "url": "http://stream.zeno.fm/47bw3hz3pa0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQlLLD8AsMCxIOU3RhdGlvblByb2ZpbGUYgIDQtKvI9gkMogEEemVubw/image/",
+    "name": "Voice Of Persia",
+    "url": "http://stream.zeno.fm/b7ema5d11a0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQlLLD8AsMCxIOU3RhdGlvblByb2ZpbGUYgIDQpM-Y-AkMogEEemVubw/image/",
+    "name": "Voice Of Nations",
+    "url": "http://stream.zeno.fm/kw3yfd601a0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ8rG1twsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ8qL2qAsMogEEemVubw/image/",
+    "name": "Blog News",
+    "url": "http://stream.zeno.fm/d825ysvcsd0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ8Le4yggMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0NjXkQoMogEEemVubw/image/",
+    "name": "Raghebmg",
+    "url": "http://stream.zeno.fm/p42kgm2dma0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4KDtxAkMCxIOU3RhdGlvblByb2ZpbGUYgICQv9e6qwsMogEEemVubw/image/",
+    "name": "Retro Persia",
+    "url": "http://stream.zeno.fm/vtp09m08d8zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQp6-SyQoMCxIOU3RhdGlvblByb2ZpbGUYgICQx_HqmAsMogEEemVubw/image/",
+    "name": "Pgs-Fm",
+    "url": "http://stream.zeno.fm/pr4m7n3f27zuv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4YaUrAsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ4de6jQkMogEEemVubw/image/",
+    "name": "Vip3r Radio",
+    "url": "http://stream.zeno.fm/p20rg2tqzk0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ-uXDxgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQxuGZpAgMogEEemVubw/image/",
+    "name": "Crystal Club Radio",
+    "url": "http://stream.zeno.fm/8ea5q2md2d0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ2fHfxwoMCxIOU3RhdGlvblByb2ZpbGUYgIDQxdj4tgsMogEEemVubw/image/",
+    "name": "Radio Mihan",
+    "url": "http://stream.zeno.fm/7kghhtd5rm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ2fHfxwoMCxIOU3RhdGlvblByb2ZpbGUYgIDQhZ7g9wkMogEEemVubw/image/",
+    "name": "Radio Javan",
+    "url": "http://stream.zeno.fm/rysp1ne5rm0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAjPvWkAgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ2o2JuQoMogEEemVubw/image/",
+    "name": "Farsi London",
+    "url": "http://stream.zeno.fm/c3kkavhhzd0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQmorS3QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ6tbz1gsMogEEemVubw/image/",
+    "name": "Farsee",
+    "url": "http://stream.zeno.fm/qk3q9p6wxd0uv"
+  },
+  {
+    "category": "Artist",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_farda.jpg",
+    "name": "Radio Farda",
+    "url": "http://stream.zeno.fm/cp13r2cpn3quv"
+  }
+]
