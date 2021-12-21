@@ -1,0 +1,964 @@
+{
+  "Configurations": [
+    {
+      "key": "ImageUrl",
+      "value": "https://carcoding24.de/WebServices/webradio/images/"
+    },
+    {
+      "key": "InterstitialForceTime",
+      "value": "300"
+    },
+    {
+      "key": "InterstitialIntervalCount",
+      "value": "3"
+    },
+    {
+      "key": "InterstitialIntervalTime",
+      "value": "4"
+    },
+    {
+      "key": "RatingBaseUrl",
+      "value": "http://turkmedyaworld.com/radyoturk/rating/"
+    }
+  ],
+  "Countries": [
+    {
+      "id": "1",
+      "code": "TR",
+      "name": "Turkey",
+      "nameDE": "Türkei",
+      "nameTR": "Türkiye",
+      "image": "country_tr.jpg"
+    },
+    {
+      "id": "2",
+      "code": "GB",
+      "name": "United Kingdom",
+      "nameDE": "Vereinigtes Königreich",
+      "nameTR": "İngiltere",
+      "image": "country_gb.jpg"
+    },
+    {
+      "id": "3",
+      "code": "FR",
+      "name": "France",
+      "nameDE": "Frankreich",
+      "nameTR": "Fransa",
+      "image": "country_fr.jpg"
+    },
+    {
+      "id": "4",
+      "code": "RU",
+      "name": "Russia",
+      "nameDE": "Russland",
+      "nameTR": "Rusya",
+      "image": "country_ru.jpg"
+    },
+    {
+      "id": "5",
+      "code": "DE",
+      "name": "Germany",
+      "nameDE": "Deutschland",
+      "nameTR": "Almanya",
+      "image": "country_de.jpg"
+    },
+    {
+      "id": "6",
+      "code": "CY",
+      "name": "Cyprus",
+      "nameDE": "Zypern",
+      "nameTR": "Kıbrıs",
+      "image": null
+    },
+    {
+      "id": "7",
+      "code": "BG",
+      "name": "Bulgaria",
+      "nameDE": "Bulgarien",
+      "nameTR": "Bulgaristan",
+      "image": "country_bg.jpg"
+    },
+    {
+      "id": "8",
+      "code": "US",
+      "name": "USA",
+      "nameDE": "USA",
+      "nameTR": "Amerika",
+      "image": "country_us.jpg"
+    },
+    {
+      "id": "9",
+      "code": "BE",
+      "name": "Belgium",
+      "nameDE": "Belgien",
+      "nameTR": "Belçika",
+      "image": "country_be.jpg"
+    },
+    {
+      "id": "10",
+      "code": "SY",
+      "name": "Syria",
+      "nameDE": "Syrien",
+      "nameTR": "Suriye",
+      "image": "country_sy.jpg"
+    },
+    {
+      "id": "11",
+      "code": "CH",
+      "name": "Switzerland",
+      "nameDE": "Schweiz",
+      "nameTR": "İsviçre",
+      "image": "country_ch.jpg"
+    },
+    {
+      "id": "12",
+      "code": "IT",
+      "name": "Italy",
+      "nameDE": "Italien",
+      "nameTR": "İtalya",
+      "image": "country_it.jpg"
+    },
+    {
+      "id": "13",
+      "code": "CA",
+      "name": "Canada",
+      "nameDE": "Kanada",
+      "nameTR": "Kanada",
+      "image": "country_ca.jpg"
+    },
+    {
+      "id": "14",
+      "code": "GR",
+      "name": "Greece",
+      "nameDE": "Griechenland",
+      "nameTR": "Yunanistan",
+      "image": "country_gr.jpg"
+    },
+    {
+      "id": "15",
+      "code": "HU",
+      "name": "Hungary",
+      "nameDE": "Ungarn",
+      "nameTR": "Macaristan",
+      "image": "country_hu.jpg"
+    },
+    {
+      "id": "16",
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "nameDE": "Aserbaidschan",
+      "nameTR": "Azerbaycan",
+      "image": "country_az.jpg"
+    },
+    {
+      "id": "17",
+      "code": "DZ",
+      "name": "Algeria",
+      "nameDE": "Algerien",
+      "nameTR": "Cezayir",
+      "image": "country_dz.jpg"
+    },
+    {
+      "id": "18",
+      "code": "ES",
+      "name": "Spain",
+      "nameDE": "Spanien",
+      "nameTR": "İspanya",
+      "image": "country_es.jpg"
+    },
+    {
+      "id": "19",
+      "code": "UA",
+      "name": "Ukraine",
+      "nameDE": "Ukraine",
+      "nameTR": "Ukrayna",
+      "image": "country_ua.jpg"
+    },
+    {
+      "id": "20",
+      "code": "AT",
+      "name": "Austria",
+      "nameDE": "Österreich",
+      "nameTR": "Avusturya",
+      "image": "country_at.jpg"
+    },
+    {
+      "id": "21",
+      "code": "NL",
+      "name": "Netherlands",
+      "nameDE": "Niederlande",
+      "nameTR": "Hollanda",
+      "image": "country_nl.jpg"
+    },
+    {
+      "id": "22",
+      "code": "EG",
+      "name": "Egypt",
+      "nameDE": "Ägypten",
+      "nameTR": "Mısır",
+      "image": "country_eg.jpg"
+    },
+    {
+      "id": "23",
+      "code": "SE",
+      "name": "Sweden",
+      "nameDE": "Schweden",
+      "nameTR": "İsveç",
+      "image": "country_se.jpg"
+    }
+  ],
+  "Cities": [
+    {
+      "id": "1",
+      "code": "1",
+      "name": "Adana",
+      "country_id": "1"
+    },
+    {
+      "id": "2",
+      "code": "2",
+      "name": "Adıyaman",
+      "country_id": "1"
+    },
+    {
+      "id": "3",
+      "code": "3",
+      "name": "Afyonkarahisar",
+      "country_id": "1"
+    },
+    {
+      "id": "4",
+      "code": "4",
+      "name": "Ağrı",
+      "country_id": "1"
+    },
+    {
+      "id": "5",
+      "code": "5",
+      "name": "Amasya",
+      "country_id": "1"
+    },
+    {
+      "id": "6",
+      "code": "6",
+      "name": "Ankara",
+      "country_id": "1"
+    },
+    {
+      "id": "7",
+      "code": "7",
+      "name": "Antalya",
+      "country_id": "1"
+    },
+    {
+      "id": "8",
+      "code": "8",
+      "name": "Artvin",
+      "country_id": "1"
+    },
+    {
+      "id": "9",
+      "code": "9",
+      "name": "Aydın",
+      "country_id": "1"
+    },
+    {
+      "id": "10",
+      "code": "10",
+      "name": "Balıkesir",
+      "country_id": "1"
+    },
+    {
+      "id": "11",
+      "code": "11",
+      "name": "Bilecik",
+      "country_id": "1"
+    },
+    {
+      "id": "12",
+      "code": "12",
+      "name": "Bingöl",
+      "country_id": "1"
+    },
+    {
+      "id": "13",
+      "code": "13",
+      "name": "Bitlis",
+      "country_id": "1"
+    },
+    {
+      "id": "14",
+      "code": "14",
+      "name": "Bolu",
+      "country_id": "1"
+    },
+    {
+      "id": "15",
+      "code": "15",
+      "name": "Burdur",
+      "country_id": "1"
+    },
+    {
+      "id": "16",
+      "code": "16",
+      "name": "Bursa",
+      "country_id": "1"
+    },
+    {
+      "id": "17",
+      "code": "17",
+      "name": "Çanakkale",
+      "country_id": "1"
+    },
+    {
+      "id": "18",
+      "code": "18",
+      "name": "Çankırı",
+      "country_id": "1"
+    },
+    {
+      "id": "19",
+      "code": "19",
+      "name": "Çorum",
+      "country_id": "1"
+    },
+    {
+      "id": "20",
+      "code": "20",
+      "name": "Denizli",
+      "country_id": "1"
+    },
+    {
+      "id": "21",
+      "code": "21",
+      "name": "Diyarbakır",
+      "country_id": "1"
+    },
+    {
+      "id": "22",
+      "code": "22",
+      "name": "Edirne",
+      "country_id": "1"
+    },
+    {
+      "id": "23",
+      "code": "23",
+      "name": "Elazığ",
+      "country_id": "1"
+    },
+    {
+      "id": "24",
+      "code": "24",
+      "name": "Erzincan",
+      "country_id": "1"
+    },
+    {
+      "id": "25",
+      "code": "25",
+      "name": "Erzurum",
+      "country_id": "1"
+    },
+    {
+      "id": "26",
+      "code": "26",
+      "name": "Eskişehir",
+      "country_id": "1"
+    },
+    {
+      "id": "27",
+      "code": "27",
+      "name": "Gaziantep",
+      "country_id": "1"
+    },
+    {
+      "id": "28",
+      "code": "28",
+      "name": "Giresun",
+      "country_id": "1"
+    },
+    {
+      "id": "29",
+      "code": "29",
+      "name": "Gümüşhane",
+      "country_id": "1"
+    },
+    {
+      "id": "30",
+      "code": "30",
+      "name": "Hakkâri",
+      "country_id": "1"
+    },
+    {
+      "id": "31",
+      "code": "31",
+      "name": "Hatay",
+      "country_id": "1"
+    },
+    {
+      "id": "32",
+      "code": "32",
+      "name": "Isparta",
+      "country_id": "1"
+    },
+    {
+      "id": "33",
+      "code": "33",
+      "name": "İçel (Mersin)",
+      "country_id": "1"
+    },
+    {
+      "id": "34",
+      "code": "34",
+      "name": "İstanbul",
+      "country_id": "1"
+    },
+    {
+      "id": "35",
+      "code": "35",
+      "name": "İzmir",
+      "country_id": "1"
+    },
+    {
+      "id": "36",
+      "code": "36",
+      "name": "Kars",
+      "country_id": "1"
+    },
+    {
+      "id": "37",
+      "code": "37",
+      "name": "Kastamonu",
+      "country_id": "1"
+    },
+    {
+      "id": "38",
+      "code": "38",
+      "name": "Kayseri",
+      "country_id": "1"
+    },
+    {
+      "id": "39",
+      "code": "39",
+      "name": "Kırklareli",
+      "country_id": "1"
+    },
+    {
+      "id": "40",
+      "code": "40",
+      "name": "Kırşehir",
+      "country_id": "1"
+    },
+    {
+      "id": "41",
+      "code": "41",
+      "name": "Kocaeli",
+      "country_id": "1"
+    },
+    {
+      "id": "42",
+      "code": "42",
+      "name": "Konya",
+      "country_id": "1"
+    },
+    {
+      "id": "43",
+      "code": "43",
+      "name": "Kütahya",
+      "country_id": "1"
+    },
+    {
+      "id": "44",
+      "code": "44",
+      "name": "Malatya",
+      "country_id": "1"
+    },
+    {
+      "id": "45",
+      "code": "45",
+      "name": "Manisa",
+      "country_id": "1"
+    },
+    {
+      "id": "46",
+      "code": "46",
+      "name": "Kahramanmaraş",
+      "country_id": "1"
+    },
+    {
+      "id": "47",
+      "code": "47",
+      "name": "Mardin",
+      "country_id": "1"
+    },
+    {
+      "id": "48",
+      "code": "48",
+      "name": "Muğla",
+      "country_id": "1"
+    },
+    {
+      "id": "49",
+      "code": "49",
+      "name": "Muş",
+      "country_id": "1"
+    },
+    {
+      "id": "50",
+      "code": "50",
+      "name": "Nevşehir",
+      "country_id": "1"
+    },
+    {
+      "id": "51",
+      "code": "51",
+      "name": "Niğde",
+      "country_id": "1"
+    },
+    {
+      "id": "52",
+      "code": "52",
+      "name": "Ordu",
+      "country_id": "1"
+    },
+    {
+      "id": "53",
+      "code": "53",
+      "name": "Rize",
+      "country_id": "1"
+    },
+    {
+      "id": "54",
+      "code": "54",
+      "name": "Sakarya",
+      "country_id": "1"
+    },
+    {
+      "id": "55",
+      "code": "55",
+      "name": "Samsun",
+      "country_id": "1"
+    },
+    {
+      "id": "56",
+      "code": "56",
+      "name": "Siirt",
+      "country_id": "1"
+    },
+    {
+      "id": "57",
+      "code": "57",
+      "name": "Sinop",
+      "country_id": "1"
+    },
+    {
+      "id": "58",
+      "code": "58",
+      "name": "Sivas",
+      "country_id": "1"
+    },
+    {
+      "id": "59",
+      "code": "59",
+      "name": "Tekirdağ",
+      "country_id": "1"
+    },
+    {
+      "id": "60",
+      "code": "60",
+      "name": "Tokat",
+      "country_id": "1"
+    },
+    {
+      "id": "61",
+      "code": "61",
+      "name": "Trabzon",
+      "country_id": "1"
+    },
+    {
+      "id": "62",
+      "code": "62",
+      "name": "Tunceli",
+      "country_id": "1"
+    },
+    {
+      "id": "63",
+      "code": "63",
+      "name": "Şanlıurfa",
+      "country_id": "1"
+    },
+    {
+      "id": "64",
+      "code": "64",
+      "name": "Uşak",
+      "country_id": "1"
+    },
+    {
+      "id": "65",
+      "code": "65",
+      "name": "Van",
+      "country_id": "1"
+    },
+    {
+      "id": "66",
+      "code": "66",
+      "name": "Yozgat",
+      "country_id": "1"
+    },
+    {
+      "id": "67",
+      "code": "67",
+      "name": "Zonguldak",
+      "country_id": "1"
+    },
+    {
+      "id": "68",
+      "code": "68",
+      "name": "Aksaray",
+      "country_id": "1"
+    },
+    {
+      "id": "69",
+      "code": "69",
+      "name": "Bayburt",
+      "country_id": "1"
+    },
+    {
+      "id": "70",
+      "code": "70",
+      "name": "Karaman",
+      "country_id": "1"
+    },
+    {
+      "id": "71",
+      "code": "71",
+      "name": "Kırıkkale",
+      "country_id": "1"
+    },
+    {
+      "id": "72",
+      "code": "72",
+      "name": "Batman",
+      "country_id": "1"
+    },
+    {
+      "id": "73",
+      "code": "73",
+      "name": "Şırnak",
+      "country_id": "1"
+    },
+    {
+      "id": "74",
+      "code": "74",
+      "name": "Bartın",
+      "country_id": "1"
+    },
+    {
+      "id": "75",
+      "code": "75",
+      "name": "Ardahan",
+      "country_id": "1"
+    },
+    {
+      "id": "76",
+      "code": "76",
+      "name": "Iğdır",
+      "country_id": "1"
+    },
+    {
+      "id": "77",
+      "code": "77",
+      "name": "Yalova",
+      "country_id": "1"
+    },
+    {
+      "id": "78",
+      "code": "78",
+      "name": "Karabük",
+      "country_id": "1"
+    },
+    {
+      "id": "79",
+      "code": "79",
+      "name": "Kilis",
+      "country_id": "1"
+    },
+    {
+      "id": "80",
+      "code": "80",
+      "name": "Osmaniye",
+      "country_id": "1"
+    },
+    {
+      "id": "81",
+      "code": "81",
+      "name": "Düzce",
+      "country_id": "1"
+    }
+  ],
+  "Genres": [
+    {
+      "id": "1",
+      "code": "NE",
+      "name": "News",
+      "codeDE": "NA",
+      "nameDE": "Nachrichten",
+      "codeTR": "HA",
+      "nameTR": "Haber",
+      "backcolor": "FF0000",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "2",
+      "code": "FM",
+      "name": "Folk Music",
+      "codeDE": "VM",
+      "nameDE": "Volksmusik",
+      "codeTR": "HM",
+      "nameTR": "Halk Müziği",
+      "backcolor": "FFC107",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "3",
+      "code": "PO",
+      "name": "Pop",
+      "codeDE": "PO",
+      "nameDE": "Pop",
+      "codeTR": "PO",
+      "nameTR": "Pop",
+      "backcolor": "AE00FF",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "4",
+      "code": "NO",
+      "name": "Nostalgie",
+      "codeDE": "NO",
+      "nameDE": "Nostalgie",
+      "codeTR": "NO",
+      "nameTR": "Nostalji",
+      "backcolor": "8B4B2B",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "5",
+      "code": "AR",
+      "name": "Arabesque",
+      "codeDE": "AR",
+      "nameDE": "Arabeske",
+      "codeTR": "AR",
+      "nameTR": "Arabesk",
+      "backcolor": "404040",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "6",
+      "code": "SL",
+      "name": "Slow",
+      "codeDE": "SL",
+      "nameDE": "Slow",
+      "codeTR": "SL",
+      "nameTR": "Slow",
+      "backcolor": "FF0077",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "7",
+      "code": "RO",
+      "name": "Rock",
+      "codeDE": "RO",
+      "nameDE": "Rock",
+      "codeTR": "RO",
+      "nameTR": "Rock",
+      "backcolor": "A000A5",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "8",
+      "code": "RE",
+      "name": "Religious",
+      "codeDE": "RE",
+      "nameDE": "Religiös",
+      "codeTR": "DI",
+      "nameTR": "Dini",
+      "backcolor": "00B427",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "9",
+      "code": "RA",
+      "name": "Rap",
+      "codeDE": "RA",
+      "nameDE": "Rap",
+      "codeTR": "RA",
+      "nameTR": "Rap",
+      "backcolor": "0066B4",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "10",
+      "code": "IN",
+      "name": "International",
+      "codeDE": "IN",
+      "nameDE": "International",
+      "codeTR": "YA",
+      "nameTR": "Yabancı",
+      "backcolor": "202020",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "11",
+      "code": "JZ",
+      "name": "Jazz",
+      "codeDE": "JZ",
+      "nameDE": "Jazz",
+      "codeTR": "JZ",
+      "nameTR": "Jazz",
+      "backcolor": "E4B829",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "13",
+      "code": "PM",
+      "name": "Poem",
+      "codeDE": "GD",
+      "nameDE": "Gedicht",
+      "codeTR": "SI",
+      "nameTR": "Şiir",
+      "backcolor": "00CFC5",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "14",
+      "code": "SP",
+      "name": "Sport",
+      "codeDE": "SP",
+      "nameDE": "Sport",
+      "codeTR": "SP",
+      "nameTR": "Spor",
+      "backcolor": "E9D900",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "15",
+      "code": "CL",
+      "name": "Classical",
+      "codeDE": "KL",
+      "nameDE": "Klassik",
+      "codeTR": "KL",
+      "nameTR": "Klasik",
+      "backcolor": "B4331D",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "16",
+      "code": "UN",
+      "name": "Unplugged",
+      "codeDE": "AK",
+      "nameDE": "Akustik",
+      "codeTR": "AK",
+      "nameTR": "Akustik",
+      "backcolor": "00D624",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "17",
+      "code": "TM",
+      "name": "Turkish Art Music",
+      "codeDE": "TK",
+      "nameDE": "Türk. Kunstmusik",
+      "codeTR": "TM",
+      "nameTR": "Türk Sanat Müziği",
+      "backcolor": "E08600",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "18",
+      "code": "CP",
+      "name": "Campus",
+      "codeDE": "CP",
+      "nameDE": "Campus",
+      "codeTR": "KP",
+      "nameTR": "Kampüs",
+      "backcolor": "FBFBFB",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "19",
+      "code": "BB",
+      "name": "Baby",
+      "codeDE": "BB",
+      "nameDE": "Baby",
+      "codeTR": "BB",
+      "nameTR": "Bebek",
+      "backcolor": "E5E500",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "20",
+      "code": "WM",
+      "name": "World Music",
+      "codeDE": "WM",
+      "nameDE": "Weltmusik",
+      "codeTR": "DM",
+      "nameTR": "Dünya Müziği",
+      "backcolor": "0026E5",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "21",
+      "code": "OM",
+      "name": "Original Music",
+      "codeDE": "OM",
+      "nameDE": "Originelle Musik",
+      "codeTR": "OM",
+      "nameTR": "Özgün Müzik",
+      "backcolor": "A82400",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "22",
+      "code": "BL",
+      "name": "Black Sea",
+      "codeDE": "SM",
+      "nameDE": "Schwarzes Meer",
+      "codeTR": "KM",
+      "nameTR": "Karadeniz Müziği",
+      "backcolor": "00BC06",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "23",
+      "code": "AT",
+      "name": "Artist",
+      "codeDE": "KU",
+      "nameDE": "Künstler",
+      "codeTR": "SA",
+      "nameTR": "Sanatçı",
+      "backcolor": "FFEB3B",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "24",
+      "code": "TH",
+      "name": "Thematic",
+      "codeDE": "TH",
+      "nameDE": "Thematisch",
+      "codeTR": "TE",
+      "nameTR": "Tematik",
+      "backcolor": "D84315",
+      "forecolor": "FFFFFF"
+    },
+    {
+      "id": "25",
+      "code": "DA",
+      "name": "Dance Music",
+      "codeDE": "TA",
+      "nameDE": "Tanzmusik",
+      "codeTR": "OH",
+      "nameTR": "Oyun Havası",
+      "backcolor": "FF5722",
+      "forecolor": "FFFFFF"
+    }
+  ]
+}
